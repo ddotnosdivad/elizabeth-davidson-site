@@ -70,9 +70,29 @@ schemaAgent: true
   <div class="wrap">
     <h2 class="script">Featured Listings</h2>
     <p class="center">Ready to start your home search? Check out my newest listings below!</p>
-    <iframe src="{{ site.featuredListingsFeed }}" title="Featured listings from Cascade Hasson Sotheby's International Realty" loading="lazy"></iframe>
+    <div class="listings-crop" data-listings>
+      <iframe src="{{ site.featuredListingsFeed }}" title="Featured listings from Cascade Hasson Sotheby's International Realty" loading="lazy" scrolling="no" tabindex="-1"></iframe>
+      <a href="/properties" aria-label="See all my listings"></a>
+    </div>
+    <p class="center"><a class="btn btn-slate" href="/properties">See All My Listings</a></p>
   </div>
 </section>
+<script>
+  // The brokerage feed page has its own header and footer. Render it at a fixed
+  // 1100px desktop width, scale it to the box, and crop to the first row of cards.
+  (() => {
+    const box = document.querySelector('[data-listings]');
+    const frame = box.querySelector('iframe');
+    const WIDTH = 1100, TOP = 330, ROW = 390;
+    const fit = () => {
+      const s = box.clientWidth / WIDTH;
+      box.style.height = ROW * s + 'px';
+      frame.style.transform = `translateY(${-TOP * s}px) scale(${s})`;
+    };
+    fit();
+    addEventListener('resize', fit);
+  })();
+</script>
 
 <section id="testimonials">
   <div class="band center">
