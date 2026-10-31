@@ -2,7 +2,7 @@
 title: "The Most Desirable Luxury Neighborhoods in Portland & Lake Oswego"
 date: 2025-12-06
 description: "Where sophistication, natural beauty, and Northwest charm meet."
-image: "https://static.wixstatic.com/media/e2dd7e_7fecbe7bdbbd4933a8b9904f97857d39~mv2.jpg"
+image: "/assets/img/blog/wix/e2dd7e_7fecbe7bdbbd4933a8b9904f97857d39.webp"
 section: city-guides
 cities: ["Portland","Lake Oswego"]
 wixTags: ["portland real estate","#HomeSellingTips","lake oswego realtor","2025 real estate market","Choosing the Right Neighborhood"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/the-most-desirable-luxury-neighb
 ---
 *Where sophistication, natural beauty, and Northwest charm meet.*
 
-![Lake Oswego](https://static.wixstatic.com/media/e2dd7e_7fecbe7bdbbd4933a8b9904f97857d39~mv2.jpg)
+![Lake Oswego](/assets/img/blog/wix/e2dd7e_7fecbe7bdbbd4933a8b9904f97857d39.webp)
 
 Portland and Lake Oswego have long been recognized for offering some of the most exquisite luxury living experiences in the Pacific Northwest. From elegant lakefront estates to private forested retreats just minutes from the city, our region attracts buyers seeking serenity, architectural excellence, and a lifestyle that blends refinement with nature.
 

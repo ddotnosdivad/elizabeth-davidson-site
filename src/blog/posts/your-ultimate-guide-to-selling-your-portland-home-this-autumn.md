@@ -2,7 +2,7 @@
 title: "Your Ultimate Guide to Selling Your Portland Home This Autumn"
 date: 2024-10-10
 description: "Hey there, Portland homeowners! 🍂 Ready to trade your cozy abode for something new? As the leaves turn and the air gets crisp, you might think that fall is…"
-image: "https://static.wixstatic.com/media/11062b_f602e3b2e5424f7f9ecf166afd478c25~mv2.jpeg"
+image: "/assets/img/blog/wix/11062b_f602e3b2e5424f7f9ecf166afd478c25.webp"
 section: buying-selling
 cities: []
 wixTags: []
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/your-ultimate-guide-to-selling-y
 ---
 Hey there, Portland homeowners! 🍂 Ready to trade your cozy abode for something new? As the leaves turn and the air gets crisp, you might think that fall is a time for pumpkin spice lattes and cozy sweaters, but it’s also a fantastic time to sell your home! Here’s why autumn in the Rose City is the perfect season to put your property on the market, along with some tips to help you stand out.
 
-![fall home decor](https://static.wixstatic.com/media/11062b_ed0d5fea858b4f399eb355f1acba1acf~mv2.jpeg)
+![fall home decor](/assets/img/blog/wix/11062b_ed0d5fea858b4f399eb355f1acba1acf.webp)
 
 ## Why Sell in the Fall?
 
@@ -48,7 +48,7 @@ Buyers will appreciate a well-prepared seller. Have your disclosures, warranties
 
 ## Let’s Make This Fall a Fun One!
 
-![](https://static.wixstatic.com/media/11062b_f602e3b2e5424f7f9ecf166afd478c25~mv2.jpeg)
+![](/assets/img/blog/wix/11062b_f602e3b2e5424f7f9ecf166afd478c25.webp)
 
 Selling your home in Portland during the fall doesn’t have to be stressful. With the right approach and a bit of seasonal flair, you can attract buyers who’ll fall in love with your property. If you’re ready to make a move or have questions about the selling process, I’m here to help!
 

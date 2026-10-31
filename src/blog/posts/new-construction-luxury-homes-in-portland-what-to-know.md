@@ -2,7 +2,7 @@
 title: "New Construction Luxury Homes in Portland: What to Know"
 date: 2026-06-13
 description: "There’s something undeniably exciting about a brand-new luxury home—the clean lines, the untouched finishes, the feeling that everything was designed just…"
-image: "https://static.wixstatic.com/media/11062b_012254bad63d4563ab1e1d50c709685a~mv2.jpg"
+image: "/assets/img/blog/wix/11062b_012254bad63d4563ab1e1d50c709685a.webp"
 section: buying-selling
 cities: []
 wixTags: ["best portland realtor","portland new construction"]
@@ -14,7 +14,7 @@ In Portland, new construction luxury homes offer a unique blend of modern design
 
 If you’re considering a newly built luxury home in Portland, here’s what you need to know.
 
-![](https://static.wixstatic.com/media/11062b_8a52bb22e04c44d3aaf1edff23df0452~mv2.jpg)
+![](/assets/img/blog/wix/11062b_8a52bb22e04c44d3aaf1edff23df0452.webp)
 
 ## Why New Construction Is So Appealing
 
@@ -46,7 +46,7 @@ Unlike some cities with large-scale luxury developments, Portland’s new constr
 
 **Alameda, Irvington, and Eastside Pockets** Here, you’ll see a mix of modern infill projects and luxury rebuilds—ideal for buyers who want newer construction but still crave close-in city living.
 
-![](https://static.wixstatic.com/media/11062b_6979284848dc4d35ada41b22fc945dc3~mv2.jpg)
+![](/assets/img/blog/wix/11062b_6979284848dc4d35ada41b22fc945dc3.webp)
 
 ## Custom Build vs. Spec Home
 
@@ -58,7 +58,7 @@ Not all new construction is created equal.
 
 The tradeoff? Time and decision-making. Custom builds can take 12–24 months (or longer), but the end result is completely personalized.
 
-![](https://static.wixstatic.com/media/c2a99153f2b44e7a86654564e2f74114.jpg)
+![](/assets/img/blog/wix/c2a99153f2b44e7a86654564e2f74114.webp)
 
 ## The Hidden Details That Matter
 

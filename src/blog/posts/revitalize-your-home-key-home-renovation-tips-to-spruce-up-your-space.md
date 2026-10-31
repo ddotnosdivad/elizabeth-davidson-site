@@ -2,13 +2,13 @@
 title: "Revitalize Your Home: Key Home Renovation Tips to Spruce Up Your Space!"
 date: 2024-03-31
 description: "Hey there, fellow home enthusiasts!"
-image: "https://static.wixstatic.com/media/edcb2e19a98747b6a0cf1cadbbae0a3e.jpg"
+image: "/assets/img/blog/wix/edcb2e19a98747b6a0cf1cadbbae0a3e.webp"
 section: home-tips
 cities: []
 wixTags: ["portland","portland real estate","best portland realtor","best real estate agent in portland","Luxury real estate","portland guide","home decor","home design","paint colors","renovation costs","home renovation tips","remodel"]
 wixUrl: "https://www.elizabethdavidson.com/post/revitalize-your-home-key-home-renovation-tips-to-spruce-up-your-space"
 ---
-![Home Renovation Tips](https://static.wixstatic.com/media/edcb2e19a98747b6a0cf1cadbbae0a3e.jpg)
+![Home Renovation Tips](/assets/img/blog/wix/edcb2e19a98747b6a0cf1cadbbae0a3e.webp)
 
 Hey there, fellow home enthusiasts!
 
@@ -28,10 +28,10 @@ Are you ready to take your home from drab to fab? Whether you're gearing up to s
 
 7.  **Plan for the Future:** As you embark on your renovation journey, think long-term. Choose durable materials that will stand the test of time and design a space that can adapt to your evolving needs. Flexibility is key when it comes to future-proofing your home.  
 
-![Renovation Costs](https://static.wixstatic.com/media/e2dd7e_ce69ea76c30a4861a51f7ea86ac17c82~mv2.jpeg)
+![Renovation Costs](/assets/img/blog/wix/e2dd7e_ce69ea76c30a4861a51f7ea86ac17c82.webp)
 
 Remember, renovating your home is not just about increasing its value—it's about creating a space that reflects your personality and enhances your quality of life. So, roll up your sleeves, unleash your creativity, and let's make your dream home a reality!
 
 Happy renovating and I hope you enjoyed these home renovation tips!
 
-![Home Renovation Tips](https://static.wixstatic.com/media/ea19c5dba2c4441992b2dd3b0060f9b2.jpg)
+![Home Renovation Tips](/assets/img/blog/wix/ea19c5dba2c4441992b2dd3b0060f9b2.webp)

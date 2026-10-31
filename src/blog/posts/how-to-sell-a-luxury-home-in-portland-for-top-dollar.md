@@ -2,7 +2,7 @@
 title: "How to Sell a Luxury Home in Portland for Top Dollar"
 date: 2026-05-12
 description: "Selling a luxury home is a completely different strategy than selling an average property—especially in a nuanced market like Portland. Today’s high-end…"
-image: "https://static.wixstatic.com/media/47fbfcc726d3493a819738ea5a710c98.jpg"
+image: "/assets/img/blog/wix/47fbfcc726d3493a819738ea5a710c98.webp"
 section: buying-selling
 cities: []
 wixTags: ["#RealEstateGoals","#HomeSellingTips"]
@@ -12,7 +12,7 @@ Selling a luxury home is a completely different strategy than selling an average
 
 Here’s how to stand out and maximize your return in Portland’s luxury market.
 
-![](https://static.wixstatic.com/media/47fbfcc726d3493a819738ea5a710c98.jpg)
+![](/assets/img/blog/wix/47fbfcc726d3493a819738ea5a710c98.webp)
 
 ## 🏡 1. Price Strategically from Day One
 
@@ -36,7 +36,7 @@ That means:
 
 In neighborhoods near Forest Park or throughout the West Hills, showcasing views, natural surroundings, and indoor-outdoor living is especially powerful.
 
-![](https://static.wixstatic.com/media/11062b_0e78a685c628487d99389541cd8736c7~mv2.jpg)
+![](/assets/img/blog/wix/11062b_0e78a685c628487d99389541cd8736c7.webp)
 
 ## 🎯 3. Market Beyond the MLS
 
@@ -70,7 +70,7 @@ Does your property offer:
 
 Your marketing should tell that story clearly and visually.
 
-![](https://static.wixstatic.com/media/11062b_a6e7ba2b1f1c4edc89a4ddb9b6ae395a~mv2.jpg)
+![](/assets/img/blog/wix/11062b_a6e7ba2b1f1c4edc89a4ddb9b6ae395a.webp)
 
 ## 🧠 5. Understand Today’s Luxury Buyer
 
@@ -102,7 +102,7 @@ Focus on:
 
 The key is to invest where buyers notice—and where returns are highest.
 
-![](https://static.wixstatic.com/media/11062b_ee5add250ee643d1abc55ec22f16cf66~mv2.jpg)
+![](/assets/img/blog/wix/11062b_ee5add250ee643d1abc55ec22f16cf66.webp)
 
 ## 🤝 7. Work with a Luxury Market Expert
 

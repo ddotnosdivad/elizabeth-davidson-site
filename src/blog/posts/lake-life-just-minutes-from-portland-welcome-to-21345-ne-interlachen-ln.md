@@ -2,7 +2,7 @@
 title: "Lake Life, Just Minutes from Portland: Welcome to 21345 NE Interlachen Ln"
 date: 2026-08-18
 description: "Who says you have to leave town to enjoy a waterfront escape?"
-image: "https://static.wixstatic.com/media/e2dd7e_c2301a0ab91943db978176e445df0a91~mv2.jpg"
+image: "/assets/img/blog/wix/e2dd7e_c2301a0ab91943db978176e445df0a91.webp"
 section: featured-listings
 cities: ["Fairview"]
 wixTags: ["#bestportlandrealtor","bluelake"]
@@ -14,7 +14,7 @@ At **21345 NE Interlachen Ln in Fairview**, everyday life comes with a little mo
 
 Listed by **Elizabeth Davidson**, this charming 4-bedroom, 2-bath home offers approximately 2,316 square feet of living space and a lifestyle that is anything but ordinary.
 
-![](https://static.wixstatic.com/media/e2dd7e_c2301a0ab91943db978176e445df0a91~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_c2301a0ab91943db978176e445df0a91.webp)
 
 ## Your Own Private Slice of Blue Lake
 

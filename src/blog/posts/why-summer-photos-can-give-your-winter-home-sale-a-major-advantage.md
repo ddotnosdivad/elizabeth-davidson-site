@@ -2,7 +2,7 @@
 title: "Why Summer Photos Can Give Your Winter Home Sale a Major Advantage"
 date: 2026-08-12
 description: "If you’re thinking about selling your Portland-area home this winter, you may not realize that Summer is one of the best times to capture your home’s…"
-image: "https://static.wixstatic.com/media/e2dd7e_8e2a8dfbf68e415da93745f40fecd1cd~mv2.jpg"
+image: "/assets/img/blog/wix/e2dd7e_8e2a8dfbf68e415da93745f40fecd1cd.webp"
 section: buying-selling
 cities: []
 wixTags: ["#bestportlandrealtor","#realestate","Lake Oswego","Local Real Estate Experts in Portland","#luxuryhome"]
@@ -14,7 +14,7 @@ While you may plan to put your home on the market months from now, preparing you
 
 Professional listing photography is often a buyer’s first impression of a home online, making those images one of the most important pieces of your marketing strategy.
 
-![](https://static.wixstatic.com/media/e2dd7e_8e2a8dfbf68e415da93745f40fecd1cd~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_8e2a8dfbf68e415da93745f40fecd1cd.webp)
 
 ## Capture Your Home at Its Seasonal Best
 
@@ -24,7 +24,7 @@ Lawns are green, gardens are blooming, trees are full, patios are ready for ente
 
 By photographing your home while everything is green and flourishing, you can preserve that Summer appeal and use those images when you are ready to list—even if that happens in December or January.
 
-![](https://static.wixstatic.com/media/e2dd7e_5de48aad64bb4a5fbd757e4dd03bd3bc~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_5de48aad64bb4a5fbd757e4dd03bd3bc.webp)
 
 ## Showcase Outdoor Spaces Before Winter Arrives
 
@@ -74,7 +74,7 @@ Longer days and brighter conditions provide a photographer with more opportuniti
 
 By comparison, Portland's Winter days are shorter and often gray or rainy, making ideal photography conditions harder to come by. Local real estate guidance also emphasizes the importance of professional photography and waiting for favorable light when showcasing Portland homes.
 
-![](https://static.wixstatic.com/media/e2dd7e_f31ca04606bd48f0abb6f74f0b936064~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_f31ca04606bd48f0abb6f74f0b936064.webp)
 
 ## Create Your Marketing Library Before You Need It
 
@@ -110,7 +110,7 @@ And there is another benefit: **Summer preparation can reveal projects you may w
 
 Perhaps the landscaping needs attention. Maybe the exterior needs a fresh coat of paint, the deck needs staining or the front entrance could use an update. Seeing your home through a professional photographer's lens can help identify details that may be worth addressing before you go to market.
 
-![](https://static.wixstatic.com/media/e2dd7e_96805a13990447868dbaff3913f99199~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_96805a13990447868dbaff3913f99199.webp)
 
 ## Your Winter Listing Can Still Feel Warm and Inviting
 

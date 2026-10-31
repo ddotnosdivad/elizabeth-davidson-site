@@ -2,7 +2,7 @@
 title: "Things to do in Portland on New Year's Day!"
 date: 2023-12-28
 description: "Hey there, fabulous Portlanders! As we bid adieu to the old and welcome the new, it's time to kick off the year with a bang in our beloved city of roses.…"
-image: "https://static.wixstatic.com/media/11062b_baf51311d4ab4ab9a9e5eb46f1bf9306~mv2.jpg"
+image: "/assets/img/blog/wix/11062b_baf51311d4ab4ab9a9e5eb46f1bf9306.webp"
 section: city-guides
 cities: ["Portland"]
 wixTags: ["portland oregon","things to do in portland","live music portland","portland new years day","portland jazz clubs","portland brunch spots","outdoor activities portland","ugly sweater","portland music month","hiking trails in portland","new years day"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/things-to-do-in-portland-on-new-
 ---
 Hey there, fabulous Portlanders! As we bid adieu to the old and welcome the new, it's time to kick off the year with a bang in our beloved city of roses. Whether you're a proud Portland local or just visiting, I've got the scoop on the most fantastic ways to spend New Year's Day in our quirky and vibrant city.
 
-![new years](https://static.wixstatic.com/media/11062b_baf51311d4ab4ab9a9e5eb46f1bf9306~mv2.jpg)
+![new years](/assets/img/blog/wix/11062b_baf51311d4ab4ab9a9e5eb46f1bf9306.webp)
 
 **St. Johns Ugly Sweater Holiday Window Displays**: Join one of Portland’s most charming neighborhoods and Light Up St. Johns with Ugly Sweater Holiday Celebrations. The St. Johns Boosters and local businesses present a series of celebrations to revel in the most festive of seasons: 
 

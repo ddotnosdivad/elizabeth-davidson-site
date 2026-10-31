@@ -2,7 +2,7 @@
 title: "Welcome Home to 9174 SW Waverly Dr: A Portland Gem Near Cook Park"
 date: 2025-10-14
 description: "If you’re searching for a home that blends comfort, style, and a connection to nature, 9174 SW Waverly Drive is a standout. Nestled near Cook Park, this…"
-image: "https://static.wixstatic.com/media/e2dd7e_ec1f754d12694eaa9d9f9d8ac1e20f54~mv2.jpg"
+image: "/assets/img/blog/wix/e2dd7e_ec1f754d12694eaa9d9f9d8ac1e20f54.webp"
 section: featured-listings
 cities: ["Tigard"]
 wixTags: ["portland home for sale"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/welcome-home-to-9174-sw-waverly-
 ---
 If you’re searching for a home that blends comfort, style, and a connection to nature, 9174 SW Waverly Drive is a standout. Nestled near Cook Park, this spacious residence invites you into a bright, thoughtfully updated home with features that check nearly every box. Below, I’ll walk you through the highlights, the neighborhood charm, and why this property deserves serious consideration.
 
-![](https://static.wixstatic.com/media/e2dd7e_ec1f754d12694eaa9d9f9d8ac1e20f54~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_ec1f754d12694eaa9d9f9d8ac1e20f54.webp)
 
 ### 🏡 Property Highlights at a Glance
 
@@ -24,7 +24,7 @@ If you’re searching for a home that blends comfort, style, and a connection to
 
 -   **Year Built / Style:** Built in 1995, a blend of conventional and daylight-ranch / traditional elements
 
-![](https://static.wixstatic.com/media/e2dd7e_7e03782b54a642f4a9901221e46f53b0~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_7e03782b54a642f4a9901221e46f53b0.webp)
 
 ### Interior & Upgrades — Light, Layout & Luxury
 
@@ -32,11 +32,11 @@ From the moment you step inside, the home feels open, airy, and full of natural 
 
 **Main-Level Primary Suite** One of the most compelling features is the primary suite on the main floor — ideal for buyers wanting fewer stairs or a more accessible layout.
 
-![](https://static.wixstatic.com/media/e2dd7e_a40d540b201041118288173c11f04014~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_a40d540b201041118288173c11f04014.webp)
 
 **Gourmet Kitchen**The kitchen has been refreshed with custom cabinetry, new countertops and backsplash, floating shelves, and upgraded appliances. The gas range adds appeal for culinary enthusiasts.
 
-![](https://static.wixstatic.com/media/e2dd7e_3b3d536369d14bf896b3a470de7be896~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_3b3d536369d14bf896b3a470de7be896.webp)
 
 **Upper-Level Charm**Upstairs you’ll find new luxury vinyl plank flooring, a refreshed half bath (modern vanity, clean design), and bonus space for guests or children.
 
@@ -62,7 +62,7 @@ The lot is generous, with mature landscaping that offers privacy and a sense of 
 
 Schools serving this area include **Durham Elementary**, **Twality Middle**, and **Tigard High** — a strong draw for families.
 
-![](https://static.wixstatic.com/media/e2dd7e_9c964406c9e84fbc915b292e15932063~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_9c964406c9e84fbc915b292e15932063.webp)
 
 ### Why This Home Stands Out
 

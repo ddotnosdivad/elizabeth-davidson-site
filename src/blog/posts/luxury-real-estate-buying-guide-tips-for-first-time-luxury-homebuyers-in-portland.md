@@ -2,7 +2,7 @@
 title: "Luxury Real Estate Buying Guide: Tips for First-Time Luxury Homebuyers in Portland"
 date: 2023-10-17
 description: "Portland, Oregon, with its unique blend of natural beauty, cultural richness, and thriving real estate market, is an enticing destination for luxury…"
-image: "https://static.wixstatic.com/media/e2dd7e_3d6a6a9a010847499ef2fe65978c41e6~mv2.jpg"
+image: "/assets/img/blog/wix/e2dd7e_3d6a6a9a010847499ef2fe65978c41e6.webp"
 section: buying-selling
 cities: []
 wixTags: ["portland real estate","best realtor in portland","luxury homes","portland homes","luxury real estate","dream home","home buying guide","home buying tips","first time home buyer"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/luxury-real-estate-buying-guide-
 ---
 *Portland, Oregon, with its unique blend of natural beauty, cultural richness, and thriving real estate market, is an enticing destination for luxury homebuyers. As a seasoned luxury real estate broker in this dynamic city, I understand that entering the luxury market can be both exhilarating and daunting, especially for first-time buyers. In this comprehensive guide, I'll share valuable insights and tips to help you navigate the world of luxury real estate in Portland with confidence.*
 
-![](https://static.wixstatic.com/media/e2dd7e_3d6a6a9a010847499ef2fe65978c41e6~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_3d6a6a9a010847499ef2fe65978c41e6.webp)
 
 **1\. Define Your Luxury Lifestyle:**
 

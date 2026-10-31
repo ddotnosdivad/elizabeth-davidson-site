@@ -2,7 +2,7 @@
 title: "Behind the Scenes: What It’s Like Working With a High-End Realtor® in Lake Oswego and Portland, OR"
 date: 2026-04-28
 description: "Buying or selling a luxury home in Portland or Lake Oswego isn’t your typical real estate transaction. These properties are unique, buyers are discerning,…"
-image: "https://static.wixstatic.com/media/11062b_0367c30afeaa4e9484dbcbff60977ff8~mv2.jpg"
+image: "/assets/img/blog/wix/11062b_0367c30afeaa4e9484dbcbff60977ff8.webp"
 section: buying-selling
 cities: []
 wixTags: ["#bestportlandrealtor","#HomeSellingTips","#realestate"]
@@ -12,7 +12,7 @@ Buying or selling a luxury home in **Portland** or **Lake Oswego** isn’t you
 
 Here’s an insider look at what it’s really like to work with a luxury real estate specialist, like me, in the Portland metro area.
 
-![](https://static.wixstatic.com/media/11062b_0367c30afeaa4e9484dbcbff60977ff8~mv2.jpg)
+![](/assets/img/blog/wix/11062b_0367c30afeaa4e9484dbcbff60977ff8.webp)
 
 ## 1\. Strategic Market Insights
 
@@ -52,7 +52,7 @@ Luxury transactions aren’t just bigger — they’re more nuanced. I coordinat
 
 The goal is to make the process feel effortless while maximizing results.
 
-![](https://static.wixstatic.com/media/13eefd27e5a543a688fff990b0adb35b.jpg)
+![](/assets/img/blog/wix/13eefd27e5a543a688fff990b0adb35b.webp)
 
 ## 4\. Negotiation Expertise & Market Savvy
 
@@ -80,7 +80,7 @@ High-end clients don’t just purchase square footage — they invest in lifesty
 
 Luxury real estate is about aligning property features with life priorities — and that requires careful guidance.
 
-![](https://static.wixstatic.com/media/11062b_15a65af8b543487195e6e0ee721cf368~mv2.jpg)
+![](/assets/img/blog/wix/11062b_15a65af8b543487195e6e0ee721cf368.webp)
 
 ## 6\. Attention to Detail — From Listing to Closing
 

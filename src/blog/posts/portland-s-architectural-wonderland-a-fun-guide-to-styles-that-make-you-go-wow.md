@@ -2,7 +2,7 @@
 title: "Portland's Architectural Wonderland: A Fun Guide to Styles That Make You Go \"Wow!\""
 date: 2024-02-15
 description: "Hey there, Portland pals and architecture aficionados! Ready to embark on a whimsical journey through the eclectic and enchanting world of Portland's…"
-image: "https://static.wixstatic.com/media/422cf6621f685161837661409958801b.jpg"
+image: "/assets/img/blog/wix/422cf6621f685161837661409958801b.webp"
 section: city-guides
 cities: ["Portland"]
 wixTags: ["pdx","portland oregon","home design","mid century modern","sustainable","historic design","victorian","pacific northwest","portland architecture","architecture styles","classic","architecture","bungalow","home style","northwest style","craftsman","design"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/portland-s-architectural-wonderl
 ---
 Hey there, Portland pals and architecture aficionados! Ready to embark on a whimsical journey through the eclectic and enchanting world of Portland's architectural styles? Buckle up, because we're about to dive into a kaleidoscope of designs that'll make you say, "Keep Portland weird—and wonderful!"
 
-![Victorian Architecture](https://static.wixstatic.com/media/422cf6621f685161837661409958801b.jpg)
+![Victorian Architecture](/assets/img/blog/wix/422cf6621f685161837661409958801b.webp)
 
 1.  Victorian Vibes: Picture-perfect and oh-so-charming, Victorian homes add a touch of nostalgia to Portland's streetscapes. Think colorful exteriors, intricate woodwork, and whimsical details straight out of a storybook. From Queen Anne beauties with turrets and gables to Italianate stunners with ornate trimmings, these architectural gems exude vintage charm and timeless appeal.  
 
@@ -22,6 +22,6 @@ Hey there, Portland pals and architecture aficionados! Ready to embark on a whim
 
 5.  Sustainable Chic: Green is the new black, and Portland is leading the charge with sustainable architecture that's as eco-friendly as it is stylish. From passive solar designs and green roofs to reclaimed materials and energy-efficient systems, eco-conscious homes are all the rage. Live in harmony with nature while reducing your carbon footprint—now that's what we call a win-win!  
 
-![Portland Architecture](https://static.wixstatic.com/media/11062b_767974a5d4c844208ab6b14b3075169a~mv2.jpg)
+![Portland Architecture](/assets/img/blog/wix/11062b_767974a5d4c844208ab6b14b3075169a.webp)
 
 So there you have it, folks—a whirlwind tour of Portland's architectural wonderland! Whether you're drawn to the timeless elegance of Victorian homes, the cozy charm of Craftsman bungalows, or the retro cool of Mid-Century Modern gems, there's a style to suit every taste and personality. So, grab your walking shoes, hit the streets, and let the adventure begin! Who knows what architectural treasures you'll discover around the next corner?

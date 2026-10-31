@@ -2,7 +2,7 @@
 title: "15655 SW Greenfield Dr. | Portland, OR 97224"
 date: 2026-04-17
 description: "5 BED | 2.5 BATH | 3,177 SQ. FT."
-image: "https://static.wixstatic.com/media/e2dd7e_a8671b2ece8c4705a83a7bd726bf18cf~mv2.jpg"
+image: "/assets/img/blog/wix/e2dd7e_a8671b2ece8c4705a83a7bd726bf18cf.webp"
 section: featured-listings
 cities: ["Portland"]
 wixTags: []
@@ -14,7 +14,7 @@ Some homes feel nice. Others feel *right* the second you pull up—and my newes
 
 I’m so excited to share this one with you, because it has that perfect blend of comfort, personality, and everyday livability that’s getting harder and harder to find. It’s not just a house—it’s the kind of place that quietly fits into your life and makes everything feel a little easier (and a lot more enjoyable).
 
-![](https://static.wixstatic.com/media/e2dd7e_a8671b2ece8c4705a83a7bd726bf18cf~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_a8671b2ece8c4705a83a7bd726bf18cf.webp)
 
 **A Location That Just Works**
 
@@ -26,7 +26,7 @@ Think quick errands, easy commutes, nearby parks, and those go-to local spots yo
 
 From the moment you arrive, there’s an inviting presence to this home. It’s welcoming without trying too hard—clean lines, thoughtful details, and a look that says, “come on in.” And trust me… you’ll want to.
 
-![](https://static.wixstatic.com/media/e2dd7e_a4105be51f3a41d6a0bd98a8be232b83~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_a4105be51f3a41d6a0bd98a8be232b83.webp)
 
 **A Layout That Lives Well**
 
@@ -40,7 +40,7 @@ The kitchen is right where it should be—at the heart of it all. It’s designe
 
 This is where weekday routines and weekend memories collide. Morning coffee, late-night snacks, holiday cooking, takeout nights—it all happens here, and it all just works.
 
-![](https://static.wixstatic.com/media/e2dd7e_f05ee0bca7574d7c912c722a6fd5a464~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_f05ee0bca7574d7c912c722a6fd5a464.webp)
 
 **Space to Recharge**
 
@@ -48,7 +48,7 @@ When it’s time to wind down, the private areas of the home offer a calm, comfo
 
 It’s easy to imagine settling in, slowing down, and truly relaxing here.
 
-![](https://static.wixstatic.com/media/e2dd7e_199bbbd86aef40de85f821285e20609e~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_199bbbd86aef40de85f821285e20609e.webp)
 
 **Outdoor Potential You’ll Love**
 
@@ -64,7 +64,7 @@ And that’s what makes it special.
 
 It’s the kind of home where nothing feels forced, everything feels usable, and life simply fits.
 
-![](https://static.wixstatic.com/media/e2dd7e_c220447a07b44bbb9fe82a81f800d473~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_c220447a07b44bbb9fe82a81f800d473.webp)
 
 **Let’s Be Honest…**
 

@@ -2,13 +2,13 @@
 title: "Stylish, Updated Living in the Heart of Murray Hill"
 date: 2026-07-19
 description: "3 BED | 2.5 BATH | 2,076 SQ. FT."
-image: "https://static.wixstatic.com/media/e2dd7e_8d90009637de481c83743b0b4e6e7681~mv2.png"
+image: "/assets/img/blog/wix/e2dd7e_8d90009637de481c83743b0b4e6e7681.webp"
 section: featured-listings
 cities: ["Beaverton"]
 wixTags: []
 wixUrl: "https://www.elizabethdavidson.com/post/stylish-updated-living-in-the-heart-of-murray-hill"
 ---
-![](https://static.wixstatic.com/media/e2dd7e_8d90009637de481c83743b0b4e6e7681~mv2.png)
+![](/assets/img/blog/wix/e2dd7e_8d90009637de481c83743b0b4e6e7681.webp)
 
 3 BED | 2.5 BATH | 2,076 SQ. FT.
 

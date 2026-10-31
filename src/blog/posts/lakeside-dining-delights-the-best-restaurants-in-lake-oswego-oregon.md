@@ -2,7 +2,7 @@
 title: "Lakeside Dining Delights: The Best Restaurants in Lake Oswego, Oregon"
 date: 2023-10-24
 description: "Greetings, fellow luxury enthusiasts and epicurean adventurers! While I typically guide you through the opulent world of real estate, today we're diving…"
-image: "https://static.wixstatic.com/media/e2dd7e_7fecbe7bdbbd4933a8b9904f97857d39~mv2.jpg"
+image: "/assets/img/blog/wix/e2dd7e_7fecbe7bdbbd4933a8b9904f97857d39.webp"
 section: city-guides
 cities: ["Lake Oswego"]
 wixTags: ["portland real estate","best portland realtor","portland oregon","lake oswego","best restaurants","real estate agent","best restaurants in portland","portland real estate broker"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/lakeside-dining-delights-the-bes
 ---
 *Greetings, fellow luxury enthusiasts and epicurean adventurers! While I typically guide you through the opulent world of real estate, today we're diving into a mouthwatering journey through the exquisite culinary scene of Lake Oswego, Oregon. Get ready to embark on a tasteful escapade as we explore some of the most delightful, charming, and utterly delectable restaurants this lakeside gem has to offer.*
 
-![lake oswego oregon](https://static.wixstatic.com/media/e2dd7e_7fecbe7bdbbd4933a8b9904f97857d39~mv2.jpg)
+![lake oswego oregon](/assets/img/blog/wix/e2dd7e_7fecbe7bdbbd4933a8b9904f97857d39.webp)
 
 Here are some of the Best Restaurants in Lake Oswego:
 

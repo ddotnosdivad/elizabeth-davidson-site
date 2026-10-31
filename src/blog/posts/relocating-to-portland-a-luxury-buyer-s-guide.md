@@ -2,7 +2,7 @@
 title: "Relocating to Portland: A Luxury Buyer’s Guide"
 date: 2026-06-09
 description: "So, you’re thinking about making the move to Portland? First of all—excellent choice. This isn’t just a city; it’s a lifestyle. Where else can you sip a…"
-image: "https://static.wixstatic.com/media/e2dd7e_a9f2ec9d50d244749435c2c3656c1a70~mv2.jpg"
+image: "/assets/img/blog/wix/e2dd7e_a9f2ec9d50d244749435c2c3656c1a70.webp"
 section: city-guides
 cities: ["Portland"]
 wixTags: ["portland real estate","best portland realtor","Portland Neighborhoods"]
@@ -12,7 +12,7 @@ So, you’re thinking about making the move to Portland? First of all—excellen
 
 For luxury buyers, Portland offers something rare: refined living without the pretense. It’s elevated, but approachable. Sophisticated, but still a little quirky. Let’s dive into what makes relocating here such an exciting—and smart—move.
 
-![](https://static.wixstatic.com/media/e2dd7e_a9f2ec9d50d244749435c2c3656c1a70~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_a9f2ec9d50d244749435c2c3656c1a70.webp)
 
 ## Why Portland Appeals to Luxury Buyers
 
@@ -42,7 +42,7 @@ Every luxury buyer has a different vision—and Portland delivers.
 
 **Dunthorpe** One of Portland’s most exclusive enclaves. Large estates, gated drives, and a quiet, established feel make this a top choice for buyers seeking privacy and prestige.
 
-![](https://static.wixstatic.com/media/e2dd7e_264ed65e040d4871bd4c3c7deea9f3b4~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_264ed65e040d4871bd4c3c7deea9f3b4.webp)
 
 ## What $1M+ Gets You in Portland
 
@@ -64,7 +64,7 @@ Depending on the area, you can expect:
 
 And as you move into the $2M–$5M+ range, the options become even more compelling—from gated estates to one-of-a-kind modern masterpieces.
 
-![](https://static.wixstatic.com/media/e2dd7e_b671b71940aa4f1a969387e8357734f1~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_b671b71940aa4f1a969387e8357734f1.webp)
 
 ## The Lifestyle Factor
 

@@ -2,7 +2,7 @@
 title: "Portland's Winter Wonderland: Where Festive Homes and Holiday Cheer Collide!"
 date: 2023-12-13
 description: "Hey there, fellow Portlanders and festive enthusiasts! 🎄✨ As your friendly neighborhood real estate agent, I can't help but get into the holiday spirit and…"
-image: "https://static.wixstatic.com/media/11062b_89ddcfc581d74ce2b445e41a5256921f~mv2.jpeg"
+image: "/assets/img/blog/wix/11062b_89ddcfc581d74ce2b445e41a5256921f.webp"
 section: city-guides
 cities: ["Portland"]
 wixTags: ["portland oregon","family activities","portland guide","Christmas Lights","Portland Christmas","Holiday lights"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/portland-s-winter-wonderland-whe
 ---
 Hey there, fellow Portlanders and festive enthusiasts! 🎄✨ As your friendly neighborhood real estate agent, I can't help but get into the holiday spirit and spread some cheer about the magical winter wonderland that is Portland, Oregon! This city knows how to do the holidays right, and I'm here to guide you through the most dazzling activities and twinkling lights that will make your season merry and bright.
 
-![Portland Christmas Lights](https://static.wixstatic.com/media/11062b_89ddcfc581d74ce2b445e41a5256921f~mv2.jpeg)
+![Portland Christmas Lights](/assets/img/blog/wix/11062b_89ddcfc581d74ce2b445e41a5256921f.webp)
 
 ### [1\. Peacock Lane – A Street Aglow:](https://www.peacocklane.org/)
 

@@ -2,7 +2,7 @@
 title: "The Ultimate Fun Guide to Buying Luxury Real Estate: Expert Tips for Savvy Buyers"
 date: 2023-09-21
 description: "Hey there, savvy luxury homebuyers! While my usual gig revolves around guiding you through the glamorous world of opulent estates, today I'm flipping the…"
-image: "https://static.wixstatic.com/media/e2dd7e_43dc02854c3048fd8a01d6489f4c0842~mv2.jpg"
+image: "/assets/img/blog/wix/e2dd7e_43dc02854c3048fd8a01d6489f4c0842.webp"
 section: buying-selling
 cities: []
 wixTags: ["portland real estate","portland homes","Luxury real estate","buyers guide","buying tips","best realtor"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/the-ultimate-fun-guide-to-buying
 ---
 *Hey there, savvy luxury homebuyers! While my usual gig revolves around guiding you through the glamorous world of opulent estates, today I'm flipping the script and turning the spotlight on you. That's right, folks; it's your moment to shine. So, grab your favorite pair of designer shades and join me on this fun-filled adventure as we explore the ultimate advice for buying luxury real estate.*
 
-![](https://static.wixstatic.com/media/e2dd7e_43dc02854c3048fd8a01d6489f4c0842~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_43dc02854c3048fd8a01d6489f4c0842.webp)
 
 **1\. Dream Big, But Stay Grounded:**
 

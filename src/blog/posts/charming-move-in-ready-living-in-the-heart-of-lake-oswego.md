@@ -2,7 +2,7 @@
 title: "Charming, Move-In Ready Living in the Heart of Lake Oswego"
 date: 2026-07-19
 description: "3 BED | 2 BATH | 1,227 SQ. FT."
-image: "https://static.wixstatic.com/media/e2dd7e_e0d563569f6d4b34bb62aec17aace967~mv2.png"
+image: "/assets/img/blog/wix/e2dd7e_e0d563569f6d4b34bb62aec17aace967.webp"
 section: featured-listings
 cities: ["Lake Oswego"]
 wixTags: ["lake oswego realtor"]
@@ -12,7 +12,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/charming-move-in-ready-living-in
 
 Welcome to **1318 Oak St, Lake Oswego, OR 97034**—a thoughtfully updated, single-level home that perfectly blends timeless charm with modern convenience. Listed by Elizabeth Davidson, this inviting bungalow offers a rare opportunity to enjoy one of Oregon’s most desirable communities without the hassle of major renovations.
 
-![](https://static.wixstatic.com/media/e2dd7e_e0d563569f6d4b34bb62aec17aace967~mv2.png)
+![](/assets/img/blog/wix/e2dd7e_e0d563569f6d4b34bb62aec17aace967.webp)
 
 ### Effortless Living, Thoughtful Updates
 
@@ -28,7 +28,7 @@ The living spaces flow seamlessly, offering both comfort and functionality. A co
 
 Step outside and you’ll find one of the home’s standout features: a spacious, level backyard. Whether you're entertaining friends, enjoying a quiet morning coffee, or creating your dream garden, this outdoor space is ready for it all. A covered deck extends your living area year-round, while a detached shed with electricity adds flexibility for a workshop, studio, or extra storage.
 
-![](https://static.wixstatic.com/media/e2dd7e_4d8052c60c6b470295c96bfc8d0a68ee~mv2.png)
+![](/assets/img/blog/wix/e2dd7e_4d8052c60c6b470295c96bfc8d0a68ee.webp)
 
 ### Location, Lifestyle, and Lake Oswego Appeal
 
@@ -44,4 +44,4 @@ Whether you're searching for your first home, a low-maintenance lifestyle, or a 
 
 **Ready to experience Lake Oswego living at its best?**This move-in-ready gem won’t last long—schedule your private showing today with me today!
 
-![](https://static.wixstatic.com/media/e2dd7e_7179053efb334fc1805488fd9ead9c97~mv2.png)
+![](/assets/img/blog/wix/e2dd7e_7179053efb334fc1805488fd9ead9c97.webp)

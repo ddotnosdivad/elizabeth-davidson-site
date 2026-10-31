@@ -2,7 +2,7 @@
 title: "2025 Real Estate Forecast: Portland, Oregon – The Rose City Blooms in New Ways!"
 date: 2025-01-10
 description: "Hey, Portlanders and future Portlanders! 🌹 The New Year is here, and the real estate landscape in the City of Roses is about to bloom in exciting new ways.…"
-image: "https://static.wixstatic.com/media/11062b_b3749cdcc18344ceac21ffa7c06fa37f~mv2.jpeg"
+image: "/assets/img/blog/wix/11062b_b3749cdcc18344ceac21ffa7c06fa37f.webp"
 section: market-insights
 cities: []
 wixTags: ["best portland real estate agent","portland","pdx","best portland realtor","oregon","best real estate agent in portland","best realtor in portland","luxury homes","portland homes","2025 real estate market"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/2025-real-estate-forecast-portla
 ---
 Hey, Portlanders and future Portlanders! 🌹 The New Year is here, and the real estate landscape in the City of Roses is about to bloom in exciting new ways. Whether you’re looking to buy, sell, or just stay in the loop, buckle up because 2025’s real estate forecast is looking like a wild and wonderful ride!
 
-![Home in Portland, OR](https://static.wixstatic.com/media/11062b_b3749cdcc18344ceac21ffa7c06fa37f~mv2.jpeg)
+![Home in Portland, OR](/assets/img/blog/wix/11062b_b3749cdcc18344ceac21ffa7c06fa37f.webp)
 
 ### 1\. Portland’s Market: Strong, Steady, and Growing
 
@@ -24,7 +24,7 @@ Portland's real estate vibe isn’t just about the city center anymore. The subu
 
 But don’t count downtown Portland out! As we move into 2025, the urban core is undergoing a renaissance. With new developments, infrastructure improvements, and a renewed focus on making the city center more pedestrian and bike-friendly, Portland’s urban scene is becoming an even more desirable place to call home. From micro-apartments to trendy condos and cool live-work spaces, urban living in Portland is making a serious comeback.
 
-![Portland loft](https://static.wixstatic.com/media/eb374cda42ad4e439e586c025b76e833.jpg)
+![Portland loft](/assets/img/blog/wix/eb374cda42ad4e439e586c025b76e833.webp)
 
 ### 3\. A Green Future: Sustainability is Key
 
@@ -56,7 +56,7 @@ Gone are the days of strictly “work” and “home” being separate. Portland
 
 Moreover, the continued development of mixed-use spaces—areas where you can live above a cool coffee shop or walk to work—will become a huge trend. Think Pearl District meets industrial chic! 🏙️
 
-![Cafe](https://static.wixstatic.com/media/11062b_c8c7fe5f44954217b3e51bb2bbd187dd~mv2.jpg)
+![Cafe](/assets/img/blog/wix/11062b_c8c7fe5f44954217b3e51bb2bbd187dd.webp)
 
 ### 8\. Final Thoughts: A Balanced, But Exciting Year Ahead
 

@@ -2,7 +2,7 @@
 title: "Welcome Home to 585 S. Donna Dr.: Easy Living in the Heart of Newberg"
 date: 2026-08-28
 description: "Some homes simply make life easier—and 585 S. Donna Dr. in Newberg is one of them."
-image: "https://static.wixstatic.com/media/e2dd7e_c3fa2fa9b17347bd9dc78d1f8050172d~mv2.jpg"
+image: "/assets/img/blog/wix/e2dd7e_c3fa2fa9b17347bd9dc78d1f8050172d.webp"
 section: featured-listings
 cities: ["Newberg"]
 wixTags: ["#bestportlandrealtor","newberg"]
@@ -12,7 +12,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/welcome-home-to-585-s-donna-dr-e
 
 Tucked into the peaceful **Highlands at Hess Creek**, this charming single-level home offers the kind of comfortable, low-maintenance living that makes it easy to settle in and feel right at home. With thoughtful updates, a wonderful sense of privacy, and a location that puts you close to everything Newberg has to offer, this is a home that checks all the right boxes.
 
-![](https://static.wixstatic.com/media/e2dd7e_c3fa2fa9b17347bd9dc78d1f8050172d~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_c3fa2fa9b17347bd9dc78d1f8050172d.webp)
 
 ## A Home Designed for Everyday Living
 

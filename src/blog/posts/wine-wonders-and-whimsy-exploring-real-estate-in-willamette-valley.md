@@ -2,7 +2,7 @@
 title: "Wine, Wonders, and Whimsy: Exploring Real Estate in Willamette Valley!"
 date: 2024-02-06
 description: "Hey there, fellow adventurers and home seekers! If you're on the hunt for your slice of paradise nestled amidst rolling hills, lush vineyards, and charming…"
-image: "https://static.wixstatic.com/media/11062b_145604f7f0a242678c15a1e76fa99a1b~mv2.jpg"
+image: "/assets/img/blog/wix/11062b_145604f7f0a242678c15a1e76fa99a1b.webp"
 section: city-guides
 cities: ["Willamette Valley"]
 wixTags: ["real estate","oregon wine country","country living","vineyard","oregon real estate","willamette valley","wine","best place to live in oregon","vineyard for sale","wine country"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/wine-wonders-and-whimsy-explorin
 ---
 Hey there, fellow adventurers and home seekers! If you're on the hunt for your slice of paradise nestled amidst rolling hills, lush vineyards, and charming communities, look no further than the magical wonderland known as Willamette Valley! As a seasoned real estate agent with a passion for all things quirky and quaint, let me be your guide to the hidden gems and hot properties in this picturesque region.
 
-![wine country dinner](https://static.wixstatic.com/media/11062b_145604f7f0a242678c15a1e76fa99a1b~mv2.jpg)
+![wine country dinner](/assets/img/blog/wix/11062b_145604f7f0a242678c15a1e76fa99a1b.webp)
 
 1.  **Vineyard Vibes:** Ah, wine country—where every sip tells a story and every vineyard beckons you to savor the moment. Willamette Valley is renowned for its world-class wineries and award-winning pinot noirs, making it a dream destination for oenophiles and grape enthusiasts alike. Imagine waking up to panoramic views of vine-covered hills and spending lazy afternoons exploring cellar doors and tasting rooms. With vineyard estates and wine country retreats aplenty, finding your own piece of paradise is just a cork pop away!  
 
@@ -22,6 +22,6 @@ Hey there, fellow adventurers and home seekers! If you're on the hunt for your s
 
 5.  **Endless Possibilities:** Whether you're dreaming of a vineyard estate, a historic farmhouse, or a modern urban oasis, Willamette Valley offers a myriad of real estate possibilities to suit every taste and lifestyle. From quaint cottages to sprawling estates, the perfect home is waiting to become your own personal sanctuary. So, grab a glass of pinot, soak in the scenery, and let the adventure begin!  
 
-![oregon wine country](https://static.wixstatic.com/media/e2dd7e_b6efc5f5f190456ca36b1bf6ec313de2~mv2.jpeg)
+![oregon wine country](/assets/img/blog/wix/e2dd7e_b6efc5f5f190456ca36b1bf6ec313de2.webp)
 
 In conclusion, Willamette Valley is more than just a destination—it's a lifestyle filled with wine, wonders, and whimsy at every turn. Whether you're seeking serenity, adventure, or simply a place to call home, this enchanting region has it all and then some. So, what are you waiting for? Let's make your real estate dreams a reality in Willamette Valley! Cheers to new beginnings and unforgettable adventures! 🍷🏡✨

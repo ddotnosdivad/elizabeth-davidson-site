@@ -2,7 +2,7 @@
 title: "Living in Lake Oswego: A Guide to Luxury Real Estate & Lifestyle"
 date: 2026-06-06
 description: "Nestled just south of Portland, Lake Oswego has long been one of the most sought-after destinations for luxury homebuyers in the Pacific Northwest. Known…"
-image: "https://static.wixstatic.com/media/e2dd7e_b671b71940aa4f1a969387e8357734f1~mv2.jpg"
+image: "/assets/img/blog/wix/e2dd7e_b671b71940aa4f1a969387e8357734f1.webp"
 section: city-guides
 cities: ["Lake Oswego"]
 wixTags: ["lake oswego","best lake oswego real estate agent","Investing in Portland Real Estate"]
@@ -18,7 +18,7 @@ At the heart of the community is Oswego Lake—a defining feature that shapes bo
 
 Lakefront properties are highly coveted and limited in supply, making them not only a lifestyle upgrade but also a strong long-term investment.
 
-![](https://static.wixstatic.com/media/e2dd7e_b671b71940aa4f1a969387e8357734f1~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_b671b71940aa4f1a969387e8357734f1.webp)
 
 ## 🏡 Luxury Real Estate: What to Expect
 

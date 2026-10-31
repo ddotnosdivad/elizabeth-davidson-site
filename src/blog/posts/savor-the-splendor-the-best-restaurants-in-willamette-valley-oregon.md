@@ -2,7 +2,7 @@
 title: "Savor the Splendor: The Best Restaurants in Willamette Valley, Oregon"
 date: 2023-10-30
 description: "Greetings, fellow connoisseurs of luxury living and epicurean delights! While I typically guide you through the world of opulent real estate, today, I'm…"
-image: "https://static.wixstatic.com/media/edb3f758cf4e4198967832af9eb45807.jpg"
+image: "/assets/img/blog/wix/edb3f758cf4e4198967832af9eb45807.webp"
 section: city-guides
 cities: ["Willamette Valley"]
 wixTags: ["portland real estate","portland oregon","best restaurants","portland guide","portland neighborhoods","oregon wine country","best restaurants in portland","best restaurants in willamette valley"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/savor-the-splendor-the-best-rest
 ---
 *Greetings, fellow connoisseurs of luxury living and epicurean delights! While I typically guide you through the world of opulent real estate, today, I'm donning my culinary hat to take you on a delectable journey through the Willamette Valley, Oregon's gastronomic wonderland. Buckle up, my food-loving friends, as we explore some of the most exquisite dining experiences this bountiful region has to offer.*
 
-![best restaurants in willamette valley](https://static.wixstatic.com/media/edb3f758cf4e4198967832af9eb45807.jpg)
+![best restaurants in willamette valley](/assets/img/blog/wix/edb3f758cf4e4198967832af9eb45807.webp)
 
 Here are some of the best restaurants in willamette valley:
 

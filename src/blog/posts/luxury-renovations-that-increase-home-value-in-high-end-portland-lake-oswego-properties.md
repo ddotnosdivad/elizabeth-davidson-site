@@ -2,7 +2,7 @@
 title: "Luxury Renovations That Increase Home Value in High-End Portland & Lake Oswego Properties"
 date: 2026-04-13
 description: "As a luxury Realtor® specializing in Portland and Lake Oswego, I’m often asked:"
-image: "https://static.wixstatic.com/media/11062b_edcaa8e2622b4770b6746ce82775704c~mv2.jpg"
+image: "/assets/img/blog/wix/11062b_edcaa8e2622b4770b6746ce82775704c.webp"
 section: home-tips
 cities: []
 wixTags: ["#bestportlandrealtor","#RealEstateGoals","#HomeSellingTips","#realestate","homerenovation"]
@@ -16,7 +16,7 @@ In the high-end market, not all upgrades are created equal. Buyers at the luxury
 
 Here’s where I consistently see the strongest return in Portland and Lake Oswego’s premium properties.
 
-![](https://static.wixstatic.com/media/11062b_edcaa8e2622b4770b6746ce82775704c~mv2.jpg)
+![](/assets/img/blog/wix/11062b_edcaa8e2622b4770b6746ce82775704c.webp)
 
 ## 1\. Architectural Kitchen Transformations
 
@@ -38,7 +38,7 @@ Open-concept kitchens that connect seamlessly to great rooms and outdoor terrace
 
 Pro tip: Hidden prep kitchens or walk-in sculleries are becoming increasingly desirable in the Lake Oswego luxury market.
 
-![](https://static.wixstatic.com/media/11062b_35abe37eb05f4db794095c90a1285970~mv2.jpeg)
+![](/assets/img/blog/wix/11062b_35abe37eb05f4db794095c90a1285970.webp)
 
 ## 2\. Indoor-Outdoor Living Enhancements
 
@@ -60,7 +60,7 @@ Proximity to Oswego Lake or views of Mount Hood become even more powerful when
 
 Buyers will pay significantly more when a home feels like a private resort.
 
-![](https://static.wixstatic.com/media/11062b_213cfb1c8c54438a8efcf3fa959efeaa~mv2.jpg)
+![](/assets/img/blog/wix/11062b_213cfb1c8c54438a8efcf3fa959efeaa.webp)
 
 ## 3\. Primary Suite Retreats That Rival Five-Star Hotels
 
@@ -78,7 +78,7 @@ Renovations that increase value:
 
 In homes bordering Forest Park or wooded Dunthorpe lots, framing serene views from the primary suite dramatically enhances appeal.
 
-![](https://static.wixstatic.com/media/11062b_15a65af8b543487195e6e0ee721cf368~mv2.jpg)
+![](/assets/img/blog/wix/11062b_15a65af8b543487195e6e0ee721cf368.webp)
 
 ## 4\. Smart Home & Security Integration
 
@@ -100,7 +100,7 @@ In Lake Oswego’s estate neighborhoods, discreet but sophisticated tech integra
 
 The key is seamless design. Technology should enhance the home without overwhelming it.
 
-![](https://static.wixstatic.com/media/11062b_c075f4070aef46f3bce57a0960b5d6db~mv2.jpg)
+![](/assets/img/blog/wix/11062b_c075f4070aef46f3bce57a0960b5d6db.webp)
 
 ## 5\. Sustainable & Energy-Efficient Improvements
 
@@ -138,7 +138,7 @@ High-impact improvements:
 
 In West Hills and Lake Oswego estates, buyers often want dual offices — especially in entrepreneurial households.
 
-![](https://static.wixstatic.com/media/11062b_fa83617d3f2c41a1ba80f451c8ac948e~mv2.jpeg)
+![](/assets/img/blog/wix/11062b_fa83617d3f2c41a1ba80f451c8ac948e.webp)
 
 ## 7\. Wine Rooms & Entertaining Spaces
 

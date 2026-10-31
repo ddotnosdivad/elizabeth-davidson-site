@@ -2,7 +2,7 @@
 title: "Christmas Tree Lighting in Lake Oswego!"
 date: 2024-11-06
 description: "It’s that magical time of year when Lake Oswego transforms into a winter wonderland, and nothing kicks off the holiday season quite like the annual Lake…"
-image: "https://static.wixstatic.com/media/11062b_fde9fa6b19d74291bd2df359da0545f5~mv2.jpeg"
+image: "/assets/img/blog/wix/11062b_fde9fa6b19d74291bd2df359da0545f5.webp"
 section: city-guides
 cities: ["Lake Oswego"]
 wixTags: []
@@ -12,7 +12,7 @@ It’s that magical time of year when Lake Oswego transforms into a winter wonde
 
 So, let’s dive into why the Lake Oswego Christmas Tree Lighting is *the* event to attend this season. 🎄✨
 
-![Christmas Tree](https://static.wixstatic.com/media/11062b_fde9fa6b19d74291bd2df359da0545f5~mv2.jpeg)
+![Christmas Tree](/assets/img/blog/wix/11062b_fde9fa6b19d74291bd2df359da0545f5.webp)
 
 ### A Community Tradition with Holiday Cheer
 

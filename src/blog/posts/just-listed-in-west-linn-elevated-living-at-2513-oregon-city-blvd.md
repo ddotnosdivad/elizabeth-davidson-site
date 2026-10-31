@@ -2,7 +2,7 @@
 title: "Just Listed in West Linn: Elevated Living at 2513 Oregon City Blvd"
 date: 2026-06-29
 description: "4 BED | 3.5 BATH | 4,160 SQ. FT."
-image: "https://static.wixstatic.com/media/e2dd7e_d308e492d58644378e3347f46cd90004~mv2.jpg"
+image: "/assets/img/blog/wix/e2dd7e_d308e492d58644378e3347f46cd90004.webp"
 section: featured-listings
 cities: ["West Linn"]
 wixTags: ["#bestportlandrealtor","#RealEstateGoals","2026portlandhomes"]
@@ -16,7 +16,7 @@ By Elizabeth Davidson, Realtor® | Portland & West Linn, Oregon
 
 If you’ve been waiting for a home that blends location, lifestyle, and livability—this is it. I’m thrilled to introduce my newest listing at **2513 Oregon City Blvd in West Linn**, a property that offers the perfect balance of comfort, convenience, and Pacific Northwest charm.
 
-![](https://static.wixstatic.com/media/e2dd7e_d308e492d58644378e3347f46cd90004~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_d308e492d58644378e3347f46cd90004.webp)
 
 ## A Location That Truly Delivers
 
@@ -64,4 +64,4 @@ Homes like this don’t stay on the market for long. If you’re interested in l
 
 Let’s find the home that fits your lifestyle—beautifully.
 
-![](https://static.wixstatic.com/media/e2dd7e_38be088fe58943eeb2aa2f7ef35f91f0~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_38be088fe58943eeb2aa2f7ef35f91f0.webp)

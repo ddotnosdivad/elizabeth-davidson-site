@@ -2,7 +2,7 @@
 title: "The Best Christmas Tree Lightings in and Around Portland, OR: Your Guide to Festive Fun!"
 date: 2024-11-22
 description: "The holiday season in Portland is a magical time, and one of the highlights is, without a doubt, the annual Christmas tree lighting events that light up the…"
-image: "https://static.wixstatic.com/media/11062b_fe83b16bf7a24b7fbf2f1830dcee7442~mv2.jpeg"
+image: "/assets/img/blog/wix/11062b_fe83b16bf7a24b7fbf2f1830dcee7442.webp"
 section: city-guides
 cities: ["Portland"]
 wixTags: ["best portland real estate agent","pdx","best portland realtor","family activities","Christmas Lights"]
@@ -12,7 +12,7 @@ The holiday season in Portland is a magical time, and one of the highlights is, 
 
 As a real estate agent who loves showing clients the beauty of Portland and its surrounding neighborhoods, I can tell you that our city really knows how to do Christmas! From stunning downtown displays to neighborhood gatherings, here are the top Christmas tree lightings in and around Portland you won’t want to miss.
 
-![Christmas lights in Portland](https://static.wixstatic.com/media/11062b_fe83b16bf7a24b7fbf2f1830dcee7442~mv2.jpeg)
+![Christmas lights in Portland](/assets/img/blog/wix/11062b_fe83b16bf7a24b7fbf2f1830dcee7442.webp)
 
 ### 1\. Portland’s Annual Holiday Tree Lighting Ceremony (Downtown Portland)
 

@@ -2,7 +2,7 @@
 title: "Luxury Market Update: Trends in Portland & Lake Oswego You Should Know"
 date: 2026-02-23
 description: "The luxury real estate market in the Pacific Northwest continues to evolve—and if you’re buying or selling at the high end, understanding the nuances of…"
-image: "https://static.wixstatic.com/media/2403854036464d9aa4829d6be3f8ea77.jpg"
+image: "/assets/img/blog/wix/2403854036464d9aa4829d6be3f8ea77.webp"
 section: market-insights
 cities: []
 wixTags: ["lake oswego","#RealEstateGoals","#HomeSellingTips","Home buying tips"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/luxury-market-update-trends-in-p
 ---
 The luxury real estate market in the Pacific Northwest continues to evolve—and if you’re buying or selling at the high end, understanding the nuances of today’s market is essential. Here’s a closer look at what’s happening in Portland and Lake Oswego and the trends shaping 2026 so far.
 
-![](https://static.wixstatic.com/media/2403854036464d9aa4829d6be3f8ea77.jpg)
+![](/assets/img/blog/wix/2403854036464d9aa4829d6be3f8ea77.webp)
 
 ## 1\. Limited Inventory Is Driving Selective Competition
 
@@ -68,7 +68,7 @@ In Portland’s upper tier, we’re seeing:
 
 Strategic staging, elevated marketing, and proper positioning are critical to capturing attention in a more selective buyer pool.
 
-![Luxury home Lake Oswego](https://static.wixstatic.com/media/11062b_0ac3612e6c3c47a3a366fe8dc285b152~mv2_d_6832_4880_s_4_2.jpg)
+![Luxury home Lake Oswego](/assets/img/blog/wix/11062b_0ac3612e6c3c47a3a366fe8dc285b152_d_6832_4880_s_4_2.webp)
 
 ## 4\. Migration & Lifestyle Still Play a Role
 

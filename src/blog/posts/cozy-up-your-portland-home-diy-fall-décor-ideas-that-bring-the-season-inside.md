@@ -2,7 +2,7 @@
 title: "Cozy Up Your Portland Home: DIY Fall Décor Ideas That Bring the Season Inside"
 date: 2025-10-14
 description: "Fall in Portland is pure magic — crisp mornings, fiery leaves, cozy sweaters, and the smell of pumpkin spice drifting from every corner café. As the days…"
-image: "https://static.wixstatic.com/media/11062b_0d49e9844ae348fc83217d5d8742b292~mv2.jpeg"
+image: "/assets/img/blog/wix/11062b_0d49e9844ae348fc83217d5d8742b292.webp"
 section: home-tips
 cities: []
 wixTags: ["portlandrealtor","pdxrealtor","fall decor"]
@@ -10,14 +10,14 @@ wixUrl: "https://www.elizabethdavidson.com/post/cozy-up-your-portland-home-diy-f
 ---
 Fall in Portland is pure magic — crisp mornings, fiery leaves, cozy sweaters, and the smell of pumpkin spice drifting from every corner café. As the days get shorter and the evenings cooler, it’s the perfect time to bring that warm, autumnal charm indoors. Whether you’re preparing your home for the holidays, getting ready to sell, or just love a good seasonal refresh, these DIY fall décor ideas are easy, affordable, and oh-so-Portland.
 
-![fall home decorations](https://static.wixstatic.com/media/11062b_0d49e9844ae348fc83217d5d8742b292~mv2.jpeg)
+![fall home decorations](/assets/img/blog/wix/11062b_0d49e9844ae348fc83217d5d8742b292.webp)
 
 #### 1\. Create a Pacific Northwest-Inspired Centerpiece
 
 Bring the outdoors in with a rustic fall centerpiece. Gather pinecones from your neighborhood walk, add a few small pumpkins, and mix in greenery like eucalyptus or cedar branches. Arrange everything on a wooden tray or vintage platter for a look that’s both elegant and earthy — perfect for a Lake Oswego dining table or a cozy Portland bungalow kitchen.
 
 ![fall table setting
-](https://static.wixstatic.com/media/11062b_56653f70f0b04145ba1afc868684863d~mv2.jpeg)
+](/assets/img/blog/wix/11062b_56653f70f0b04145ba1afc868684863d.webp)
 
 #### 2\. Layer Up Your Textiles
 
@@ -35,7 +35,7 @@ You don’t need to spend a fortune at the store — a DIY wreath made from twig
 
 As daylight fades earlier, embrace the glow! Mason jar candles, lanterns, and string lights can transform your space into a warm haven. Try placing a few along your front porch or in your backyard — perfect for sipping a glass of Oregon Pinot Noir under the twinkle lights.
 
-![](https://static.wixstatic.com/media/11062b_f602e3b2e5424f7f9ecf166afd478c25~mv2.jpeg)
+![](/assets/img/blog/wix/11062b_f602e3b2e5424f7f9ecf166afd478c25.webp)
 
 #### 6\. Bring the Scents of Fall Indoors
 

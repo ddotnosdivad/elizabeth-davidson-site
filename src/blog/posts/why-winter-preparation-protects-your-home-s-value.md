@@ -2,7 +2,7 @@
 title: "Why Winter Preparation Protects Your Home’s Value"
 date: 2026-02-18
 description: "As a professional Realtor® serving homeowners in the Pacific Northwest, I can tell you: Winter in Portland isn’t just about cozy fireplaces and misty…"
-image: "https://static.wixstatic.com/media/11062b_8178d0875154415696a351ea0b7bd7bb~mv2.jpg"
+image: "/assets/img/blog/wix/11062b_8178d0875154415696a351ea0b7bd7bb.webp"
 section: home-tips
 cities: []
 wixTags: ["pdx","portland realtor","home maintenance","winter home tips"]
@@ -12,7 +12,7 @@ As a professional Realtor® serving homeowners in the Pacific Northwest, I can t
 
 Whether you're protecting your investment, planning to sell in the spring, or simply want peace of mind, here’s how to prep your home for a Winter storm — plus long-term strategies to keep your home winter-ready year after year.
 
-![](https://static.wixstatic.com/media/11062b_c5cec3ec1d4c49a69f65bc42526891df~mv2.jpeg)
+![](/assets/img/blog/wix/11062b_c5cec3ec1d4c49a69f65bc42526891df.webp)
 
 ## Immediate Steps: How to Prep Your Home for a Winter Storm
 
@@ -94,7 +94,7 @@ Buyers often appreciate homes with built-in resilience features.
 
 Beyond storm prep, smart homeowners invest in upgrades that protect their property year after year.
 
-![](https://static.wixstatic.com/media/11062b_8178d0875154415696a351ea0b7bd7bb~mv2.jpg)
+![](/assets/img/blog/wix/11062b_8178d0875154415696a351ea0b7bd7bb.webp)
 
 ## 1\. Upgrade Insulation & Air Sealing
 

@@ -2,7 +2,7 @@
 title: "Time to Level Up: Essential Tips for Upsizing Your Home!"
 date: 2024-09-24
 description: "Hey there, future homebuyers and real estate adventurers! 🌟 So, you’re thinking about upsizing? Exciting times ahead! Whether you’re welcoming a new family…"
-image: "https://static.wixstatic.com/media/11062b_0675b22f349149f5831276dced8c966e~mv2_d_4896_3264_s_4_2.jpg"
+image: "/assets/img/blog/wix/11062b_0675b22f349149f5831276dced8c966e_d_4896_3264_s_4_2.webp"
 section: buying-selling
 cities: []
 wixTags: ["best portland real estate agent","portland homes","real estate","upsizing"]
@@ -10,13 +10,13 @@ wixUrl: "https://www.elizabethdavidson.com/post/time-to-level-up-essential-tips-
 ---
 Hey there, future homebuyers and real estate adventurers! 🌟 So, you’re thinking about upsizing? Exciting times ahead! Whether you’re welcoming a new family member, needing a home office (hello, remote work revolution!), or simply craving more space for your fabulous lifestyle, I’ve got you covered with some essential tips to make your transition smoother than a freshly waxed floor!
 
-![large home](https://static.wixstatic.com/media/11062b_0675b22f349149f5831276dced8c966e~mv2_d_4896_3264_s_4_2.jpg)
+![large home](/assets/img/blog/wix/11062b_0675b22f349149f5831276dced8c966e_d_4896_3264_s_4_2.webp)
 
 ## 1\. Know Your “Why” 🧐
 
 Before you dive into the world of bigger homes, take a moment to clarify why you want to upsize. Is it more bedrooms, a bigger yard, or perhaps a swanky kitchen where you can finally show off your cooking skills? Knowing your motivations will help you stay focused and make better decisions!
 
-![kitchen](https://static.wixstatic.com/media/11062b_012254bad63d4563ab1e1d50c709685a~mv2.jpg)
+![kitchen](/assets/img/blog/wix/11062b_012254bad63d4563ab1e1d50c709685a.webp)
 
 ## 2\. Set a Realistic Budget 💰
 

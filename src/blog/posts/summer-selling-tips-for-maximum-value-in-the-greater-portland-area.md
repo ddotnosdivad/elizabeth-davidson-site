@@ -2,7 +2,7 @@
 title: "Summer Selling Tips for Maximum Value in the Greater Portland Area"
 date: 2026-06-10
 description: "Summer in Portland isn’t just beautiful—it’s strategic."
-image: "https://static.wixstatic.com/media/e2dd7e_f31ca04606bd48f0abb6f74f0b936064~mv2.jpg"
+image: "/assets/img/blog/wix/e2dd7e_f31ca04606bd48f0abb6f74f0b936064.webp"
 section: buying-selling
 cities: []
 wixTags: ["portland real estate","best portland realtor"]
@@ -14,7 +14,7 @@ Longer days, lush greenery, and motivated buyers make this one of the most power
 
 If you’re thinking about selling in the Greater Portland area, these summer-specific strategies can make a significant difference in your final sale price.
 
-![](https://static.wixstatic.com/media/e2dd7e_66b005c757314f4a81726c130d58856d~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_66b005c757314f4a81726c130d58856d.webp)
 
 ## First Impressions Matter More in Summer
 
@@ -54,7 +54,7 @@ But balance is key—if your home gets warm, consider:
 
 A bright home feels bigger, newer, and more inviting.
 
-![](https://static.wixstatic.com/media/11062b_ee5add250ee643d1abc55ec22f16cf66~mv2.jpg)
+![](/assets/img/blog/wix/11062b_ee5add250ee643d1abc55ec22f16cf66.webp)
 
 ## Lean Into Outdoor Living
 
@@ -72,7 +72,7 @@ Highlight spaces like:
 
 Even smaller spaces can feel luxurious with the right staging. A simple bistro set, cozy cushions, or string lighting can completely transform a patio or balcony.
 
-![](https://static.wixstatic.com/media/11062b_f1b7f82d1e8143b492b70d050815d7f9~mv2.jpg)
+![](/assets/img/blog/wix/11062b_f1b7f82d1e8143b492b70d050815d7f9.webp)
 
 ## Price Strategically—Not Emotionally
 
@@ -104,7 +104,7 @@ That means:
 
 Luxury buyers, in particular, expect a certain level of presentation. The difference between average and exceptional marketing can translate directly into your bottom line.
 
-![](https://static.wixstatic.com/media/e2dd7e_f31ca04606bd48f0abb6f74f0b936064~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_f31ca04606bd48f0abb6f74f0b936064.webp)
 
 ## Timing Your Listing
 
@@ -136,7 +136,7 @@ Consider:
 
 These upfront efforts often lead to stronger offers and smoother transactions.
 
-![](https://static.wixstatic.com/media/11062b_b4d52dd6c0fa4bbf89ad022d3b13de50~mv2.jpg)
+![](/assets/img/blog/wix/11062b_b4d52dd6c0fa4bbf89ad022d3b13de50.webp)
 
 ## The Local Advantage
 

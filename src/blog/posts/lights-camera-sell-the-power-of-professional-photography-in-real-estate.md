@@ -2,7 +2,7 @@
 title: "Lights, Camera, Sell: The Power of Professional Photography in Real Estate!"
 date: 2024-07-30
 description: "Hello, awesome homeowners and soon-to-be sellers!"
-image: "https://static.wixstatic.com/media/11062b_012254bad63d4563ab1e1d50c709685a~mv2.jpg"
+image: "/assets/img/blog/wix/11062b_012254bad63d4563ab1e1d50c709685a.webp"
 section: buying-selling
 cities: []
 wixTags: ["portland real estate","portland oregon","best real estate agent in portland","home selling tips","portland real estate agent","staging","home photography"]
@@ -16,7 +16,7 @@ Ever seen a listing photo that made you squint, tilt your head, and wonder, "Is 
 
 Imagine you’re swiping through a dating app. You see a blurry photo of someone in bad lighting, half their face obscured. Swipe left, right? The same goes for home listings. Your house deserves to make a dazzling first impression, and that’s where professional photography steps in. Pros know how to capture your home in the best light (literally), showcasing its charm, space, and all those little details that make it unique.
 
-![Kitchen Design ](https://static.wixstatic.com/media/11062b_012254bad63d4563ab1e1d50c709685a~mv2.jpg)
+![Kitchen Design ](/assets/img/blog/wix/11062b_012254bad63d4563ab1e1d50c709685a.webp)
 
 **The Wow Factor: More Than Just a Pretty Picture**
 

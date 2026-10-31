@@ -2,7 +2,7 @@
 title: "Staycation Sensation: Turning Your Home into a Vacation Hotspot"
 date: 2025-04-25
 description: "Hey there, homebodies and house-proud adventurers! As a professional Realtor®, I help people find their dream homes every day — but what if I told you that…"
-image: "https://static.wixstatic.com/media/11062b_a182b50f783249b99b5ec73d9f642770~mv2.jpg"
+image: "/assets/img/blog/wix/11062b_a182b50f783249b99b5ec73d9f642770.webp"
 section: home-tips
 cities: []
 wixTags: ["best portland real estate agent","portland real estate","pdx","best portland realtor","portland homes","luxury real estate","vacation","staycation"]
@@ -12,7 +12,7 @@ Hey there, homebodies and house-proud adventurers! As a professional Realtor®, 
 
 That’s right. No TSA lines. No overpacked suitcases. No lost hotel reservations. This year, we’re all about the *staycation*! Whether you're in a cozy condo, a suburban dream, or a chic downtown loft, here’s how to turn your home into a five-star getaway — no plane ticket required.
 
-![home relaxation](https://static.wixstatic.com/media/11062b_a182b50f783249b99b5ec73d9f642770~mv2.jpg)
+![home relaxation](/assets/img/blog/wix/11062b_a182b50f783249b99b5ec73d9f642770.webp)
 
 ## 🧘‍♀️ 1. Spa Day, the DIY Way
 
@@ -30,7 +30,7 @@ Turn your backyard (or even your living room) into an open-air cinema. Hang a wh
 
 Perfect for families or the young at heart. Set up a tent in the living room, roast marshmallows over the stove (we won’t tell), and tell spooky stories by flashlight. It’s all the fun of camping without the bears or bugs. Win-win!
 
-![Home Cooking](https://static.wixstatic.com/media/11062b_6e24a2f4f46e482887626707ada54a0d~mv2.jpeg)
+![Home Cooking](/assets/img/blog/wix/11062b_6e24a2f4f46e482887626707ada54a0d.webp)
 
 ## 🍳 5. Culinary World Tour
 
@@ -47,4 +47,4 @@ Your home isn’t just where you live — it’s where memories are made. When I
 And hey — if your current place *isn’t* giving you those resort-like vibes? You know who to call. 😉 Whether you’re upgrading to a poolside paradise or downsizing to a condo with rooftop views, I’m here to help you make your next move feel like the best vacation of your life. Until then, happy staycationing! 🌴💁‍♂️
 
 ![patio
-](https://static.wixstatic.com/media/11062b_185d9b5aa2304cf780438018f518aa42~mv2.jpeg)
+](/assets/img/blog/wix/11062b_185d9b5aa2304cf780438018f518aa42.webp)

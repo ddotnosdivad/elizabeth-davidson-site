@@ -2,7 +2,7 @@
 title: "Discover The Aurora"
 date: 2026-01-18
 description: "Nestled in the heart of charming small-town living, 15109 2nd St. in Aurora offers a rare opportunity to own a home where character, comfort, and community…"
-image: "https://static.wixstatic.com/media/e2dd7e_cf92b8de4d9f41348c97392b47bf6d00~mv2.jpg"
+image: "/assets/img/blog/wix/e2dd7e_cf92b8de4d9f41348c97392b47bf6d00.webp"
 section: featured-listings
 cities: ["Aurora"]
 wixTags: ["portland","pdx","best portland realtor","oregon","historic","aurora"]
@@ -16,7 +16,7 @@ Presented by Elizabeth Davidson, this exceptional property blends timeless appea
 
 **5 Bed | 5.5 Bath | 3,500 Sq. Ft. | $950,000**
 
-![](https://static.wixstatic.com/media/e2dd7e_cf92b8de4d9f41348c97392b47bf6d00~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_cf92b8de4d9f41348c97392b47bf6d00.webp)
 
 # Discover Life in Historic Aurora
 
@@ -50,7 +50,7 @@ Every detail contributes to a home that feels warm, livable, and ready for its n
 
 chapter.
 
-![](https://static.wixstatic.com/media/e2dd7e_663242a5552e44aca75bbebcb66aa142~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_663242a5552e44aca75bbebcb66aa142.webp)
 
 # Outdoor Living in the Valley
 
@@ -84,4 +84,4 @@ Properties here don’t come available often, and when they do, they attract buy
 
 For more information or to schedule a private showing, reach out to Elizabeth Davidson and experience firsthand what makes this property truly stand out.
 
-![](https://static.wixstatic.com/media/e2dd7e_6fe14263ffa14889b3056eb6630184eb~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_6fe14263ffa14889b3056eb6630184eb.webp)

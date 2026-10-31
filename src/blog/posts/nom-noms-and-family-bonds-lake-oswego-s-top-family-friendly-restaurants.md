@@ -2,7 +2,7 @@
 title: "Family Bonds: Lake Oswego's Top Family-Friendly Restaurants!"
 date: 2023-12-13
 description: "Hey there, foodie families and culinary adventurers! If you're on the hunt for a city where delightful dining meets family fun, Lake Oswego, Oregon, is your…"
-image: "https://static.wixstatic.com/media/11062b_b8caf7c65db142c9aa2012983437de6e~mv2.jpg"
+image: "/assets/img/blog/wix/11062b_b8caf7c65db142c9aa2012983437de6e.webp"
 section: city-guides
 cities: ["Lake Oswego"]
 wixTags: ["portland","lake oswego","oregon","best restaurants","foodie","bakery","family friendly restaurants","pizza","eats"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/nom-noms-and-family-bonds-lake-o
 ---
 Hey there, foodie families and culinary adventurers! If you're on the hunt for a city where delightful dining meets family fun, Lake Oswego, Oregon, is your gastronomic playground. As your trusty real estate sidekick, I've scoured the streets and sipped countless cups of coffee to bring you the lowdown on the best family-friendly restaurants in the area. Buckle up your taste buds, because Lake Oswego is serving up a banquet of flavors fit for the whole family!
 
-![family restaurants in lake oswego](https://static.wixstatic.com/media/11062b_b8caf7c65db142c9aa2012983437de6e~mv2.jpg)
+![family restaurants in lake oswego](/assets/img/blog/wix/11062b_b8caf7c65db142c9aa2012983437de6e.webp)
 
 [**1\. Stickmen Brewing Company:**](https://stickmenbeer.com/lake-oswego/) [](https://stickmenbeer.com/lake-oswego/)Hold onto your pretzels, because Stickmen Brewing Company isn't just a craft beer haven—it's a family-friendly wonderland! With a menu boasting everything from gourmet burgers to kid-approved mac 'n' cheese, it's the perfect spot for a laid-back family meal. Bonus: Outdoor seating for those sunny Oregon days!
 

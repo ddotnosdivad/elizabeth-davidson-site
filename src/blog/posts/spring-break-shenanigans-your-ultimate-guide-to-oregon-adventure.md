@@ -2,7 +2,7 @@
 title: "Spring Break Shenanigans: Your Ultimate Guide to Oregon Adventure!"
 date: 2024-03-04
 description: "Hey there, fellow adventurers and spring breakers! Are you ready to kick off the season of sunshine and fun in the beautiful state of Oregon? From scenic…"
-image: "https://static.wixstatic.com/media/11062b_6a3eecbe23c941eb9203425da3130f8a~mv2.jpeg"
+image: "/assets/img/blog/wix/11062b_6a3eecbe23c941eb9203425da3130f8a.webp"
 section: city-guides
 cities: ["Oregon Getaways"]
 wixTags: ["portland","oregon","foodie","oregon coast","farmers markets","road trip ideas","spring break","bike trip","family vacation"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/spring-break-shenanigans-your-ul
 ---
 Hey there, fellow adventurers and spring breakers! Are you ready to kick off the season of sunshine and fun in the beautiful state of Oregon? From scenic hikes and coastal escapes to quirky attractions and culinary delights, there's no shortage of excitement waiting to be discovered. So, grab your sunnies and let's dive into the ultimate guide to spending spring break in Oregon!
 
-![bike trip for spring break in oregon](https://static.wixstatic.com/media/11062b_6a3eecbe23c941eb9203425da3130f8a~mv2.jpeg)
+![bike trip for spring break in oregon](/assets/img/blog/wix/11062b_6a3eecbe23c941eb9203425da3130f8a.webp)
 
 1.  **Hit the Trails:** Lace up those hiking boots and get ready to explore Oregon's breathtaking natural beauty! With an abundance of trails ranging from easy strolls to challenging treks, there's something for every skill level. Head to the Columbia River Gorge for stunning waterfalls and jaw-dropping vistas, or venture into the lush forests of the Cascade Range for a dose of wilderness therapy. Don't forget to pack a picnic and plenty of water—adventure awaits!  
 

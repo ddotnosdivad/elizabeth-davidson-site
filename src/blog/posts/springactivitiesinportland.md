@@ -2,7 +2,7 @@
 title: "Spring Activities in Portland: 6 Ways to Sprout Some Fun!"
 date: 2024-03-13
 description: "Hey there, Portland pals and springtime enthusiasts! Are you ready to shake off those rainy day blues and embrace the bloom-tastic season ahead? I sure am!…"
-image: "https://static.wixstatic.com/media/e2dd7e_c77c08186f314f30a1e21ffcc8a5afcf~mv2.jpeg"
+image: "/assets/img/blog/wix/e2dd7e_c77c08186f314f30a1e21ffcc8a5afcf.webp"
 section: city-guides
 cities: ["Portland"]
 wixTags: ["portland","portland oregon","oregon","best real estate agent in portland","portland realtor","portland real estate agent","things to do in portland","farmers market","gardens","san lu","waterfront park","chinese garden","spring","japanese garden","picnic","biking","rose garden","cherry blossoms","portland spring","forest park"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/springactivitiesinportland"
 ---
 Hey there, Portland pals and springtime enthusiasts! Are you ready to shake off those rainy day blues and embrace the bloom-tastic season ahead? I sure am! Spring has sprung in the City of Roses, and let me tell you, there's no shortage of ways to celebrate. So grab your rain boots and your sense of adventure, because we're about to dive into some seriously fun spring activities in Portland!
 
-![Portland Cherry Blossoms](https://static.wixstatic.com/media/e2dd7e_c77c08186f314f30a1e21ffcc8a5afcf~mv2.jpeg)
+![Portland Cherry Blossoms](/assets/img/blog/wix/e2dd7e_c77c08186f314f30a1e21ffcc8a5afcf.webp)
 
 1.  **Floral Frolics at the International Rose Test Garden:** Let's kick things off with a quintessential Portland experience – a visit to the world-renowned International Rose Test Garden. With over 10,000 dazzling blooms in every color of the rainbow, this garden is a feast for the eyes and the perfect place to bask in the beauty of spring.  
 

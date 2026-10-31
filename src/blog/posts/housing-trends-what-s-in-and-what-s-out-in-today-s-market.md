@@ -2,7 +2,7 @@
 title: "Housing Trends: What’s In and What’s Out in Today’s Market"
 date: 2026-04-24
 description: "The housing market in 2026 is defined by a shift in mindset. Today’s buyers are more intentional, value-driven, and lifestyle-focused than ever before. With…"
-image: "https://static.wixstatic.com/media/ebe7c6c8665d4a5ab4d3712810d3ecde.jpg"
+image: "/assets/img/blog/wix/ebe7c6c8665d4a5ab4d3712810d3ecde.webp"
 section: market-insights
 cities: []
 wixTags: ["#bestportlandrealtor","#RealEstateGoals","#HomeSellingTips","#realestate"]
@@ -12,7 +12,7 @@ The housing market in 2026 is defined by a shift in mindset. Today’s buyers ar
 
 As a real estate professional, understanding these evolving preferences isn’t just helpful—it’s essential for positioning homes effectively in today’s market.
 
-![](https://static.wixstatic.com/media/ebe7c6c8665d4a5ab4d3712810d3ecde.jpg)
+![](/assets/img/blog/wix/ebe7c6c8665d4a5ab4d3712810d3ecde.webp)
 
 ## What’s IN: Trends Driving Buyer Demand
 
@@ -24,7 +24,7 @@ The era of “showroom-perfect” homes is fading. Buyers are gravitating toward
 
 Energy efficiency, eco-conscious materials, and smart-home integration are no longer luxuries—they’re expectations. Features like solar panels, energy-efficient appliances, and climate-resilient upgrades are increasingly influencing purchasing decisions.
 
-![](https://static.wixstatic.com/media/11062b_4920e086cc254c89a6a43abcaf2d2b80~mv2.jpg)
+![](/assets/img/blog/wix/11062b_4920e086cc254c89a6a43abcaf2d2b80.webp)
 
 ### 3\. Flexible, Functional Layouts
 
@@ -34,13 +34,13 @@ Modern buyers want homes that adapt to their lives. Think multi-use rooms, home 
 
 Bringing the outdoors in is a major theme. Natural materials like wood and stone, indoor plants, and seamless indoor-outdoor transitions are highly desirable. Even backyard trends—like edible “grazing gardens”—reflect this movement toward functional outdoor living.
 
-![](https://static.wixstatic.com/media/11062b_c44766ac7c1c42708c5bbbd49ead0995~mv2.jpg)
+![](/assets/img/blog/wix/11062b_c44766ac7c1c42708c5bbbd49ead0995.webp)
 
 ### 5\. Bold Personality and Color
 
 After years of neutral dominance, buyers are embracing color, texture, and individuality. Rich earth tones, layered patterns, and statement features are replacing cookie-cutter interiors.
 
-![](https://static.wixstatic.com/media/11062b_58a0c6e277564d299bd028e9e4aa5efa~mv2.jpg)
+![](/assets/img/blog/wix/11062b_58a0c6e277564d299bd028e9e4aa5efa.webp)
 
 ### 6\. Comfort-First Design
 

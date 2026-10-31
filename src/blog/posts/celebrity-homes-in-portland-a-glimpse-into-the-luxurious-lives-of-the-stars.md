@@ -2,7 +2,7 @@
 title: "Celebrity Homes in Portland: A Glimpse into the Luxurious Lives of the Stars"
 date: 2023-10-06
 description: "Welcome to the glittering side of the City of Roses, where the vibrant culture meets the allure of luxury living. As a seasoned luxury real estate broker…"
-image: "https://static.wixstatic.com/media/e2dd7e_95c6d485b8db4766be81683875d50f26~mv2.jpg"
+image: "/assets/img/blog/wix/e2dd7e_95c6d485b8db4766be81683875d50f26.webp"
 section: city-guides
 cities: ["Portland"]
 wixTags: ["portland","portland realtor","real estate","portland neighborhoods","celebrity homes","luxury"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/celebrity-homes-in-portland-a-gl
 ---
 *Welcome to the glittering side of the City of Roses, where the vibrant culture meets the allure of luxury living. As a seasoned luxury real estate broker with an insider's view of the Portland market, I am excited to take you on a captivating journey through the homes of some of the brightest stars who have chosen to call Portland their home. Prepare to be inspired and awed as we step into the luxurious lives of these celebrities.*
 
-![](https://static.wixstatic.com/media/e2dd7e_95c6d485b8db4766be81683875d50f26~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_95c6d485b8db4766be81683875d50f26.webp)
 
 **A Star-Studded Neighborhood: Dunthorpe**
 

@@ -2,7 +2,7 @@
 title: "Best Family Activities for Portland Summers"
 date: 2026-06-29
 description: "If there’s one thing Portland does exceptionally well, it’s Summer."
-image: "https://static.wixstatic.com/media/95953e590864009190b94697add916e5.jpg"
+image: "/assets/img/blog/wix/95953e590864009190b94697add916e5.webp"
 section: city-guides
 cities: ["Portland"]
 wixTags: ["#bestportlandrealtor","portland summers"]
@@ -16,7 +16,7 @@ Whether you’re planning full weekend adventures or just looking for easy weekd
 
 Here are some of the best family-friendly activities to make the most of a Portland summer.
 
-![](https://static.wixstatic.com/media/95953e590864009190b94697add916e5.jpg)
+![](/assets/img/blog/wix/95953e590864009190b94697add916e5.webp)
 
 ## Explore the Great Outdoors
 
@@ -54,7 +54,7 @@ Portland’s farmers markets are:
 
 Let kids pick out snacks, try something new, or just enjoy the energy of a summer market morning.
 
-![](https://static.wixstatic.com/media/1fb466d5cf3842b3a35e9e7c172abc45.png)
+![](/assets/img/blog/wix/1fb466d5cf3842b3a35e9e7c172abc45.webp)
 
 ## Outdoor Movies & Concerts
 
@@ -82,7 +82,7 @@ One of Portland’s biggest advantages is how much you can experience within a s
 
 These quick trips create memorable experiences without the stress of long travel days.
 
-![](https://static.wixstatic.com/media/11062b_8c9bfd326e5943adaf9ad45b7fbf06b0~mv2.jpg)
+![](/assets/img/blog/wix/11062b_8c9bfd326e5943adaf9ad45b7fbf06b0.webp)
 
 ## Keep It Simple: Parks, Picnics & Playgrounds
 

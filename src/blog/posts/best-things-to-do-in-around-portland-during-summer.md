@@ -2,7 +2,7 @@
 title: "Best Things To Do in & Around Portland during Summer"
 date: 2026-07-23
 description: "If you’ve spent even one summer in Portland, you know—this is when the city truly comes alive."
-image: "https://static.wixstatic.com/media/e2dd7e_91705ae1409144a3bc68c5b28d2742d0~mv2.jpg"
+image: "/assets/img/blog/wix/e2dd7e_91705ae1409144a3bc68c5b28d2742d0.webp"
 section: city-guides
 cities: ["Portland"]
 wixTags: ["best portland realtor","Summer in Portland"]
@@ -14,7 +14,7 @@ The rain fades, the patios fill up, the mountains call your name, and suddenly e
 
 Here’s your guide to making the most of it.
 
-![](https://static.wixstatic.com/media/e2dd7e_91705ae1409144a3bc68c5b28d2742d0~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_91705ae1409144a3bc68c5b28d2742d0.webp)
 
 ## Explore the Outdoors (Without Going Far)
 
@@ -44,7 +44,7 @@ Summer is the perfect time to:
 
 It’s an easy day trip that feels like a full getaway.
 
-![](https://static.wixstatic.com/media/e2dd7e_556ec3bc4b2441038959421039eb072e~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_556ec3bc4b2441038959421039eb072e.webp)
 
 ## Chase Waterfalls in the Columbia River Gorge
 
@@ -88,7 +88,7 @@ From casual to upscale, you’ll find:
 
 Pair great food with long evenings and you’ve got one of the best parts of living here.
 
-![](https://static.wixstatic.com/media/11062b_6fa4b2ae1c0e496293366ca45040bf03~mv2.jpg)
+![](/assets/img/blog/wix/11062b_6fa4b2ae1c0e496293366ca45040bf03.webp)
 
 ## Don’t Miss Local Markets & Events
 

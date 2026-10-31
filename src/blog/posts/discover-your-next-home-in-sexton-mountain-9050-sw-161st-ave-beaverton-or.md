@@ -2,7 +2,7 @@
 title: "Discover Your Next Home in Sexton Mountain — 9050 SW 161st Ave. Beaverton, OR"
 date: 2025-10-15
 description: "If you’re looking for a move-in ready, beautifully maintained home in one of Beaverton’s most desirable neighborhoods, welcome to 9050 SW 161st Ave. Nestled…"
-image: "https://static.wixstatic.com/media/e2dd7e_bea2c96d63144674a0c3c9abc4054a46~mv2.jpg"
+image: "/assets/img/blog/wix/e2dd7e_bea2c96d63144674a0c3c9abc4054a46.webp"
 section: featured-listings
 cities: ["Beaverton"]
 wixTags: ["portland home for sale"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/discover-your-next-home-in-sexto
 ---
 If you’re looking for a move-in ready, beautifully maintained home in one of Beaverton’s most desirable neighborhoods, welcome to **9050 SW 161st Ave**. Nestled at the end of a quiet street and bordering greenspace, this corner-lot residence strikes a rare balance of privacy, comfort, and community.
 
-![](https://static.wixstatic.com/media/e2dd7e_bea2c96d63144674a0c3c9abc4054a46~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_bea2c96d63144674a0c3c9abc4054a46.webp)
 
 ### 🏠 Property Snapshot
 
@@ -40,19 +40,19 @@ $573,500
 
 Tucked away at the end of a quiet street, the home backs onto greenspace and is adjacent to a neighborhood walking path — giving you both privacy and a direct connection to nature.
 
-![](https://static.wixstatic.com/media/e2dd7e_cfdffa584bc6449c9897247080697c32~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_cfdffa584bc6449c9897247080697c32.webp)
 
 #### Open, Bright & Welcoming Interiors
 
 With soaring ceilings and an open-concept floor plan, the living spaces feel airy and inviting. A cozy gas fireplace anchors the living room, creating a focal point for relaxation.
 
-![](https://static.wixstatic.com/media/e2dd7e_7770f58b011a440dae440aac7b038df3~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_7770f58b011a440dae440aac7b038df3.webp)
 
 #### Kitchen Designed for Modern Living
 
 The kitchen is a standout — stainless steel appliances, a gas range, walk-in pantry, and a generous island with bar seating make it ideal for both everyday meals and entertaining.
 
-![](https://static.wixstatic.com/media/e2dd7e_eb85f7f183b240f7b4f5c6115db9d3e1~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_eb85f7f183b240f7b4f5c6115db9d3e1.webp)
 
 #### Comfortable & Flexible Upper Floor
 
@@ -76,7 +76,7 @@ These updates mean less hassle for the next owner and more time to enjoy what re
 
 -   **Private Yard & Deck**: Perfect for outdoor dinners, relaxing mornings, or weekend barbecues.
 
-![](https://static.wixstatic.com/media/e2dd7e_5b707491d85b4d81add1e8e6276f10f6~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_5b707491d85b4d81add1e8e6276f10f6.webp)
 
 ### Why It Stands Out in Beaverton’s Market
 

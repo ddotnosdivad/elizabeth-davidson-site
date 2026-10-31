@@ -2,7 +2,7 @@
 title: "Buying vs. Building: Pros and Cons of Luxury Home Construction in Portland"
 date: 2023-09-25
 description: "In the realm of luxury real estate, the decision to buy an existing property or embark on a custom home construction journey is a pivotal moment. As a…"
-image: "https://static.wixstatic.com/media/11062b_b5fc2e0fe08144988d1f1e87249efb6c~mv2.jpg"
+image: "/assets/img/blog/wix/11062b_b5fc2e0fe08144988d1f1e87249efb6c.webp"
 section: buying-selling
 cities: []
 wixTags: ["Home buying tips","real estate market trends","house hunting","home buying process","buyers checklist","real estate advice","home search","building a home","home building","real estate buyers","buyers market","home buyers guide","mortgage options","real estate investing"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/buying-vs-building-pros-and-cons
 ---
 *In the realm of luxury real estate, the decision to buy an existing property or embark on a custom home construction journey is a pivotal moment. As a seasoned luxury real estate broker specializing in the Portland market, I understand that this choice can be both thrilling and complex. In this blog post, we'll explore the pros and cons of each option to help you make an informed decision that aligns with your unique vision of luxury living in the Rose City.*
 
-![](https://static.wixstatic.com/media/11062b_b5fc2e0fe08144988d1f1e87249efb6c~mv2.jpg)
+![](/assets/img/blog/wix/11062b_b5fc2e0fe08144988d1f1e87249efb6c.webp)
 
 **The Art of Acquiring Luxury: Buying an Existing Property**
 

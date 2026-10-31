@@ -2,13 +2,13 @@
 title: "☀️ Selling This Summer? Here’s How to Get Your Home Hot Market Ready (Without Breaking a Sweat!)"
 date: 2025-04-23
 description: "Hey there, savvy homeowners! 🏡✨"
-image: "https://static.wixstatic.com/media/a58e6b9b1236a18d87cee49ac813e01f.jpg"
+image: "/assets/img/blog/wix/a58e6b9b1236a18d87cee49ac813e01f.webp"
 section: buying-selling
 cities: []
 wixTags: ["portland real estate","best realtor in portland","home selling tips","summer home listing","selling in the summer"]
 wixUrl: "https://www.elizabethdavidson.com/post/selling-this-summer-here-s-how-to-get-your-home-hot-market-ready-without-breaking-a-sweat"
 ---
-![](https://static.wixstatic.com/media/a58e6b9b1236a18d87cee49ac813e01f.jpg)
+![](/assets/img/blog/wix/a58e6b9b1236a18d87cee49ac813e01f.webp)
 
 Hey there, savvy homeowners! 🏡✨
 

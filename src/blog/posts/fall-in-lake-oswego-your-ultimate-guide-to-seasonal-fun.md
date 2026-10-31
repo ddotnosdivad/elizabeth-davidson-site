@@ -2,7 +2,7 @@
 title: "Fall in Lake Oswego: Your Ultimate Guide to Seasonal Fun!"
 date: 2024-09-17
 description: "Hey there, fall fanatics and leaf lovers! 🍂🍁 Ready to dive into the autumnal wonderland of Lake Oswego, OR? As your favorite local real estate broker…"
-image: "https://static.wixstatic.com/media/11062b_ee801198a09a460e9ecd0013fe440cca~mv2.jpg"
+image: "/assets/img/blog/wix/11062b_ee801198a09a460e9ecd0013fe440cca.webp"
 section: city-guides
 cities: ["Lake Oswego"]
 wixTags: ["best portland real estate agent","fall in lake oswego"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/fall-in-lake-oswego-your-ultimat
 ---
 Hey there, fall fanatics and leaf lovers! 🍂🍁 Ready to dive into the autumnal wonderland of Lake Oswego, OR? As your favorite local real estate broker who’s always in the know, I’m thrilled to take you on a tour of the best things to do in this charming town when the air turns crisp and the leaves paint the town in hues of gold and crimson.
 
-![pumpkin patch](https://static.wixstatic.com/media/11062b_ee801198a09a460e9ecd0013fe440cca~mv2.jpg)
+![pumpkin patch](/assets/img/blog/wix/11062b_ee801198a09a460e9ecd0013fe440cca.webp)
 
 ### 1\. Explore the Scenic Trails at George Rogers Park
 
@@ -20,7 +20,7 @@ First up, lace up those hiking boots and hit the trails at George Rogers Park. W
 
 Every Saturday from 8:30 AM to 1:30 PM, the Lake Oswego Farmers Market is buzzing with fresh produce, artisan goodies, and a whole lot of fall flair. Think pumpkins, apples, and homemade pies. Grab a hot cider, sample some tasty treats, and stock up on seasonal delights. It’s a feast for the senses!
 
-![Fall Farmer's Market](https://static.wixstatic.com/media/11062b_8e372c22a6444fdba5b289d5859c1f1e~mv2.jpeg)
+![Fall Farmer's Market](/assets/img/blog/wix/11062b_8e372c22a6444fdba5b289d5859c1f1e.webp)
 
 ### 3\. Savor Seasonal Flavors at Local Cafés
 
@@ -50,7 +50,7 @@ For those who love a good challenge with a reward at the end, hiking up Mount Sy
 
 Foothills Park is another great spot for a fall picnic. With its lovely views of the lake and ample space, you can spread out a blanket, bring a basket of seasonal goodies, and enjoy a relaxed meal surrounded by the beauty of fall. Don’t forget your warm blanket!
 
-![Fall Picnic](https://static.wixstatic.com/media/11062b_7b0598ac8fa54f32a86b073839e75305~mv2.jpg)
+![Fall Picnic](/assets/img/blog/wix/11062b_7b0598ac8fa54f32a86b073839e75305.webp)
 
 ### 10\. Get Crafty at a Local Workshop
 

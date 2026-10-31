@@ -2,7 +2,7 @@
 title: "☀️Summer in Portland: The Best Outdoor Adventures for Every Kind of Explorer"
 date: 2025-06-16
 description: "Ah, Portland in the Summer — where the skies are (mostly) blue, the trees are vibing, and everyone suddenly remembers they own hiking boots and paddle…"
-image: "https://static.wixstatic.com/media/11062b_72fc210882d04c99af1b63e15121e0ff~mv2.jpg"
+image: "/assets/img/blog/wix/11062b_72fc210882d04c99af1b63e15121e0ff.webp"
 section: city-guides
 cities: ["Portland"]
 wixTags: ["best portland real estate agent","best portland realtor","family activities","portland summer"]
@@ -12,7 +12,7 @@ Ah, Portland in the Summer — where the skies are (mostly) blue, the trees are 
 
 Whether you’re new to the city or a long-time local rediscovering your backyard, these adventures are guaranteed to turn your weekends into “why-didn’t-we-do-this-sooner?” memories.
 
-![Summer in Portland](https://static.wixstatic.com/media/11062b_72fc210882d04c99af1b63e15121e0ff~mv2.jpg)
+![Summer in Portland](/assets/img/blog/wix/11062b_72fc210882d04c99af1b63e15121e0ff.webp)
 
 ### 🥾 1. Hike (or Frolic) in Forest Park
 

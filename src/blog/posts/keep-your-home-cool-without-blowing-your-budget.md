@@ -2,7 +2,7 @@
 title: "☀️ Keep Your Home Cool, Without Blowing Your Budget! 🏡💸"
 date: 2025-08-12
 description: "Ah, summer. The season of sunshine, backyard BBQs, and… skyrocketing energy bills? Not on our watch!"
-image: "https://static.wixstatic.com/media/11062b_f30cd58e40e84a9d95b1263d1acac025~mv2.jpg"
+image: "/assets/img/blog/wix/11062b_f30cd58e40e84a9d95b1263d1acac025.webp"
 section: home-tips
 cities: []
 wixTags: []
@@ -12,7 +12,7 @@ Ah, summer. The season of sunshine, backyard BBQs, and… skyrocketing energy bi
 
 As a professional Realtor®, I spend a lot of time in homes—showing them, inspecting them, and helping families find *the one*. And believe me, nothing turns off a potential buyer faster than stepping into a sauna disguised as a living room! But whether you're selling, buying, or just chilling (literally) at home, here are **budget-friendly tips to keep your home cool without melting your wallet**.
 
-![](https://static.wixstatic.com/media/11062b_f30cd58e40e84a9d95b1263d1acac025~mv2.jpg)
+![](/assets/img/blog/wix/11062b_f30cd58e40e84a9d95b1263d1acac025.webp)
 
 ### 1\. Close Those Curtains & Blinds
 
@@ -44,7 +44,7 @@ Ovens and stovetops crank up your indoor temp. Try grilling outside, using the m
 
 🔥 *Grill + chill = summer goals.*
 
-![](https://static.wixstatic.com/media/11062b_5006fe0dbdc046f796d50067dbbceb19~mv2.jpg)
+![](/assets/img/blog/wix/11062b_5006fe0dbdc046f796d50067dbbceb19.webp)
 
 ### 6\. Plant Some Shade
 

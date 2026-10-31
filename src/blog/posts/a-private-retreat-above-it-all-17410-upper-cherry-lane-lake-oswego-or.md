@@ -2,7 +2,7 @@
 title: "A Private Retreat Above It All: 17410 Upper Cherry Lane | Lake Oswego, OR"
 date: 2026-08-09
 description: "5 BED | 3 FULL BATH + 2 HALF BATH | 4,819 SQ. FT."
-image: "https://static.wixstatic.com/media/e2dd7e_7fd277919e0e437596ffd64dca2ab4ec~mv2.jpg"
+image: "/assets/img/blog/wix/e2dd7e_7fd277919e0e437596ffd64dca2ab4ec.webp"
 section: featured-listings
 cities: ["Lake Oswego"]
 wixTags: ["#RealEstateGoals","best lake oswego real estate agent","Lake Oswego","#luxuryhome","Luxury Living","#lo","Portland Real Estate"]
@@ -12,7 +12,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/a-private-retreat-above-it-all-1
 
 Tucked away in one of Lake Oswego’s most desirable settings, 17410 Upper Cherry Lane offers a rare blend of refined luxury, privacy, and breathtaking natural beauty. Set on an expansive lot and elevated to capture sweeping scenic views, this exceptional residence delivers the kind of lifestyle that is both serene and sophisticated.
 
-![](https://static.wixstatic.com/media/e2dd7e_cbff741102424dccbef69355bd7a304b~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_cbff741102424dccbef69355bd7a304b.webp)
 
 From the moment you arrive, the home makes a lasting impression. Thoughtfully designed with a focus on both elegance and livability, the property seamlessly combines high-end finishes with a warm, welcoming atmosphere. Expansive windows frame the surrounding landscape, inviting in natural light and showcasing the home’s most captivating feature—its stunning, unobstructed views.
 

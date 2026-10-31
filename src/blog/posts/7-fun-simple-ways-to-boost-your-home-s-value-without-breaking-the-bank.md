@@ -2,14 +2,14 @@
 title: "🏡 7 Fun & Simple Ways to Boost Your Home’s Value (Without Breaking the Bank!)"
 date: 2025-07-21
 description: "Whether you're thinking of selling soon or just want to love your space a little more (and boost its value while you're at it), you're in the right place.…"
-image: "https://static.wixstatic.com/media/edcb2e19a98747b6a0cf1cadbbae0a3e.jpg"
+image: "/assets/img/blog/wix/edcb2e19a98747b6a0cf1cadbbae0a3e.webp"
 section: home-tips
 cities: []
 wixTags: []
 wixUrl: "https://www.elizabethdavidson.com/post/7-fun-simple-ways-to-boost-your-home-s-value-without-breaking-the-bank"
 ---
 ![Home Improvement
-](https://static.wixstatic.com/media/edcb2e19a98747b6a0cf1cadbbae0a3e.jpg)
+](/assets/img/blog/wix/edcb2e19a98747b6a0cf1cadbbae0a3e.webp)
 
 Whether you're thinking of selling soon or just want to love your space a little more (and boost its value while you're at it), you're in the right place. As a professional Realtor®, I've seen firsthand how *small, smart updates* can lead to **big payoffs** when it's time to sell. Even if you're not putting that “For Sale” sign in the yard just yet, it's never too early to start building equity in your home!
 
@@ -19,7 +19,7 @@ Here are 7 fun, budget-friendly ways to increase your home’s value—starting 
 
 First impressions count. Give your home a facelift with a fresh coat of paint on the front door, new house numbers, updated light fixtures, and some colorful potted plants. Bonus: It’s a weekend project you can totally brag about.
 
-![](https://static.wixstatic.com/media/11062b_873ac72460054dbfa91cd115e9b98005~mv2.jpeg)
+![](/assets/img/blog/wix/11062b_873ac72460054dbfa91cd115e9b98005.webp)
 
 ### 2\. The Kitchen: Where Value Cooks
 
@@ -30,7 +30,7 @@ You don’t need a full renovation! Swap out old cabinet hardware, upgrade your 
 Again, small changes make a big impact. Think new mirrors, modern light fixtures, or re-grouting tile. A squeaky-clean, updated bathroom signals “well-maintained” to buyers.
 
 ![Bathroom Upgrade
-](https://static.wixstatic.com/media/11062b_2d8e665184934f8eac1ed3bfc63ccc1d~mv2.jpeg)
+](/assets/img/blog/wix/11062b_2d8e665184934f8eac1ed3bfc63ccc1d.webp)
 
 ### 4\. Let There Be (Better) Light
 

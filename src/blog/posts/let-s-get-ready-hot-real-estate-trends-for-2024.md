@@ -2,7 +2,7 @@
 title: "Let's Get Ready: Hot Real Estate Trends for 2024!"
 date: 2024-02-11
 description: "Hey there, fellow real estate enthusiasts! As we kick off another exciting year in the world of property, it's time to dive into the coolest, quirkiest, and…"
-image: "https://static.wixstatic.com/media/11062b_b8e8cc5a0f14423590591aac8e0672f5~mv2.jpg"
+image: "/assets/img/blog/wix/11062b_b8e8cc5a0f14423590591aac8e0672f5.webp"
 section: market-insights
 cities: []
 wixTags: ["best portland realtor","portland oregon","luxury homes","luxury real estate","home decor","home design","backyard","smart home","real estate trends","green space","2024 real estate","tech"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/let-s-get-ready-hot-real-estate-
 ---
 Hey there, fellow real estate enthusiasts! As we kick off another exciting year in the world of property, it's time to dive into the coolest, quirkiest, and downright fabulous trends shaping the real estate scene in 2024. So, grab your virtual hard hats and let's explore what's hot and happening:
 
-![smart home](https://static.wixstatic.com/media/11062b_b8e8cc5a0f14423590591aac8e0672f5~mv2.jpg)
+![smart home](/assets/img/blog/wix/11062b_b8e8cc5a0f14423590591aac8e0672f5.webp)
 
 1.  Space is the New Black: Forget about square footage—space optimization is the name of the game! With more people embracing remote work and flexible lifestyles, homebuyers are craving properties that can adapt to their ever-changing needs. Think multifunctional rooms, convertible spaces, and clever storage solutions that maximize every square inch. Who says you can't have a home gym slash home office slash movie theater all in one?  
 
@@ -22,6 +22,6 @@ Hey there, fellow real estate enthusiasts! As we kick off another exciting year 
 
 5.  Outdoor Oasis: With the great outdoors calling our names louder than ever, outdoor living spaces are becoming the ultimate sanctuary. Picture-perfect patios, cozy fire pits, and lush green gardens are where it's at. Whether you're hosting a barbecue with friends or enjoying a solo sunset yoga session, your backyard paradise awaits!  
 
-![backyard design](https://static.wixstatic.com/media/11062b_35abe37eb05f4db794095c90a1285970~mv2.jpeg)
+![backyard design](/assets/img/blog/wix/11062b_35abe37eb05f4db794095c90a1285970.webp)
 
 So, there you have it—2024's top real estate trends served up with a side of fun and flair! Whether you're on the hunt for your dream home or looking to spice up your current digs, these trends are sure to inspire and delight. Happy house hunting, everyone!

@@ -2,7 +2,7 @@
 title: "Sparkle and Shine: How to Get Your Home Ready for a Fabulous Fourth of July Bash!"
 date: 2024-06-28
 description: "Hello, party planners and home lovers! As your go-to real estate broker and festive celebration enthusiast, I'm here to help you turn your home into the…"
-image: "https://static.wixstatic.com/media/fabfa1c31a6c49e3bdb891b1fcda2aec.jpg"
+image: "/assets/img/blog/wix/fabfa1c31a6c49e3bdb891b1fcda2aec.webp"
 section: home-tips
 cities: []
 wixTags: ["portland oregon","party tips","party ideas","best realtor portland","holiday bbq","fourth of july","4th of July","home decorating"]
@@ -14,19 +14,19 @@ Hello, party planners and home lovers! As your go-to real estate broker and fest
 
 First things first, let's declutter! Clear away any unnecessary items to make room for your guests. Once you’ve got a clean slate, it’s time to decorate. Think patriotic! Red, white, and blue are your go-to colors. Hang some bunting, string up fairy lights, and don’t forget those little American flags. Balloons and streamers are also a must for that festive flair.
 
-![fourth of july dog party](https://static.wixstatic.com/media/fabfa1c31a6c49e3bdb891b1fcda2aec.jpg)
+![fourth of july dog party](/assets/img/blog/wix/fabfa1c31a6c49e3bdb891b1fcda2aec.webp)
 
 **2\. Outdoor Oasis**
 
 Summer parties are all about the great outdoors. Spruce up your backyard or patio by mowing the lawn, trimming the hedges, and adding some potted plants or flowers. Set up a comfortable seating area with plenty of chairs and maybe even some outdoor cushions. An outdoor rug can also add a touch of coziness. Don’t forget to have some shade options like umbrellas or a canopy, just in case the sun gets too intense.
 
-![fourth of july](https://static.wixstatic.com/media/3bcd2f197334405bb3c44884ee8f23bc.jpg)
+![fourth of july](/assets/img/blog/wix/3bcd2f197334405bb3c44884ee8f23bc.webp)
 
 **3\. Grill Master Station**
 
 Nothing says Fourth of July like a good old-fashioned BBQ. Clean your grill thoroughly and make sure it’s in top working condition. Set up a grilling station with all the essentials: tongs, spatula, basting brush, and plenty of napkins. Stock up on propane or charcoal, so you don’t run out in the middle of cooking. And if you really want to impress, consider setting up a DIY burger or hot dog bar with all the fixings!
 
-![fourth of july hot dogs](https://static.wixstatic.com/media/70bbd2ac9aa1411d986cb22ce5582607.jpg)
+![fourth of july hot dogs](/assets/img/blog/wix/70bbd2ac9aa1411d986cb22ce5582607.webp)
 
 **4\. Beverage Bar Bonanza**
 
@@ -36,13 +36,13 @@ Keep your guests refreshed with a well-stocked beverage bar. Offer a variety of 
 
 Entertainment is key to a successful party. Set up some lawn games like cornhole, horseshoes, or bocce ball. For the kids (and kids at heart), a sprinkler or slip ‘n slide can provide hours of fun. If you have a pool, make sure it’s clean and ready for swimmers. And for the grand finale, have some sparklers and glow sticks on hand for a safe but exciting light show.
 
-![sparklers](https://static.wixstatic.com/media/c740c43868c444ccbbe75778e9c91a65.jpg)
+![sparklers](/assets/img/blog/wix/c740c43868c444ccbbe75778e9c91a65.webp)
 
 **6\. Feast for the Fourth**
 
 Plan a menu that’s festive and fun. Think grilled meats, fresh salads, and plenty of snacks. A patriotic fruit platter with strawberries, blueberries, and marshmallows is a healthy and festive treat. Don’t forget dessert! Cupcakes with red, white, and blue frosting, or a classic apple pie will be a hit. And if you really want to wow your guests, consider a s’mores bar with all the fixings.
 
-![fourth of july desserts](https://static.wixstatic.com/media/a4c5d1c3eccc49188c4df41d1702c1df.jpg)
+![fourth of july desserts](/assets/img/blog/wix/a4c5d1c3eccc49188c4df41d1702c1df.webp)
 
 **7\. Firework Friendly**
 
@@ -56,7 +56,7 @@ As the evening winds down, create cozy corners where guests can relax and unwind
 
 Set the mood with a festive playlist. Mix in some patriotic tunes, summer hits, and a few of your favorites to keep the energy up. If you have outdoor speakers, even better! Just make sure the volume is at a respectful level so you don’t disturb the neighbors.
 
-![fourth of july](https://static.wixstatic.com/media/11062b_b0b56a883321473cab9808128a92813a~mv2.jpg)
+![fourth of july](/assets/img/blog/wix/11062b_b0b56a883321473cab9808128a92813a.webp)
 
 **10\. Final Touches**
 

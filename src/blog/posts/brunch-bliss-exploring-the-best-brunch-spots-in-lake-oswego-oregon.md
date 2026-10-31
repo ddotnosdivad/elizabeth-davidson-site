@@ -2,7 +2,7 @@
 title: "Brunch Bliss: Exploring the Best Brunch Spots in Lake Oswego, Oregon"
 date: 2023-12-29
 description: "Hello, brunch enthusiasts and potential Lake Oswego homeowners! As a dedicated realtor, I not only help you find the perfect home but also guide you through…"
-image: "https://static.wixstatic.com/media/5e8760804ad34282ac257dba59c4f2a0.jpg"
+image: "/assets/img/blog/wix/5e8760804ad34282ac257dba59c4f2a0.webp"
 section: city-guides
 cities: ["Lake Oswego"]
 wixTags: ["lake oswego food scene","Jefe","lake oswego brunch","best lake oswego restaurants","Lola's brunch","tavern on kruse","babica hen","oregon brunch experiences","brunch with a view lake oswego","portland brunch","nicoletta's table","the harvest wine bar","best brunch"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/brunch-bliss-exploring-the-best-
 ---
 Hello, brunch enthusiasts and potential Lake Oswego homeowners! As a dedicated realtor, I not only help you find the perfect home but also guide you through the delightful aspects of life in this charming city. Today, let's embark on a culinary adventure to discover the best brunch spots that make Lake Oswego a haven for foodies.
 
-![best brunch in Lake Oswego](https://static.wixstatic.com/media/5e8760804ad34282ac257dba59c4f2a0.jpg)
+![best brunch in Lake Oswego](/assets/img/blog/wix/5e8760804ad34282ac257dba59c4f2a0.webp)
 
 **1\.** [**Babica Hen Café: A Cozy Culinary Retreat**](https://www.babicahencafe.com/)
 

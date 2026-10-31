@@ -2,7 +2,7 @@
 title: "Inside Today’s Luxury Buyer: What High-End Homebuyers Are Looking for in 2025"
 date: 2025-12-15
 description: "Spoiler alert: It’s not just about a big house anymore!"
-image: "https://static.wixstatic.com/media/11062b_b8e8cc5a0f14423590591aac8e0672f5~mv2.jpg"
+image: "/assets/img/blog/wix/11062b_b8e8cc5a0f14423590591aac8e0672f5.webp"
 section: market-insights
 cities: []
 wixTags: ["pdx","lake oswego","Elizabeth Davidson Realtor","best lake oswego realtor","lo"]
@@ -13,7 +13,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/inside-today-s-luxury-buyer-what
 Luxury homebuyers today are savvy, lifestyle-focused, and craving more than just square footage—they want a home that fits their lives, tech-savvy routines, and wellness goals. In 2025, the modern high-end buyer has a clear vision of what luxury truly means. Let’s take a peek inside their wish list—and why these features are redefining upscale living in Portland, Lake Oswego, and beyond.
 
 ![Smart Home
-](https://static.wixstatic.com/media/11062b_b8e8cc5a0f14423590591aac8e0672f5~mv2.jpg)
+](/assets/img/blog/wix/11062b_b8e8cc5a0f14423590591aac8e0672f5.webp)
 
 ## 📱 Smart Home Tech: Convenience Meets Cutting-Edge Style
 
@@ -63,7 +63,7 @@ For high-end buyers, privacy isn’t optional—it’s a must. With today’s li
 
 In 2025, a home’s ability to offer peace, quiet, and discretion is as valuable as its finishes.
 
-![Luxury Home ](https://static.wixstatic.com/media/b3b886a0a9b74317a559c3a604086453.jpg)
+![Luxury Home ](/assets/img/blog/wix/b3b886a0a9b74317a559c3a604086453.webp)
 
 ## 🏠 Multigenerational Floor Plans: Luxury for Every Generation
 

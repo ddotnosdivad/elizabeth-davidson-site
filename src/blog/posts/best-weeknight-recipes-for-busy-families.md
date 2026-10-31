@@ -2,7 +2,7 @@
 title: "Best Weeknight Recipes for Busy Families"
 date: 2023-09-28
 description: "Welcome to a blog post that's a little different from my usual luxury real estate topics. As a professional luxury real estate broker, I understand that…"
-image: "https://static.wixstatic.com/media/e7e52ec73266434ab0eaf484e0862b8c.jpg"
+image: "/assets/img/blog/wix/e7e52ec73266434ab0eaf484e0862b8c.webp"
 section: home-tips
 cities: []
 wixTags: ["portland","realtor","recipes","family recipes","stir fry","tacos","spaghetti","kid friendly meals","meal plan","fajitas","weeknight recipes","family guide"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/best-weeknight-recipes-for-busy-
 ---
 *Welcome to a blog post that's a little different from my usual luxury real estate topics. As a professional luxury real estate broker, I understand that life can be incredibly hectic, especially for busy families. After a long day of work, school, and other commitments, the last thing you want to do is spend hours in the kitchen. That's why I'm excited to share some of the best weeknight recipes that are not only delicious but also quick and family-friendly. Let's dive into some culinary inspiration for your busy weeknights.*
 
-![](https://static.wixstatic.com/media/e7e52ec73266434ab0eaf484e0862b8c.jpg)
+![](/assets/img/blog/wix/e7e52ec73266434ab0eaf484e0862b8c.webp)
 
 **1\. Sheet Pan Chicken Fajitas:**  
 
@@ -34,7 +34,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/best-weeknight-recipes-for-busy-
 
     -   Serve with tortillas, salsa, and your favorite toppings.
 
-![](https://static.wixstatic.com/media/11062b_8ef97558f68a4b35ade4b6c5dfd762d2~mv2.jpg)
+![](/assets/img/blog/wix/11062b_8ef97558f68a4b35ade4b6c5dfd762d2.webp)
 
 **2\. One-Pot Spaghetti Bolognese:**  
 
@@ -64,7 +64,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/best-weeknight-recipes-for-busy-
 
     -   Top with Parmesan cheese and enjoy.
 
-![](https://static.wixstatic.com/media/3229b1d351054b0c9e170d0e82dff1a8.jpg)
+![](/assets/img/blog/wix/3229b1d351054b0c9e170d0e82dff1a8.webp)
 
 **3\. Stir-Fried Shrimp and Vegetables:**  
 
@@ -90,7 +90,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/best-weeknight-recipes-for-busy-
 
     -   Serve over rice or noodles.
 
-![](https://static.wixstatic.com/media/11062b_1fe89e0b022f46ffbdf8c463f5c0d161~mv2.jpg)
+![](/assets/img/blog/wix/11062b_1fe89e0b022f46ffbdf8c463f5c0d161.webp)
 
 **4\. Tacos with a Twist:**  
 
@@ -114,7 +114,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/best-weeknight-recipes-for-busy-
 
     -   Heat tortillas and serve with your favorite taco toppings.
 
-![](https://static.wixstatic.com/media/11062b_0ca48252cf044bd7af578b9b0d0afe4e~mv2.jpg)
+![](/assets/img/blog/wix/11062b_0ca48252cf044bd7af578b9b0d0afe4e.webp)
 
 **5\. Quick Veggie Stir-Fry:**  
 

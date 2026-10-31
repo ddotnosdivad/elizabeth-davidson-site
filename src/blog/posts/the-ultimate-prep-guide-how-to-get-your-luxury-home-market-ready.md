@@ -2,7 +2,7 @@
 title: "The Ultimate Prep Guide: How to Get Your Luxury Home Market-Ready"
 date: 2025-12-09
 description: "Where first impressions meet exceptional returns."
-image: "https://static.wixstatic.com/media/e2dd7e_3d6a6a9a010847499ef2fe65978c41e6~mv2.jpg"
+image: "/assets/img/blog/wix/e2dd7e_3d6a6a9a010847499ef2fe65978c41e6.webp"
 section: buying-selling
 cities: []
 wixTags: ["portland real estate","pdx","lake oswego","#HomeSellingTips","luxury homes","Easy Festive Recipes for Kids"]
@@ -14,7 +14,7 @@ Selling a luxury home isn’t just about listing it—it’s about presenting it
 
 Whether you’re selling an exquisite lakefront estate in Lake Oswego or a contemporary masterpiece in Portland’s West Hills, here’s your ultimate guide to getting your luxury home truly market-ready.
 
-![home selling prep](https://static.wixstatic.com/media/e2dd7e_3d6a6a9a010847499ef2fe65978c41e6~mv2.jpg)
+![home selling prep](/assets/img/blog/wix/e2dd7e_3d6a6a9a010847499ef2fe65978c41e6.webp)
 
 ## ✨ Step 1: Stage to Highlight Lifestyle, Not Just Space
 
@@ -54,7 +54,7 @@ Your home’s visual presence online is often the *first showing*, and high-end 
 
 In the luxury market, visuals are storytelling—and your story must stand out.
 
-![Elizabeth Davidson](https://static.wixstatic.com/media/e2dd7e_c67522edbc074c0990a51e39ed372381~mv2.jpg)
+![Elizabeth Davidson](/assets/img/blog/wix/e2dd7e_c67522edbc074c0990a51e39ed372381.webp)
 
 ## 🔧 Step 3: Make Strategic Upgrades with the Best ROI
 

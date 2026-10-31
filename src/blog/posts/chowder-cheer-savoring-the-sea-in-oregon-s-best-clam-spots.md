@@ -2,7 +2,7 @@
 title: "Chowder Cheer: Savoring the Sea in Oregon's Best Clam Spots!"
 date: 2024-01-26
 description: "Ahoy, fellow flavor adventurers and chowder enthusiasts! If your taste buds are yearning for a seaside symphony of creamy goodness, you're in for a treat.…"
-image: "https://static.wixstatic.com/media/11062b_5d9d0892bf054135bbc61e08e3de7dbc~mv2.jpg"
+image: "/assets/img/blog/wix/11062b_5d9d0892bf054135bbc61e08e3de7dbc.webp"
 section: city-guides
 cities: ["Oregon Getaways"]
 wixTags: ["oregon","best restaurants","oregon coast","coast","clam chowder","newport","best clam chowder"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/chowder-cheer-savoring-the-sea-i
 ---
 Ahoy, fellow flavor adventurers and chowder enthusiasts! If your taste buds are yearning for a seaside symphony of creamy goodness, you're in for a treat. As your friendly neighborhood real estate connoisseur and self-proclaimed clam chowder aficionado, I'm here to guide you through the best spots in Oregon to slurp, savor, and celebrate the glory of clam chowder. Buckle up your taste buds, because we're diving deep into the sea of savory sensations!
 
-![Clam and seafood chowder in Oregon](https://static.wixstatic.com/media/11062b_5d9d0892bf054135bbc61e08e3de7dbc~mv2.jpg)
+![Clam and seafood chowder in Oregon](/assets/img/blog/wix/11062b_5d9d0892bf054135bbc61e08e3de7dbc.webp)
 
 **1\. Mo's Restaurant - The Classic Cove of Chowder Dreams**
 

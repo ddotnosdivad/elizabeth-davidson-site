@@ -2,7 +2,7 @@
 title: "The Ultimate Guide for First-Time Home Sellers: Let's Make It Happen!"
 date: 2025-02-11
 description: "So, you've decided to sell your home for the first time? Congratulations! Whether you're upgrading to a larger space, downsizing, or just looking for a…"
-image: "https://static.wixstatic.com/media/a58e6b9b1236a18d87cee49ac813e01f.jpg"
+image: "/assets/img/blog/wix/a58e6b9b1236a18d87cee49ac813e01f.webp"
 section: buying-selling
 cities: []
 wixTags: ["best portland real estate agent","portland","pdx","best portland realtor","#RealEstateGoals","#HomeSellingTips"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/the-ultimate-guide-for-first-tim
 ---
 So, you've decided to sell your home for the first time? Congratulations! Whether you're upgrading to a larger space, downsizing, or just looking for a change of scenery, selling your home can be a big step. But don’t worry, I’ve got you covered. Let’s break it down so you can approach the process with confidence and, dare I say, even a little excitement. It’s time to put that “For Sale” sign in the yard and get ready for your next adventure!
 
-![](https://static.wixstatic.com/media/a58e6b9b1236a18d87cee49ac813e01f.jpg)
+![](/assets/img/blog/wix/a58e6b9b1236a18d87cee49ac813e01f.webp)
 
 ### Step 1: Know Your Why
 
@@ -74,4 +74,4 @@ Selling your first home can be overwhelming, but with the right preparation and 
 
 So, are you ready to get started? Let’s make your home sale happen! ✨🏠
 
-![](https://static.wixstatic.com/media/11062b_7c9359e1c03b44e8bfec3ddc7470a136~mv2.jpg)
+![](/assets/img/blog/wix/11062b_7c9359e1c03b44e8bfec3ddc7470a136.webp)

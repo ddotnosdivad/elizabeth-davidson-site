@@ -2,7 +2,7 @@
 title: "Private Schools, Parks, Trails & Lifestyle Amenities That Attract Luxury Buyers"
 date: 2026-03-04
 description: "As a Realtor® specializing in Portland and Lake Oswego, I can tell you this with absolute confidence: luxury buyers aren’t just shopping for square footage…"
-image: "https://static.wixstatic.com/media/11062b_42c25c69456340b7bf931bd589d33ae2~mv2.jpg"
+image: "/assets/img/blog/wix/11062b_42c25c69456340b7bf931bd589d33ae2.webp"
 section: market-insights
 cities: []
 wixTags: ["portland","pdx","lake oswego","#bestportlandrealtor","#RealEstateGoals","#realestate","Portland Neighborhoods"]
@@ -14,7 +14,7 @@ Yes, they want architectural beauty and refined finishes. But what truly seals t
 
 In our market, lifestyle amenities are not “extras.” They’re everything. Let’s talk about the key features that consistently attract high-end buyers to Portland and Lake Oswego.
 
-![](https://static.wixstatic.com/media/11062b_42c25c69456340b7bf931bd589d33ae2~mv2.jpg)
+![](/assets/img/blog/wix/11062b_42c25c69456340b7bf931bd589d33ae2.webp)
 
 ## Prestigious Private Schools That Elevate Property Value
 

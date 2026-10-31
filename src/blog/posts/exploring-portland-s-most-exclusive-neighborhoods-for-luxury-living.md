@@ -2,7 +2,7 @@
 title: "Exploring Portland's Most Exclusive Neighborhoods for Luxury Living"
 date: 2023-10-06
 description: "Portland, Oregon: a city known for its vibrant culture, stunning natural landscapes, and a thriving real estate market that caters to luxury connoisseurs.…"
-image: "https://static.wixstatic.com/media/e2dd7e_f8238b533cf5437fb2bb6fc751963e1f~mv2.png"
+image: "/assets/img/blog/wix/e2dd7e_f8238b533cf5437fb2bb6fc751963e1f.webp"
 section: city-guides
 cities: ["Portland"]
 wixTags: ["portland","luxury homes","Luxury real estate","realtor","best neighborhoods","home buying","best real estate","exclusive neighborhoods"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/exploring-portland-s-most-exclus
 ---
 *Portland, Oregon: a city known for its vibrant culture, stunning natural landscapes, and a thriving real estate market that caters to luxury connoisseurs. As a professional luxury real estate broker, I am delighted to guide you through a virtual tour of some of the most exclusive neighborhoods in Portland, where luxury living reaches new heights.*
 
-![](https://static.wixstatic.com/media/e2dd7e_f8238b533cf5437fb2bb6fc751963e1f~mv2.png)
+![](/assets/img/blog/wix/e2dd7e_f8238b533cf5437fb2bb6fc751963e1f.webp)
 
 *1\.* ***The West Hills****:*
 

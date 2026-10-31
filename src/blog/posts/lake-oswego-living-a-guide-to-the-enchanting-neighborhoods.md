@@ -2,7 +2,7 @@
 title: "Lake Oswego Living: A Guide to the Enchanting Neighborhoods"
 date: 2023-12-13
 description: "Greetings, future Lake Oswego residents and potential homeowners! 🏡✨ As a seasoned real estate aficionado, I'm thrilled to be your guide through the…"
-image: "https://static.wixstatic.com/media/e2dd7e_95c6d485b8db4766be81683875d50f26~mv2.jpg"
+image: "/assets/img/blog/wix/e2dd7e_95c6d485b8db4766be81683875d50f26.webp"
 section: city-guides
 cities: ["Lake Oswego"]
 wixTags: ["portland","lake oswego","oregon","portland guide","best neighborhoods","family neighborhood","neighborhood","neighborhood guide"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/lake-oswego-living-a-guide-to-th
 ---
 Greetings, future Lake Oswego residents and potential homeowners! 🏡✨ As a seasoned real estate aficionado, I'm thrilled to be your guide through the picturesque neighborhoods of Lake Oswego, Oregon – a community where tranquility meets sophistication and natural beauty embraces suburban charm. Let's dive into the distinct character of each neighborhood, helping you discover the perfect corner of this idyllic town to call home.
 
-![Lake Oswego](https://static.wixstatic.com/media/e2dd7e_95c6d485b8db4766be81683875d50f26~mv2.jpg)
+![Lake Oswego](/assets/img/blog/wix/e2dd7e_95c6d485b8db4766be81683875d50f26.webp)
 
 ### 1\. First Addition – Historic Elegance:
 

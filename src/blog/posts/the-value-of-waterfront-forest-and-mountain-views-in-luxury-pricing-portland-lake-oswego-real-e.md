@@ -2,7 +2,7 @@
 title: "The Value of Waterfront, Forest, and Mountain Views in Luxury Pricing: Portland & Lake Oswego Real Estate Insights"
 date: 2026-02-27
 description: "As a Realtor® specializing in Portland and Lake Oswego, I can tell you this without hesitation: Views sell homes."
-image: "https://static.wixstatic.com/media/11062b_1d01a2cc38c24bf7ab81188518db52d7~mv2.jpg"
+image: "/assets/img/blog/wix/11062b_1d01a2cc38c24bf7ab81188518db52d7.webp"
 section: market-insights
 cities: []
 wixTags: ["pdx","lake oswego","#RealEstateGoals"]
@@ -20,7 +20,7 @@ Not just any views — but *the right* views. [In](http://views.In) the luxury 
 
 Let’s break down how each impacts luxury pricing — and why buyers are willing to pay more for them.
 
-![](https://static.wixstatic.com/media/11062b_1d01a2cc38c24bf7ab81188518db52d7~mv2.jpg)
+![](/assets/img/blog/wix/11062b_1d01a2cc38c24bf7ab81188518db52d7.webp)
 
 ## Waterfront: The Ultimate Luxury Multiplier
 
@@ -44,7 +44,7 @@ In Portland, riverfront properties along the Willamette also carry strong pricin
 
 Waterfront isn’t just about [beauty.It](http://beauty.It)’s about scarcity — and scarcity drives value.
 
-![](https://static.wixstatic.com/media/11062b_988df6e2be4349ca9e92fdc2b6b41058~mv2.jpg)
+![](/assets/img/blog/wix/11062b_988df6e2be4349ca9e92fdc2b6b41058.webp)
 
 ## Forest Views: Privacy, Serenity & Long-Term Appeal
 

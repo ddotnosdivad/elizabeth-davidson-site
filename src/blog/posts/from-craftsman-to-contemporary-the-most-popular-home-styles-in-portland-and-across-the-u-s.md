@@ -2,7 +2,7 @@
 title: "🏡 From Craftsman to Contemporary: The Most Popular Home Styles in Portland (and Across the U.S.)"
 date: 2025-06-16
 description: "Hey there, home lovers! Whether you’re house-hunting, daydreaming, or just zoning out during your third Zoom call of the day (I won’t tell 😉), you’ve…"
-image: "https://static.wixstatic.com/media/11062b_ee5add250ee643d1abc55ec22f16cf66~mv2.jpg"
+image: "/assets/img/blog/wix/11062b_ee5add250ee643d1abc55ec22f16cf66.webp"
 section: home-tips
 cities: []
 wixTags: ["best portland real estate agent","portland real estate","portland homes","mid century modern","home styles"]
@@ -11,7 +11,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/from-craftsman-to-contemporary-t
 Hey there, home lovers! Whether you’re house-hunting, daydreaming, or just zoning out during your third Zoom call of the day (I won’t tell 😉), you’ve probably noticed that *home style* is a big deal—especially in a city as quirky and design-savvy as Portland, Oregon.
 
 ![contemporary living room
-](https://static.wixstatic.com/media/11062b_ee5add250ee643d1abc55ec22f16cf66~mv2.jpg)
+](/assets/img/blog/wix/11062b_ee5add250ee643d1abc55ec22f16cf66.webp)
 
 So, let’s take a stroll—iced coffee in hand, of course—through Portland’s most beloved home styles, and see how they compare to the hottest trends nationwide. Spoiler alert: Portland's got *major* curb appeal.
 
@@ -21,13 +21,13 @@ So, let’s take a stroll—iced coffee in hand, of course—through Portland’
 
 **2\. Mid-Century Modern** Cue the Mad Men soundtrack—Portland has *serious* mid-century vibes. Clean lines, big windows, and functional design? Yes, please. You’ll find MCM homes in neighborhoods like Beaverton and the West Hills, often with open floor plans and enough glass to make your houseplants weep with joy.
 
-![mid century modern](https://static.wixstatic.com/media/11062b_a352f344f2bd47b79d9cdbf5bfc4a953~mv2.jpg)
+![mid century modern](/assets/img/blog/wix/11062b_a352f344f2bd47b79d9cdbf5bfc4a953.webp)
 
 **3\. Bungalows (a.k.a. Cozy Central)** Smaller than their Craftsman cousins but just as full of personality, Portland bungalows are perfect for those who want charm without the upkeep of a mansion. Bonus: many have been lovingly updated with modern kitchens and eco-friendly touches.
 
 **4\. Victorian & Queen Anne Beauties**Yes, Portland has its fair share of old-school glamour. These ornate homes, often painted in whimsical colors (we see you, Alberta Arts District), bring a splash of fairytale magic to the urban landscape.
 
-![](https://static.wixstatic.com/media/422cf6621f685161837661409958801b.jpg)
+![](/assets/img/blog/wix/422cf6621f685161837661409958801b.webp)
 
 **5\. Modern Farmhouse**A newer trend in the Portland metro area, especially in suburbs like Happy Valley and Sherwood, the modern farmhouse blends rustic charm with sleek finishes. Think shiplap, black-framed windows, and open shelving galore.
 
@@ -41,7 +41,7 @@ Let’s zoom out and see what Americans coast-to-coast are loving these days:
 
 **✔️ Contemporary / Modern**Sleek, bold, and energy-efficient. Contemporary homes are rising stars in places like California, Texas, and—you guessed it—Portland, too.
 
-![Contemporary House](https://static.wixstatic.com/media/11062b_37b2c48d18e34a398b8c8cee99758a23~mv2.jpg)
+![Contemporary House](/assets/img/blog/wix/11062b_37b2c48d18e34a398b8c8cee99758a23.webp)
 
 **✔️ Cape Cod**These cottage-style cuties are still a hit in the Northeast and beyond. Steep roofs, dormer windows, and major storybook vibes make them irresistible.
 

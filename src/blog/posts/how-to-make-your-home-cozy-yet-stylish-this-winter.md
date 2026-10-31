@@ -2,7 +2,7 @@
 title: "How to Make Your Home Cozy Yet Stylish This Winter"
 date: 2025-02-12
 description: "Winter is here, and while some of us love the chill in the air, there’s no denying it—nothing beats curling up in a warm, inviting space. Whether you're…"
-image: "https://static.wixstatic.com/media/11062b_ef2374a2826b4ec68e83aa3b3c81ac13~mv2.jpg"
+image: "/assets/img/blog/wix/11062b_ef2374a2826b4ec68e83aa3b3c81ac13.webp"
 section: home-tips
 cities: []
 wixTags: ["best portland real estate agent","portland","best portland realtor","best realtor in portland","home decor"]
@@ -12,7 +12,7 @@ Winter is here, and while some of us love the chill in the air, there’s no den
 
 So grab your favorite blanket, sip your hot cocoa (or mulled wine—no judgment), and let’s dive into some toasty tips that’ll make your home the ultimate winter retreat.
 
-![Cozy Home](https://static.wixstatic.com/media/11062b_ef2374a2826b4ec68e83aa3b3c81ac13~mv2.jpg)
+![Cozy Home](/assets/img/blog/wix/11062b_ef2374a2826b4ec68e83aa3b3c81ac13.webp)
 
 ### 1\. Layer Up Your Textiles
 
@@ -27,7 +27,7 @@ You know that feeling when you walk into a home and just instantly feel at ease?
 The best part? These simple touches are inexpensive and immediately add character without overhauling your entire space. Keep the color palette warm and inviting with shades like deep navy, earthy browns, rich burgundy, or mustard yellow to give your home a welcoming glow.
 
 ![cozy
-](https://static.wixstatic.com/media/11062b_f7baf2413a7340fa854f2de203cc7cb3~mv2.jpg)
+](/assets/img/blog/wix/11062b_f7baf2413a7340fa854f2de203cc7cb3.webp)
 
 ### 2\. Lighting is Everything (But Keep it Soft!)
 
@@ -77,7 +77,7 @@ The colder months are the perfect excuse to upgrade your bedding. Not only will 
 
 Don’t forget, this is not just about comfort; it’s about creating a serene space that makes you want to stay in bed all day (don't worry, I won't tell anyone).
 
-![](https://static.wixstatic.com/media/11062b_be84d96ea1ab4ae38c090bd348f51b08~mv2.jpg)
+![](/assets/img/blog/wix/11062b_be84d96ea1ab4ae38c090bd348f51b08.webp)
 
 ### 6\. Incorporate Winter Accents (But Keep it Classy!)
 

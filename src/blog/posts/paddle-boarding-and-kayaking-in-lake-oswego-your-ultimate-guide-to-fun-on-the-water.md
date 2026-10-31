@@ -2,7 +2,7 @@
 title: "Paddle Boarding and Kayaking in Lake Oswego: Your Ultimate Guide to Fun on the Water"
 date: 2024-07-16
 description: "Hello, fellow adventure seekers! As a professional real estate broker (and water sports enthusiast) in the beautiful Lake Oswego, Oregon, I'm thrilled to…"
-image: "https://static.wixstatic.com/media/11062b_6e4b050c49fe463cb722de488c6c374c~mv2.jpeg"
+image: "/assets/img/blog/wix/11062b_6e4b050c49fe463cb722de488c6c374c.webp"
 section: city-guides
 cities: ["Lake Oswego"]
 wixTags: ["portland oregon","lake oswego","oregon","best realtor in portland","portland homes","paddleboarding in lake oswego","summer activities","kayaking","family activities in lake oswego","paddleboarding","kayaking in lake oswego"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/paddle-boarding-and-kayaking-in-
 ---
 Hello, fellow adventure seekers! As a professional real estate broker (and water sports enthusiast) in the beautiful Lake Oswego, Oregon, I'm thrilled to share with you some of the best spots to paddle board and kayak in our stunning lake. Whether you're a seasoned paddler or a curious newbie, Lake Oswego has something for everyone. So, grab your paddle, slap on some sunscreen, and let's dive into the watery wonders of our lovely lake!
 
-![Paddle Boarding](https://static.wixstatic.com/media/11062b_6e4b050c49fe463cb722de488c6c374c~mv2.jpeg)
+![Paddle Boarding](/assets/img/blog/wix/11062b_6e4b050c49fe463cb722de488c6c374c.webp)
 
 ### 1\. George Rogers Park
 

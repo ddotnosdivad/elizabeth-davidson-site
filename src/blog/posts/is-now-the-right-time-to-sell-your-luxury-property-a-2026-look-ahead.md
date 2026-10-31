@@ -2,7 +2,7 @@
 title: "Is Now the Right Time to Sell Your Luxury Property? A 2026 Look Ahead"
 date: 2026-04-06
 description: "As a Realtor® specializing in Portland and Lake Oswego luxury real estate, I get this question more often than any other:"
-image: "https://static.wixstatic.com/media/11062b_c44766ac7c1c42708c5bbbd49ead0995~mv2.jpg"
+image: "/assets/img/blog/wix/11062b_c44766ac7c1c42708c5bbbd49ead0995.webp"
 section: market-insights
 cities: []
 wixTags: ["#bestportlandrealtor","#RealEstateGoals","#HomeSellingTips","#realestate","2026portlandhomes"]
@@ -15,7 +15,7 @@ As a Realtor® specializing in Portland and Lake Oswego luxury real estate, I ge
 Luxury markets are unique. Unlike entry-level or mid-market homes, high-end properties move differently. Timing, economic trends, and buyer behavior all play a critical role. With 2026 unfolding, here’s a look ahead at what sellers should consider before making a move.
 
 ![luxury home portland
-](https://static.wixstatic.com/media/11062b_c44766ac7c1c42708c5bbbd49ead0995~mv2.jpg)
+](/assets/img/blog/wix/11062b_c44766ac7c1c42708c5bbbd49ead0995.webp)
 
 ## Understanding the Luxury Market in Portland & Lake Oswego
 
@@ -29,7 +29,7 @@ Portland and Lake Oswego continue to attract high-net-worth buyers seeking:
 
 Luxury buyers are looking for more than square footage. They’re buying **lifestyle, views, and exclusivity**. These factors often insulate the market from short-term fluctuations that affect mainstream properties.
 
-![high end kitchen](https://static.wixstatic.com/media/11062b_4920e086cc254c89a6a43abcaf2d2b80~mv2.jpg)
+![high end kitchen](/assets/img/blog/wix/11062b_4920e086cc254c89a6a43abcaf2d2b80.webp)
 
 ## 2026 Economic Outlook
 
@@ -57,7 +57,7 @@ Luxury buyers are increasingly prioritizing:
 
 If your home aligns with these trends, it will attract more qualified buyers and likely sell faster — even in a cautious market.
 
-![](https://static.wixstatic.com/media/11062b_87da9cfe53b7458fa7571c2ddd8d9179~mv2.jpg)
+![](/assets/img/blog/wix/11062b_87da9cfe53b7458fa7571c2ddd8d9179.webp)
 
 ## Signs It’s a Good Time to Sell
 
@@ -105,4 +105,4 @@ So, is 2026 the right time to sell your luxury property?
 
 Timing the luxury market isn’t about guessing the economy — it’s about positioning your home so buyers see its full value the moment they walk through the door.
 
-![](https://static.wixstatic.com/media/11062b_a2add05fd55e429787aa4da0e500c1a1~mv2.jpg)
+![](/assets/img/blog/wix/11062b_a2add05fd55e429787aa4da0e500c1a1.webp)

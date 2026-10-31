@@ -2,7 +2,7 @@
 title: "How to Prepare Your Home for an Inspection: A Real Estate Agent’s Guide"
 date: 2024-08-21
 description: "As a seasoned real estate agent, I’ve seen the home inspection process make or break deals. Whether you're selling your first home or your fifth, preparing…"
-image: "https://static.wixstatic.com/media/11062b_7c9359e1c03b44e8bfec3ddc7470a136~mv2.jpg"
+image: "/assets/img/blog/wix/11062b_7c9359e1c03b44e8bfec3ddc7470a136.webp"
 section: buying-selling
 cities: []
 wixTags: []
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/how-to-prepare-your-home-for-an-
 ---
 As a seasoned real estate agent, I’ve seen the home inspection process make or break deals. Whether you're selling your first home or your fifth, preparing for an inspection can feel like a nerve-wracking experience. But fear not! With a bit of preparation, you can make this process smooth, stress-free, and even a little bit fun. Here’s how to get your home inspection-ready and impress those inspectors like a pro!
 
-![](https://static.wixstatic.com/media/11062b_7c9359e1c03b44e8bfec3ddc7470a136~mv2.jpg)
+![](/assets/img/blog/wix/11062b_7c9359e1c03b44e8bfec3ddc7470a136.webp)
 
 #### 1\. Clean Like You Mean It!
 
@@ -20,7 +20,7 @@ First impressions matter, even to home inspectors. While they're focused on stru
 
 Home inspectors will need easy access to critical areas like the attic, basement, electrical panels, and HVAC units. Make sure these spaces are clutter-free and accessible. If they have to navigate through boxes or obstacles, it could delay the process—or worse, cause them to miss something important.
 
-![home organization](https://static.wixstatic.com/media/11062b_71bda120170c4c30afd7a3aea3d1ced5~mv2.jpg)
+![home organization](/assets/img/blog/wix/11062b_71bda120170c4c30afd7a3aea3d1ced5.webp)
 
 #### 3\. Tackle Minor Repairs
 
@@ -46,7 +46,7 @@ Even in the best-maintained homes, surprises can pop up during inspections. Don�
 
 The home inspection process is just one step closer to closing the sale. By preparing your home thoroughly, you’re setting the stage for a successful outcome. Plus, the effort you put in now can save you from last-minute stress and help keep the sale on track.
 
-![home](https://static.wixstatic.com/media/11062b_5c007e1cf964496fbb8c041a2e99232d~mv2.jpg)
+![home](/assets/img/blog/wix/11062b_5c007e1cf964496fbb8c041a2e99232d.webp)
 
 By following these tips, you'll help ensure that your home inspection goes off without a hitch. And remember, as your real estate agent, I’m here to guide you through every step of the process.
 

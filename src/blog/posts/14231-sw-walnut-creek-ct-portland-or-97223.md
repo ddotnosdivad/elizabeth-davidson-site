@@ -2,7 +2,7 @@
 title: "14231 SW Walnut Creek Ct.  | Portland, OR 97223"
 date: 2026-04-17
 description: "4 BED | 3 BATH | 1,904 SQ. FT."
-image: "https://static.wixstatic.com/media/e2dd7e_d77c267f508d4cc292853e94030a17d2~mv2.png"
+image: "/assets/img/blog/wix/e2dd7e_d77c267f508d4cc292853e94030a17d2.webp"
 section: featured-listings
 cities: ["Portland"]
 wixTags: []
@@ -12,7 +12,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/14231-sw-walnut-creek-ct-portlan
 
 I’m beyond excited to introduce my newest listing at **14231 SW Walnut Creek Ct in Portland**, a home that effortlessly blends comfort, style, and that hard-to-find *“this is the one”* feeling. You know what I’m talking about—that moment when you walk into a space and can already picture your life unfolding there. This home delivers that in the best way.
 
-![](https://static.wixstatic.com/media/e2dd7e_d77c267f508d4cc292853e94030a17d2~mv2.png)
+![](/assets/img/blog/wix/e2dd7e_d77c267f508d4cc292853e94030a17d2.webp)
 
 **A Peaceful Little Pocket of Portland**
 
@@ -28,7 +28,7 @@ The living areas are designed for real life. Whether you’re hosting friends fo
 
 And can we talk about versatility for a second? This is one of those homes that adapts to *you*. Need a home office? A workout corner? A reading nook? You’ll find the space—and the inspiration—here.
 
-![](https://static.wixstatic.com/media/e2dd7e_7757518f7b4642e381dbf2a404b9657a~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_7757518f7b4642e381dbf2a404b9657a.webp)
 
 **The Heart of the Home**
 
@@ -36,7 +36,7 @@ The kitchen is ready for it all. Quick weekday breakfasts before heading out the
 
 With plenty of workspace and a layout that keeps you connected to the rest of the home, it’s as practical as it is inviting. Because let’s be honest—some of the best moments happen right here, whether it’s over coffee, conversation, or a last-minute takeout spread.
 
-![](https://static.wixstatic.com/media/e2dd7e_429f1b211640450db945dc02ecae73a6~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_429f1b211640450db945dc02ecae73a6.webp)
 
 **Cozy Meets Calm**
 
@@ -48,7 +48,7 @@ Step outside, and you’ve got a backyard that’s just waiting to become your f
 
 There’s space to entertain, space to relax, and space to make it your own. Add some string lights, a couple of comfy chairs, and you’ve got yourself a vibe.
 
-![](https://static.wixstatic.com/media/e2dd7e_58aa1b68297048cc8058e296d43301bd~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_58aa1b68297048cc8058e296d43301bd.webp)
 
 **Location That Just Makes Sense**
 

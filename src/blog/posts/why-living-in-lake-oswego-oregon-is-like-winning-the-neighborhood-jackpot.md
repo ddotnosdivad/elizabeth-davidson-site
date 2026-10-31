@@ -2,7 +2,7 @@
 title: "Why Living in Lake Oswego, Oregon, is Like Winning the Neighborhood Jackpot"
 date: 2024-08-02
 description: "If Lake Oswego were a person, it would be that friend who always knows the coolest spots in town, has an eye for style, and somehow manages to stay…"
-image: "https://static.wixstatic.com/media/e2dd7e_95c6d485b8db4766be81683875d50f26~mv2.jpg"
+image: "/assets/img/blog/wix/e2dd7e_95c6d485b8db4766be81683875d50f26.webp"
 section: city-guides
 cities: ["Lake Oswego"]
 wixTags: ["portland","pdx","lake oswego","oregon","best real estate agent in portland","best realtor in portland","luxury homes","luxury real estate","lakes in portland","lake oswego guide","best neighborhood in portland to live"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/why-living-in-lake-oswego-oregon
 ---
 If Lake Oswego were a person, it would be that friend who always knows the coolest spots in town, has an eye for style, and somehow manages to stay effortlessly classy while being down-to-earth. Nestled just 8 miles south of Portland, this gem of a town is where nature, luxury, and a tight-knit community vibe all come together for one heck of a living experience.
 
-![Lake Oswego, OR](https://static.wixstatic.com/media/e2dd7e_95c6d485b8db4766be81683875d50f26~mv2.jpg)
+![Lake Oswego, OR](/assets/img/blog/wix/e2dd7e_95c6d485b8db4766be81683875d50f26.webp)
 
 ### The Great Outdoors (Right Outside Your Door)
 

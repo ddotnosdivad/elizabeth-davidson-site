@@ -2,13 +2,13 @@
 title: "Navigating the Holidays: A Real Estate Agent's Guide to Surviving the Festive Season"
 date: 2023-11-30
 description: "Hello, my dear readers! As a real estate agent, I often find myself guiding clients through the complex world of buying and selling homes. But today, I'm…"
-image: "https://static.wixstatic.com/media/11062b_fcdf23b09e5f445b9d058652994d2f71~mv2.jpg"
+image: "/assets/img/blog/wix/11062b_fcdf23b09e5f445b9d058652994d2f71.webp"
 section: buying-selling
 cities: []
 wixTags: ["portland real estate","portland oregon","best realtor in portland","Surviving the Holidays","Holiday Self-Care","Holiday Planning Tips","Holiday Decorating Advice","Managing Holiday Expectations","Holiday Stress Management","Prepping for the Holiday Season","Creating Holiday Traditions","Finding Gratitude during the Holidays","Budgeting for the Holidays"]
 wixUrl: "https://www.elizabethdavidson.com/post/navigating-the-holidays-a-real-estate-agent-s-guide-to-surviving-the-festive-season"
 ---
-![Holiday Shopping](https://static.wixstatic.com/media/11062b_fcdf23b09e5f445b9d058652994d2f71~mv2.jpg)
+![Holiday Shopping](/assets/img/blog/wix/11062b_fcdf23b09e5f445b9d058652994d2f71.webp)
 
 Hello, my dear readers! As a real estate agent, I often find myself guiding clients through the complex world of buying and selling homes. But today, I'm wearing a different hat – the "Holiday Survival Guru" hat! While the holiday season is a time for joy and celebration, it can also bring its share of stress and chaos. So, I'm here to share some tips and tricks to help you survive the holidays with your sanity intact. Let's embark on this festive journey together.
 
@@ -22,7 +22,7 @@ Hello, my dear readers! As a real estate agent, I often find myself guiding clie
 
 **5\. Streamline Your Decor** When selling a house, we often advise decluttering to make it more appealing. The same principle can be applied to holiday decorating. Keep it simple, and don't feel pressured to overdo it. A tasteful and minimalistic approach can still create a festive atmosphere.
 
-![holiday decor](https://static.wixstatic.com/media/11062b_6d0037f45bd74136b384b5cff2f0344d~mv2.jpg)
+![holiday decor](/assets/img/blog/wix/11062b_6d0037f45bd74136b384b5cff2f0344d.webp)
 
 **6\. Embrace Traditions and Create New Ones** Just as real estate has its traditions, so do the holidays. Embrace cherished family traditions, but also be open to creating new ones. This can make the holidays feel fresh and exciting, even when life seems busy.
 
@@ -36,4 +36,4 @@ Hello, my dear readers! As a real estate agent, I often find myself guiding clie
 
 Surviving the holidays, just like navigating the world of real estate, requires preparation, organization, and a touch of resilience. By following these tips, you can not only survive but thrive during this festive season. Wishing you a joyful and stress-free holiday season!
 
-![family holidays](https://static.wixstatic.com/media/11062b_c0a962d384364510ba4853f35fa8dd70~mv2_d_4000_2667_s_4_2.jpg)
+![family holidays](/assets/img/blog/wix/11062b_c0a962d384364510ba4853f35fa8dd70_d_4000_2667_s_4_2.webp)

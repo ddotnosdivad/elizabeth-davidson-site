@@ -2,7 +2,7 @@
 title: "Just Listed in Hillsboro: Spacious Single-Level Living in a Fantastic Neighborhood"
 date: 2026-03-14
 description: "1250 SE 36th Ave. | Hillsboro, OR 97123"
-image: "https://static.wixstatic.com/media/e2dd7e_a3a4ecee8983425d8b4ab6ea4a2d2c83~mv2.jpg"
+image: "/assets/img/blog/wix/e2dd7e_a3a4ecee8983425d8b4ab6ea4a2d2c83.webp"
 section: featured-listings
 cities: ["Hillsboro"]
 wixTags: ["pdx","best portland realtor","oregon","#RealEstateGoals","real estate","hillsboro","single-level home"]
@@ -16,7 +16,7 @@ Listed by: Elizabeth Davidson | Cascade Hasson Sotheby's International Realty
 
 [elizabeth@elizabethdavidson.com](mailto:elizabeth@elizabethdavidson.com) | 503.939.2035
 
-![](https://static.wixstatic.com/media/e2dd7e_a3a4ecee8983425d8b4ab6ea4a2d2c83~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_a3a4ecee8983425d8b4ab6ea4a2d2c83.webp)
 
 If you’ve been waiting for a **single-level home with space, charm, and a fantastic yard**, you’re going to want to take a closer look at this new listing in the heart of Hillsboro.
 
@@ -46,7 +46,7 @@ The backyard includes:
 
 Whether you're hosting summer BBQs or enjoying a quiet morning coffee outside, this backyard offers space and flexibility.
 
-![](https://static.wixstatic.com/media/e2dd7e_505e147e7c434e3bb8efebda60441263~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_505e147e7c434e3bb8efebda60441263.webp)
 
 ## Practical Features Buyers Love
 

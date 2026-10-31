@@ -2,7 +2,7 @@
 title: "Family Fun Extravaganza: Unmissable Activities in Portland, Oregon!"
 date: 2023-09-21
 description: "Hello, fellow luxury aficionados and adventure-seeking families! While my usual gig involves guiding you through the world of opulent real estate, today…"
-image: "https://static.wixstatic.com/media/11062b_8ab60862e8a54a02b24a8faa498d87e1~mv2.jpg"
+image: "/assets/img/blog/wix/11062b_8ab60862e8a54a02b24a8faa498d87e1.webp"
 section: city-guides
 cities: ["Portland"]
 wixTags: ["family activities","back to school activities","portland oregon homes","outdoor activities","family fun"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/family-fun-extravaganza-unmissab
 ---
 *Hello, fellow luxury aficionados and adventure-seeking families! While my usual gig involves guiding you through the world of opulent real estate, today we're embarking on a delightful journey through the vibrant family-friendly activities that Portland, Oregon has to offer. Buckle up, kids and parents alike, because we're about to dive into a world of fun and unforgettable memories in the City of Roses.*
 
-![](https://static.wixstatic.com/media/11062b_8ab60862e8a54a02b24a8faa498d87e1~mv2.jpg)
+![](/assets/img/blog/wix/11062b_8ab60862e8a54a02b24a8faa498d87e1.webp)
 
 **1\. The Oregon Zoo: Where Animal Magic Comes to Life**
 

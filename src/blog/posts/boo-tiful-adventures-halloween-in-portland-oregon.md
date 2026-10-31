@@ -2,7 +2,7 @@
 title: "Boo-tiful Adventures: Halloween in Portland, Oregon!"
 date: 2024-10-15
 description: "Hello, Portland spirits and pumpkin enthusiasts! 🎃 As your local real estate agent and Halloween aficionado, I’m here to dish out some spooktacular…"
-image: "https://static.wixstatic.com/media/11062b_ca608181dd7f4c6dbdb4d8e71930dce8~mv2.jpeg"
+image: "/assets/img/blog/wix/11062b_ca608181dd7f4c6dbdb4d8e71930dce8.webp"
 section: city-guides
 cities: ["Portland"]
 wixTags: ["best portland real estate agent","lake oswego","best real estate agent in portland","family activities","halloween in portland"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/boo-tiful-adventures-halloween-i
 ---
 Hello, Portland spirits and pumpkin enthusiasts! 🎃 As your local real estate agent and Halloween aficionado, I’m here to dish out some spooktacular activities happening in our vibrant city this October. From haunted houses that will send chills down your spine to pumpkin patches bursting with autumn vibes, there’s no shortage of frightful fun. So grab your witch's hat and broomstick, and let’s dive into all the boo-tiful things to do for Halloween in Portland!
 
-![Halloween in Portland](https://static.wixstatic.com/media/11062b_ca608181dd7f4c6dbdb4d8e71930dce8~mv2.jpeg)
+![Halloween in Portland](/assets/img/blog/wix/11062b_ca608181dd7f4c6dbdb4d8e71930dce8.webp)
 
 ### 1\. Haunted Houses Galore!
 

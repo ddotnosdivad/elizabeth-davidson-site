@@ -2,7 +2,7 @@
 title: "Skiing in Oregon: Where the Slopes Meet the Supernatural!"
 date: 2023-12-13
 description: "Hey there, snow seekers and winter wonderland enthusiasts! If you're dreaming of fresh powder, crisp mountain air, and carving your way through a snowy…"
-image: "https://static.wixstatic.com/media/11062b_2a8c1093c1a94d8fbd184d9cb9519024~mv2.jpg"
+image: "/assets/img/blog/wix/11062b_2a8c1093c1a94d8fbd184d9cb9519024.webp"
 section: city-guides
 cities: ["Oregon Getaways"]
 wixTags: ["portland","skiing in oregon","best ski resorts","slopes","mountains","snowboarding","mt. hood","mt. bachelor"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/skiing-in-oregon-where-the-slope
 ---
 Hey there, snow seekers and winter wonderland enthusiasts! If you're dreaming of fresh powder, crisp mountain air, and carving your way through a snowy paradise, Oregon is your ticket to alpine adventure. As your go-to real estate snow sherpa (because house hunting is an extreme sport, right?), I'm here to guide you to the coolest ski spots in the Beaver State. So, buckle up those ski boots, and let's hit the slopes with all the zest Oregon has to offer!
 
-![skiing in oregon](https://static.wixstatic.com/media/11062b_2a8c1093c1a94d8fbd184d9cb9519024~mv2.jpg)
+![skiing in oregon](/assets/img/blog/wix/11062b_2a8c1093c1a94d8fbd184d9cb9519024.webp)
 
 [**1\. Mt. Hood Meadows: The Alpine All-Star**](https://www.skihood.com/) Cue the drumroll for Mt. Hood Meadows – the granddaddy of Oregon ski resorts! With a vertical drop that'll make your heart skip a beat and terrain that caters to every skill level, Meadows is a ski haven like no other. Whether you're a seasoned pro or a snow bunny taking the bunny hill, this place is a winter wonderland waiting to be conquered.
 
@@ -26,4 +26,4 @@ Hey there, snow seekers and winter wonderland enthusiasts! If you're dreaming of
 
 So, whether you're a seasoned skier or a snow bunny in training, Oregon has a ski slope calling your name. And hey, who knows? Your dream home might just be a ski jump away from these snowy paradises. Happy shredding! 🎿❄️  
 
-![snowboarding in oregon](https://static.wixstatic.com/media/11062b_0341f46c2bd24e7c8a059350aab12a1a~mv2.jpeg)
+![snowboarding in oregon](/assets/img/blog/wix/11062b_0341f46c2bd24e7c8a059350aab12a1a.webp)

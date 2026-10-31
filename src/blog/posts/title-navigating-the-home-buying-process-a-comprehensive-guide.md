@@ -2,7 +2,7 @@
 title: "Navigating the Home Buying Process: A Comprehensive Guide"
 date: 2023-10-22
 description: "The decision to buy a home is a significant milestone in one's life, marked by excitement, anticipation, and perhaps a touch of anxiety. It's an endeavor…"
-image: "https://static.wixstatic.com/media/7522472bec305be8a2daa255416eec90.jpg"
+image: "/assets/img/blog/wix/7522472bec305be8a2daa255416eec90.webp"
 section: buying-selling
 cities: []
 wixTags: ["home buying process","real estate guide","home ownership journey","property search tips","closing a house","home inspection checklist","first-time home buyer tips","budget for buying a home","working with a real estate agent","mortgage pre-approval"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/title-navigating-the-home-buying
 ---
 The decision to buy a home is a significant milestone in one's life, marked by excitement, anticipation, and perhaps a touch of anxiety. It's an endeavor that involves substantial financial investments and important life choices. To help you navigate the intricate journey of purchasing a home, we've put together this comprehensive guide. Whether you're a first-time buyer or a seasoned homeowner, this article will serve as a valuable resource in your home-buying process.
 
-![Dream home](https://static.wixstatic.com/media/7522472bec305be8a2daa255416eec90.jpg)
+![Dream home](/assets/img/blog/wix/7522472bec305be8a2daa255416eec90.webp)
 
 **Step 1: Define Your Goals**
 
@@ -59,5 +59,3 @@ Owning a home comes with responsibilities. Regular maintenance and home insuranc
 **Conclusion**
 
 The home-buying process is a journey that can be both exciting and challenging. With careful planning, a clear budget, a knowledgeable real estate agent, and attention to detail, you can navigate this path successfully. Keep in mind that it's not just a financial transaction; it's the beginning of a new chapter in your life. With the right approach and resources, your dream of homeownership can become a reality.
-
-![Dream home](https://static.wixstatic.com/media/8d9f0b6eba677b00ab7a6e681d24a532.jpg)

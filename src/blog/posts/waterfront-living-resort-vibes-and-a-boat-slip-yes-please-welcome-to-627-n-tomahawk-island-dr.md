@@ -2,7 +2,7 @@
 title: "Waterfront Living, Resort Vibes, and a Boat Slip? Yes, Please! Welcome to 627 N Tomahawk Island Dr."
 date: 2026-08-22
 description: "What if your everyday routine felt a little more like a vacation?"
-image: "https://static.wixstatic.com/media/e2dd7e_d4687fe6de84421d8b49ea29104ce00f~mv2.jpg"
+image: "/assets/img/blog/wix/e2dd7e_d4687fe6de84421d8b49ea29104ce00f.webp"
 section: featured-listings
 cities: ["Portland"]
 wixTags: ["#bestportlandrealtor","hayden island"]
@@ -14,7 +14,7 @@ Imagine sipping your morning coffee while watching the sunrise over the water. P
 
 Welcome to **627 N Tomahawk Island Dr in Portland**, where waterfront living meets comfort, style, and serious fun.
 
-![](https://static.wixstatic.com/media/e2dd7e_d4687fe6de84421d8b49ea29104ce00f~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_d4687fe6de84421d8b49ea29104ce00f.webp)
 
 ## Say Hello to Your Own Waterfront Escape
 

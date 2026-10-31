@@ -2,7 +2,7 @@
 title: "Why Lake Oswego Continues to Be One of Oregon’s Most Coveted Zip Codes"
 date: 2026-03-09
 description: "As a Realtor® specializing in Portland’s luxury market, I get this question constantly: “Why does everyone want to live in Lake Oswego?”"
-image: "https://static.wixstatic.com/media/e2dd7e_7fecbe7bdbbd4933a8b9904f97857d39~mv2.jpg"
+image: "/assets/img/blog/wix/e2dd7e_7fecbe7bdbbd4933a8b9904f97857d39.webp"
 section: city-guides
 cities: ["Lake Oswego"]
 wixTags: ["portland","pdx","lake oswego","#bestportlandrealtor","best lake oswego real estate agent"]
@@ -14,7 +14,7 @@ The short answer? Because it delivers something rare — privacy, prestige, natu
 
 The longer answer? Let’s dig in.
 
-![](https://static.wixstatic.com/media/e2dd7e_7fecbe7bdbbd4933a8b9904f97857d39~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_7fecbe7bdbbd4933a8b9904f97857d39.webp)
 
 ## A True Luxury Lifestyle — Not Just Luxury Homes
 

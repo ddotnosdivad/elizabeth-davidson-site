@@ -2,7 +2,7 @@
 title: "Make Mom's Day! Fun Ways to Celebrate Mother's Day in Your Home"
 date: 2024-05-07
 description: "Hey there, home lovers and happy Mother's Day enthusiasts! 🌸 Whether you're a mom, have a mom, or know a mom (which covers pretty much everyone!), it's…"
-image: "https://static.wixstatic.com/media/11062b_6c8cee66ba664c0a945d8d297c3db587~mv2.jpeg"
+image: "/assets/img/blog/wix/11062b_6c8cee66ba664c0a945d8d297c3db587.webp"
 section: home-tips
 cities: []
 wixTags: []
@@ -12,7 +12,7 @@ Hey there, home lovers and happy Mother's Day enthusiasts! 🌸 Whether you're a
 
 **1\. Breakfast in Bed Bonanza** Start the day off right by surprising mom with a delicious homemade breakfast in bed. Get the kids involved in the kitchen (with adult supervision, of course!) and whip up some pancakes, scrambled eggs, or even a fancy fruit parfait. Don't forget the fresh flowers and a handwritten note to make it extra special.
 
-![Breakfast in bed](https://static.wixstatic.com/media/11062b_6c8cee66ba664c0a945d8d297c3db587~mv2.jpeg)
+![Breakfast in bed](/assets/img/blog/wix/11062b_6c8cee66ba664c0a945d8d297c3db587.webp)
 
 **2\. Spa Day at Home** Transform your bathroom into a relaxing spa retreat. Set up candles, play soothing music, and treat mom to a DIY spa day. Offer foot massages, face masks, and a luxurious bubble bath. It's the perfect way to pamper her without leaving the house.
 
@@ -20,7 +20,7 @@ Hey there, home lovers and happy Mother's Day enthusiasts! 🌸 Whether you're a
 
 **4\. Backyard Picnic Party** If the weather permits, take the celebration outdoors with a backyard picnic. Lay out a cozy blanket, pack a basket with mom's favorite snacks and drinks, and enjoy a leisurely afternoon together in nature.
 
-![family picnic](https://static.wixstatic.com/media/11062b_cad35de04a1546e6aaaad4ff854b8e8d~mv2.jpg)
+![family picnic](/assets/img/blog/wix/11062b_cad35de04a1546e6aaaad4ff854b8e8d.webp)
 
 **5\. Movie Marathon Madness** Set up a movie marathon featuring mom's favorite films or classic feel-good movies. Don't forget the popcorn and comfy blankets for the ultimate movie-watching experience.
 

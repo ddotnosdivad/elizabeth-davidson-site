@@ -2,7 +2,7 @@
 title: "Summer Home Maintenance Tips"
 date: 2026-06-13
 description: "Summer in the Pacific Northwest is something special. The days are longer, the sun finally shows up, and your home becomes more than just a place to live—it…"
-image: "https://static.wixstatic.com/media/e2dd7e_4ed539c3e7fa439f8eaf44774d9c30e9~mv2.jpg"
+image: "/assets/img/blog/wix/e2dd7e_4ed539c3e7fa439f8eaf44774d9c30e9.webp"
 section: home-tips
 cities: []
 wixTags: ["best portland realtor","home maintenance"]
@@ -14,7 +14,7 @@ But while you’re enjoying the season, it’s also the perfect time to give you
 
 Here’s your go-to guide for summer home maintenance—Portland style.
 
-![](https://static.wixstatic.com/media/e2dd7e_4ed539c3e7fa439f8eaf44774d9c30e9~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_4ed539c3e7fa439f8eaf44774d9c30e9.webp)
 
 ## Start with the Exterior
 
@@ -48,7 +48,7 @@ Consider:
 
 Even small upgrades can make your outdoor areas feel like an extension of your home.
 
-![](https://static.wixstatic.com/media/e2dd7e_d4f00bd4a0224a9eb2143b064061f957~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_d4f00bd4a0224a9eb2143b064061f957.webp)
 
 ## Keep Your Home Cool and Efficient
 
@@ -80,7 +80,7 @@ Make sure to:
 
 Not only does this improve appearance, but it also helps keep your home energy efficient.
 
-![](https://static.wixstatic.com/media/e2dd7e_f6d5d9dfb8b4448d82904704c6792597~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_f6d5d9dfb8b4448d82904704c6792597.webp)
 
 ## Tackle Small Repairs Before They Become Big Ones
 

@@ -2,7 +2,7 @@
 title: "Welcome to the Adventure of Buying Your First Home!"
 date: 2025-02-11
 description: "So, you’re thinking about buying your first home? Well, buckle up, because you’re about to embark on one of the most exciting (and maybe slightly…"
-image: "https://static.wixstatic.com/media/56b1ad182bb349119217cef75d1ec0a7.jpg"
+image: "/assets/img/blog/wix/56b1ad182bb349119217cef75d1ec0a7.webp"
 section: buying-selling
 cities: []
 wixTags: ["best portland real estate agent","portland","pdx","house hunting","dream home","#FirstTimeHomeBuyer","real estate tips","home sweet home"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/welcome-to-the-adventure-of-buyi
 ---
 So, you’re thinking about buying your first home? Well, buckle up, because you’re about to embark on one of the most exciting (and maybe slightly nerve-wracking) journeys of your life! But don’t worry – I’m here to help you navigate the twists, turns, and those “wait, what does that even mean?” moments with some fun, friendly advice.
 
-![](https://static.wixstatic.com/media/56b1ad182bb349119217cef75d1ec0a7.jpg)
+![](/assets/img/blog/wix/56b1ad182bb349119217cef75d1ec0a7.webp)
 
 **Step 1: Dream Big – But Stay Grounded!**
 
@@ -54,4 +54,4 @@ So, whether you're picturing cozy nights in front of the fireplace, summer BBQs 
 
 Happy house hunting – and welcome to the world of homeownership! 🏡✨
 
-![](https://static.wixstatic.com/media/11062b_76e2ba52528e4130815e12ef64b11b9f~mv2.jpg)
+![](/assets/img/blog/wix/11062b_76e2ba52528e4130815e12ef64b11b9f.webp)

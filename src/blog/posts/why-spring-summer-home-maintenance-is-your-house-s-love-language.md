@@ -2,13 +2,13 @@
 title: "🏡 Why Spring & Summer Home Maintenance Is Your House’s Love Language"
 date: 2025-04-22
 description: "Hey there, homeowners, future sellers, DIY weekend warriors, and proud porch-sitters! 🌷☀️"
-image: "https://static.wixstatic.com/media/e2dd7e_5bd2c87b3fb844159f46c7ba8a69841a~mv2.png"
+image: "/assets/img/blog/wix/e2dd7e_5bd2c87b3fb844159f46c7ba8a69841a.webp"
 section: home-tips
 cities: []
 wixTags: ["best portland real estate agent","oregon","luxury homes","home maintenance"]
 wixUrl: "https://www.elizabethdavidson.com/post/why-spring-summer-home-maintenance-is-your-house-s-love-language"
 ---
-![](https://static.wixstatic.com/media/e2dd7e_5bd2c87b3fb844159f46c7ba8a69841a~mv2.png)
+![](/assets/img/blog/wix/e2dd7e_5bd2c87b3fb844159f46c7ba8a69841a.webp)
 
 Hey there, homeowners, future sellers, DIY weekend warriors, and proud porch-sitters! 🌷☀️
 
@@ -16,7 +16,7 @@ Spring has sprung, the birds are singing louder than your neighbor’s leaf blow
 
 As a professional realtor (and part-time weather optimist), let me tell you: a well-maintained home isn’t just a joy to live in—it also keeps your property value as fresh as a daisy. Whether you're planning to list soon or just want your place to shine, here’s your friendly reminder that taking care of your home during the warmer months is *essential*.
 
-![](https://static.wixstatic.com/media/11062b_f09330616e284fe0819f5c3fdc21f7e6~mv2.jpeg)
+![](/assets/img/blog/wix/11062b_f09330616e284fe0819f5c3fdc21f7e6.webp)
 
 ### 🌸 Spring Into Action: Your Home’s Seasonal Tune-Up
 

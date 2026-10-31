@@ -2,7 +2,7 @@
 title: "🏡 What Adds the Most Value to Your Backyard? A Real Estate Agent's Guide to Outdoor ROI"
 date: 2025-08-17
 description: "When it comes to boosting your home's value, the backyard is often overlooked. Yet in today’s real estate market, outdoor living space is a top priority for…"
-image: "https://static.wixstatic.com/media/11062b_35abe37eb05f4db794095c90a1285970~mv2.jpeg"
+image: "/assets/img/blog/wix/11062b_35abe37eb05f4db794095c90a1285970.webp"
 section: home-tips
 cities: []
 wixTags: ["best portland real estate agent","best portland realtor","best real estate agent in portland"]
@@ -12,7 +12,7 @@ When it comes to boosting your home's value, the backyard is often overlooked. Y
 
 As a professional Realtor®, I’ve seen firsthand how the right backyard improvements can not only increase your enjoyment of the space but also add significant resale value. Whether you're thinking of selling soon or just investing wisely in your property, here are the features that add the most value to your backyard:
 
-![](https://static.wixstatic.com/media/11062b_35abe37eb05f4db794095c90a1285970~mv2.jpeg)
+![](/assets/img/blog/wix/11062b_35abe37eb05f4db794095c90a1285970.webp)
 
 ### 1\. Functional Outdoor Living Spaces
 
@@ -54,7 +54,7 @@ As a professional Realtor®, I’ve seen firsthand how the right backyard improv
 
 **Why it matters:**Buyers value privacy—whether it's from neighbors or nearby roads. Adding or upgrading fencing is one of the most cost-effective ways to add security and seclusion, especially for families with kids or pets.
 
-![](https://static.wixstatic.com/media/11062b_50544baa35ab4ab9bafcef9a08824b38~mv2.jpg)
+![](/assets/img/blog/wix/11062b_50544baa35ab4ab9bafcef9a08824b38.webp)
 
 ### 4\. Outdoor Structures with Purpose
 

@@ -2,7 +2,7 @@
 title: "Beyond Portland: The Hottest Neighborhoods for Your Next Move!"
 date: 2024-10-30
 description: "Hey there, future Oregonians! So, you’ve got your sights set on Portland but are wondering what lies beyond the city limits? Well, you’re in for a treat!…"
-image: "https://static.wixstatic.com/media/e2dd7e_7fecbe7bdbbd4933a8b9904f97857d39~mv2.jpg"
+image: "/assets/img/blog/wix/e2dd7e_7fecbe7bdbbd4933a8b9904f97857d39.webp"
 section: city-guides
 cities: ["Portland"]
 wixTags: ["best portland real estate agent","lake oswego","portland neighborhoods"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/beyond-portland-the-hottest-neig
 ---
 Hey there, future Oregonians! So, you’ve got your sights set on Portland but are wondering what lies beyond the city limits? Well, you’re in for a treat! The surrounding areas are bursting with charm, community spirit, and stunning landscapes that make them irresistible for those looking to relocate. So, buckle up, and let’s take a whimsical tour of the top neighborhoods just outside of Portland that everyone’s talking about!
 
-![Lake Oswego](https://static.wixstatic.com/media/e2dd7e_7fecbe7bdbbd4933a8b9904f97857d39~mv2.jpg)
+![Lake Oswego](/assets/img/blog/wix/e2dd7e_7fecbe7bdbbd4933a8b9904f97857d39.webp)
 
 ## 1\. Lake Oswego: The Suburban Paradise
 
@@ -18,7 +18,7 @@ If you’re looking for that idyllic suburban vibe, Lake Oswego is calling your 
 
 **Fun Fact:** Lake Oswego was once a thriving center for clay mining! Now, it’s all about relaxing by the water—much more zen, don’t you think?
 
-![home design](https://static.wixstatic.com/media/11062b_903021ce76a64d5695e542bff892acd5~mv2.jpg)
+![home design](/assets/img/blog/wix/11062b_903021ce76a64d5695e542bff892acd5.webp)
 
 ## 2\. Tigard: The Commuter’s Dream
 
@@ -32,7 +32,7 @@ Nestled along the Willamette River, West Linn is a delightful blend of nature an
 
 **Insider Info:** Check out the historic Willamette Falls and the beautiful parks that surround them—perfect for a picnic or a day of exploring!
 
-![Hiking Trails](https://static.wixstatic.com/media/11062b_1f8ac0beed864cb19fd9f7dd82a8e0a1~mv2.jpeg)
+![Hiking Trails](/assets/img/blog/wix/11062b_1f8ac0beed864cb19fd9f7dd82a8e0a1.webp)
 
 ## 4\. Oregon City: The Historic Heart
 
@@ -46,7 +46,7 @@ Last but certainly not least, let’s head to Sherwood! Known for its friendly a
 
 **Pro Tip:** Check out the annual Sherwood Robin Hood Festival—it’s a blast with food, music, and lots of fun activities for the whole family!
 
-![farmers market](https://static.wixstatic.com/media/11062b_f5e8af5aa0714d32b8a033acef62e9d0~mv2.jpg)
+![farmers market](/assets/img/blog/wix/11062b_f5e8af5aa0714d32b8a033acef62e9d0.webp)
 
 There you have it—the top neighborhoods outside of Portland that are attracting new residents faster than you can say "Rose City!" Whether you’re drawn to the historic charm of Oregon City or the suburban bliss of Lake Oswego, each area offers its own unique vibe and a welcoming community.
 

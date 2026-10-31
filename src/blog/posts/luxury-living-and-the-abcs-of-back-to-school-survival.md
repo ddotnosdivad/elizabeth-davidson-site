@@ -2,7 +2,7 @@
 title: "Luxury Living and the ABCs of Back-to-School Survival"
 date: 2023-09-15
 description: "Hello, fellow luxury enthusiasts and super parents! While I usually whisk you away on a tour of opulent real estate, today we're diving headfirst into the…"
-image: "https://static.wixstatic.com/media/11062b_f6473e47aa4746efbad847b1afb206fe~mv2.jpg"
+image: "/assets/img/blog/wix/11062b_f6473e47aa4746efbad847b1afb206fe.webp"
 section: home-tips
 cities: []
 wixTags: ["family activities","Luxury real estate","back to school activities","Home buying tips","real estate market trends","portland oregon homes","celebrity homes","property investment","home decor inspiration","luxury home interior design"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/luxury-living-and-the-abcs-of-ba
 ---
 *Hello, fellow luxury enthusiasts and super parents! While I usually whisk you away on a tour of opulent real estate, today we're diving headfirst into the whirlwind of back-to-school chaos. Fear not, because we're about to make "back-to-school" the coolest class you've ever attended! So, grab your designer planner, channel your inner superhero, and let's conquer the school year in style.*
 
-![](https://static.wixstatic.com/media/11062b_f6473e47aa4746efbad847b1afb206fe~mv2.jpg)
+![](/assets/img/blog/wix/11062b_f6473e47aa4746efbad847b1afb206fe.webp)
 
 **1\. Master the Morning Routine: The Wake-Up Win**
 
@@ -54,6 +54,6 @@ wixUrl: "https://www.elizabethdavidson.com/post/luxury-living-and-the-abcs-of-ba
 
 *And there you have it, super parents – your guide to surviving back-to-school with all the style and grace of luxury living. With these tips, you'll be the class valedictorian of back-to-school success. So, embrace the chaos, cherish the moments, and make this school year the most fabulous one yet!*
 
-![](https://static.wixstatic.com/media/e2dd7e_43dc02854c3048fd8a01d6489f4c0842~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_43dc02854c3048fd8a01d6489f4c0842.webp)
 
-![](https://static.wixstatic.com/media/e2dd7e_4971f4ab52cc44ab8cd0b48fff77ea3f~mv2.png)
+![](/assets/img/blog/wix/e2dd7e_4971f4ab52cc44ab8cd0b48fff77ea3f.webp)

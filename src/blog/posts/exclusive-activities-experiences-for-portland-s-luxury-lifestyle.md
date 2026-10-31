@@ -2,7 +2,7 @@
 title: "Exclusive Activities & Experiences for Portland’s Luxury Lifestyle"
 date: 2026-03-15
 description: "As a Realtor® who specializes in Portland and Lake Oswego’s luxury market, I can tell you this: high-end buyers aren’t just purchasing a home — they’re…"
-image: "https://static.wixstatic.com/media/11062b_15f9b54c61eb43c3a255a43518fd6a80~mv2.jpg"
+image: "/assets/img/blog/wix/11062b_15f9b54c61eb43c3a255a43518fd6a80.webp"
 section: city-guides
 cities: ["Portland"]
 wixTags: ["portland real estate","pdx","#bestportlandrealtor"]
@@ -14,7 +14,7 @@ Access to curated experiences. Access to private clubs. Access to moments most p
 
 Portland’s luxury lifestyle is understated but deeply rich. It’s not about flash — it’s about exclusivity, craftsmanship, and connection to the Pacific Northwest’s natural beauty. Here’s a closer look at the activities and experiences that define Portland’s elevated way of living.
 
-![](https://static.wixstatic.com/media/11062b_15f9b54c61eb43c3a255a43518fd6a80~mv2.jpg)
+![](/assets/img/blog/wix/11062b_15f9b54c61eb43c3a255a43518fd6a80.webp)
 
 ## Private Golf & Social Clubs
 
@@ -42,7 +42,7 @@ Many of my clients enjoy:
 
 Having a primary residence in Portland while escaping to wine country on weekends? That’s Pacific Northwest luxury at its finest.
 
-![](https://static.wixstatic.com/media/c26fa49c4629ba4ebb3632d422e46932.jpg)
+![](/assets/img/blog/wix/c26fa49c4629ba4ebb3632d422e46932.webp)
 
 ## Boating & Waterfront Entertaining
 
@@ -72,7 +72,7 @@ Patron circles and VIP memberships offer exclusive access to:
 
 For many affluent buyers, supporting the arts is both passion and legacy.
 
-![](https://static.wixstatic.com/media/11062b_78a588e6b38e40de895099b5935fa968~mv2.jpeg)
+![](/assets/img/blog/wix/11062b_78a588e6b38e40de895099b5935fa968.webp)
 
 ## Forest Escapes & Private Outdoor Adventures
 
@@ -106,7 +106,7 @@ Beyond reservations at top restaurants, many opt for:
 
 The farm-to-table philosophy here isn’t a trend — it’s embedded in the culture.
 
-![](https://static.wixstatic.com/media/a2c01ea57efe49b3be325bfd6d07ee05.png)
+![](/assets/img/blog/wix/a2c01ea57efe49b3be325bfd6d07ee05.webp)
 
 ## Ski Weekends & Coastal Retreats
 

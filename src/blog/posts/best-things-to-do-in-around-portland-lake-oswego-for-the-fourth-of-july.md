@@ -2,7 +2,7 @@
 title: "Best Things To Do in & Around Portland & Lake Oswego for the Fourth of July"
 date: 2026-06-23
 description: "There’s something special about the Fourth of July in the Portland area."
-image: "https://static.wixstatic.com/media/e2dd7e_846cd51cbe1f4458b467cdd52ee5cb2a~mv2.jpg"
+image: "/assets/img/blog/wix/e2dd7e_846cd51cbe1f4458b467cdd52ee5cb2a.webp"
 section: city-guides
 cities: ["Portland","Lake Oswego"]
 wixTags: ["portland fourth of july","4th of july portland"]
@@ -14,7 +14,7 @@ Maybe it’s the warm summer evenings (finally), the community energy, or the pe
 
 Here’s your guide to making the most of the holiday.
 
-![](https://static.wixstatic.com/media/e2dd7e_846cd51cbe1f4458b467cdd52ee5cb2a~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_846cd51cbe1f4458b467cdd52ee5cb2a.webp)
 
 ## Fireworks Shows Worth Planning Around
 
@@ -28,7 +28,7 @@ Let’s start with the main event.
 
 Pro tip: Arrive early—these spots fill up quickly, and the best viewing areas go fast.
 
-![](https://static.wixstatic.com/media/b588f5f7894a45e7a6e81bb73db8cf82.jpg)
+![](/assets/img/blog/wix/b588f5f7894a45e7a6e81bb73db8cf82.webp)
 
 ## Start the Day with a Parade or Community Event
 
@@ -58,7 +58,7 @@ Don’t just show up for fireworks—turn it into a full experience.
 
 Pack a blanket, bring your favorite food, and enjoy the kind of slow summer afternoon that makes this area so special.
 
-![](https://static.wixstatic.com/media/e2dd7e_26ca40c8defb4878a6b36065c4f36121~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_26ca40c8defb4878a6b36065c4f36121.webp)
 
 ## Patio Dining & Rooftop Views
 

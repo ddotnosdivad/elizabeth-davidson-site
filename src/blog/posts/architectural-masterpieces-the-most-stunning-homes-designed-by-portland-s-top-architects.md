@@ -2,7 +2,7 @@
 title: "Architectural Masterpieces: The Most Stunning Homes Designed by Portland’s Top Architects"
 date: 2026-02-23
 description: "As a Realtor® who lives and breathes real estate in Portland and Lake Oswego, I’ve had the privilege of stepping inside some truly jaw-dropping homes. And…"
-image: "https://static.wixstatic.com/media/c70b327b17014dcf98dc71eab1de9c7a.jpg"
+image: "/assets/img/blog/wix/c70b327b17014dcf98dc71eab1de9c7a.webp"
 section: city-guides
 cities: ["Portland"]
 wixTags: ["portland real estate","pdx","#bestportlandrealtor","#RealEstateGoals"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/architectural-masterpieces-the-m
 ---
 As a Realtor® who lives and breathes real estate in **Portland and Lake Oswego**, I’ve had the privilege of stepping inside some truly jaw-dropping homes. And let me tell you — this region is an architectural playground.
 
-![](https://static.wixstatic.com/media/e8fa624bdd624499ba8fbf74a575b28f.jpg)
+![](/assets/img/blog/wix/e8fa624bdd624499ba8fbf74a575b28f.webp)
 
 From modern glass masterpieces tucked into the West Hills to timeless estates overlooking the lake, Portland’s top architects have transformed our landscape into a showcase of innovation, craftsmanship, and Northwest soul.
 

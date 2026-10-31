@@ -2,7 +2,7 @@
 title: "Relocating to Portland: The Coolest Neighborhoods You’ll Want to Call Home!"
 date: 2024-10-30
 description: "Hey there, future Portlanders! If you’re considering a move to the City of Roses, you’re in for a treat. Portland is a vibrant tapestry of neighborhoods,…"
-image: "https://static.wixstatic.com/media/e2dd7e_db0d1533a2b345ffa9ac03e0ce05846b~mv2.png"
+image: "/assets/img/blog/wix/e2dd7e_db0d1533a2b345ffa9ac03e0ce05846b.webp"
 section: city-guides
 cities: ["Portland"]
 wixTags: []
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/relocating-to-portland-the-coole
 ---
 Hey there, future Portlanders! If you’re considering a move to the City of Roses, you’re in for a treat. Portland is a vibrant tapestry of neighborhoods, each with its own unique charm, personality, and quirks. So, grab your coffee (or kombucha), sit back, and let’s explore the top neighborhoods that are making waves among relocators!
 
-![Portland, OR](https://static.wixstatic.com/media/e2dd7e_db383edbf5a8434bb8ee8f494231f93c~mv2.jpg)
+![Portland, OR](/assets/img/blog/wix/e2dd7e_db383edbf5a8434bb8ee8f494231f93c.webp)
 
 ## 1\. Nob Hill (or is it the Alphabet District?)
 
@@ -54,4 +54,4 @@ So there you have it—the top neighborhoods in Portland that are attracting new
 
 If you’re ready to embark on your Portland adventure, I’d love to help you find the perfect spot to call home. Let’s grab that coffee and chat about your future in the City of Roses! 🌹✨
 
-![Portland, OR Home](https://static.wixstatic.com/media/e2dd7e_db0d1533a2b345ffa9ac03e0ce05846b~mv2.png)
+![Portland, OR Home](/assets/img/blog/wix/e2dd7e_db0d1533a2b345ffa9ac03e0ce05846b.webp)

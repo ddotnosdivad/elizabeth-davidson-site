@@ -2,7 +2,7 @@
 title: "Essential Tips for Downsizing"
 date: 2024-09-17
 description: "Hey there, savvy movers and shakers! 🌟 Thinking about downsizing? Whether you’re looking to lighten your load, save on space, or simply embrace a more…"
-image: "https://static.wixstatic.com/media/11062b_36b5d77eea9b411885c60f428a0ec542~mv2.jpg"
+image: "/assets/img/blog/wix/11062b_36b5d77eea9b411885c60f428a0ec542.webp"
 section: buying-selling
 cities: []
 wixTags: []
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/essential-tips-for-downsizing"
 ---
 Hey there, savvy movers and shakers! 🌟 Thinking about downsizing? Whether you’re looking to lighten your load, save on space, or simply embrace a more manageable lifestyle, I’m here to guide you through the essential things to consider. As your friendly neighborhood real estate agent, I’ve got the inside scoop to make this transition as smooth as a fresh jar of peanut butter. Let’s dive in!
 
-![moving](https://static.wixstatic.com/media/11062b_36b5d77eea9b411885c60f428a0ec542~mv2.jpg)
+![moving](/assets/img/blog/wix/11062b_36b5d77eea9b411885c60f428a0ec542.webp)
 
 ### 1\. Declutter Like a Pro
 

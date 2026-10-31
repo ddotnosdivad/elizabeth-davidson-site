@@ -2,7 +2,7 @@
 title: "Back to School Home Essentials That Make Life Easier for Everyone"
 date: 2026-08-25
 description: "The backpacks are coming out, lunchboxes are being dusted off, and suddenly mornings have a schedule again. Yes, it’s officially back-to-school season!"
-image: "https://static.wixstatic.com/media/e2dd7e_a88d3efae67f415e95871347bc012c1c~mv2.jpg"
+image: "/assets/img/blog/wix/e2dd7e_a88d3efae67f415e95871347bc012c1c.webp"
 section: home-tips
 cities: []
 wixTags: ["back to school activities","homedecor","backtoschool"]
@@ -14,7 +14,7 @@ While a new school year is all about fresh notebooks, new shoes, and meeting new
 
 Here are some fun and practical ways to get your Portland-area home ready for the school year ahead.
 
-![](https://static.wixstatic.com/media/e2dd7e_a88d3efae67f415e95871347bc012c1c~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_a88d3efae67f415e95871347bc012c1c.webp)
 
 ## Create a “Drop Zone” Near the Door
 
@@ -54,7 +54,7 @@ Use a chalkboard, whiteboard, bulletin board, or combination of all three to kee
 
 For busy households, putting everything in one central location can save time and reduce the classic question: **“Wait...what are we doing today?”**
 
-![](https://static.wixstatic.com/media/e2dd7e_1a4771e7672c49039556b90596d6e281~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_1a4771e7672c49039556b90596d6e281.webp)
 
 ## Set Up a Homework-Friendly Space
 
@@ -94,7 +94,7 @@ A few home essentials can make weeknight meals easier:
 
 Bonus tip: Create a shelf or basket in the pantry labeled **“Grab & Go”** for quick snacks. Your future self will thank you at 7:42 a.m.
 
-![](https://static.wixstatic.com/media/e2dd7e_a32e4d41830f4c73b57233f37da4766e~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_a32e4d41830f4c73b57233f37da4766e.webp)
 
 ## Get the Laundry Situation Under Control
 
@@ -136,7 +136,7 @@ Back-to-school season can be a major transition for the entire household. Make s
 
 Whether it's a cozy coffee corner, an organized home office, or simply a peaceful spot to sit for five uninterrupted minutes, a functional home should work for **everyone**.
 
-![](https://static.wixstatic.com/media/11062b_81d74b34aef4457fb40d359c83b85b00~mv2.jpg)
+![](/assets/img/blog/wix/11062b_81d74b34aef4457fb40d359c83b85b00.webp)
 
 ## A Home That Supports Your Lifestyle
 

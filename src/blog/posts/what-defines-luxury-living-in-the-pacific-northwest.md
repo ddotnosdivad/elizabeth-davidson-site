@@ -2,7 +2,7 @@
 title: "What Defines Luxury Living in the Pacific Northwest?"
 date: 2025-12-06
 description: "Where refined design meets wild natural beauty."
-image: "https://static.wixstatic.com/media/e2dd7e_95c6d485b8db4766be81683875d50f26~mv2.jpg"
+image: "/assets/img/blog/wix/e2dd7e_95c6d485b8db4766be81683875d50f26.webp"
 section: market-insights
 cities: []
 wixTags: ["portland realtor","lake oswego realtor","pnw","lake oswego real estate","top portland real estate broker","top portland real estate agent"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/what-defines-luxury-living-in-th
 ---
 *Where refined design meets wild natural beauty.*
 
-![](https://static.wixstatic.com/media/e2dd7e_01fcbfc6c60441e69cc10b0eb10d1311~mv2.jpeg)
+![](/assets/img/blog/wix/e2dd7e_01fcbfc6c60441e69cc10b0eb10d1311.webp)
 
 Luxury living in the Pacific Northwest isn’t about being flashy—it’s about creating a lifestyle that feels intentional, elevated, and deeply connected to the stunning landscapes around us. From the forested hillsides of Portland to the serene waterfront neighborhoods of Lake Oswego, luxury here takes on a character all its own: warm, modern, sustainable, and unmistakably Northwest.
 
@@ -34,7 +34,7 @@ Here in the PNW, luxury architecture leans into nature rather than away from it.
 
 It’s all about capturing that airy, elevated feeling the PNW is known for—where every room feels connected to the outdoors.
 
-![](https://static.wixstatic.com/media/e2dd7e_711cd4885cee4578aadf3a786fda2128~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_711cd4885cee4578aadf3a786fda2128.webp)
 
 ## ✨ Elevated Design Trends & Sophisticated Interiors
 

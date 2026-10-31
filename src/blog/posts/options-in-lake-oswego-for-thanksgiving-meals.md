@@ -2,7 +2,7 @@
 title: "Options in Lake Oswego for Thanksgiving Meals!"
 date: 2024-11-06
 description: "Where to Get Thanksgiving Dinner in Lake Oswego: Feast Without the Stress!"
-image: "https://static.wixstatic.com/media/4f894c105420ec9e5999f9b22ae14999.jpg"
+image: "/assets/img/blog/wix/4f894c105420ec9e5999f9b22ae14999.webp"
 section: city-guides
 cities: ["Lake Oswego"]
 wixTags: []
@@ -18,7 +18,7 @@ Thanksgiving dinner in Lake Oswego, so you can spend less time cooking and more 
 
 Here’s where you can indulge in a fabulous Thanksgiving meal without lifting a finger (except for maybe your fork!).
 
-![Thanksgiving in Lake Oswego](https://static.wixstatic.com/media/4f894c105420ec9e5999f9b22ae14999.jpg)
+![Thanksgiving in Lake Oswego](/assets/img/blog/wix/4f894c105420ec9e5999f9b22ae14999.webp)
 
 ### 1\. Oswego Grill 🍽️
 

@@ -2,7 +2,7 @@
 title: "🏡 The ROI Dream Team: Top Home Improvements That Actually Pay You Back! 💰"
 date: 2025-05-21
 description: "Hey there, homeowner extraordinaire! 👋 Whether you’re staging your home for a big “For Sale” moment or just future-proofing your investment, one thing is…"
-image: "https://static.wixstatic.com/media/11062b_a6e7ba2b1f1c4edc89a4ddb9b6ae395a~mv2.jpg"
+image: "/assets/img/blog/wix/11062b_a6e7ba2b1f1c4edc89a4ddb9b6ae395a.webp"
 section: home-tips
 cities: []
 wixTags: ["best portland real estate agent","oregon","best real estate agent in portland","luxury homes","portland homes","Luxury real estate","home renovation","home roi","home improvement"]
@@ -12,7 +12,7 @@ Hey there, homeowner extraordinaire! 👋 Whether you’re staging your home for
 
 So let’s talk strategy. If you’re going to spend your hard-earned cash, **spend it smart**. Here's my list of home improvements that give you the biggest bang for your buck—and look good doing it, too!
 
-![garage door replacement](https://static.wixstatic.com/media/11062b_5fcc14df163d4af68d395f4dcddf0aab~mv2_d_3872_2592_s_4_2.jpg)
+![garage door replacement](/assets/img/blog/wix/11062b_5fcc14df163d4af68d395f4dcddf0aab_d_3872_2592_s_4_2.webp)
 
 ### 🔨 1. Garage Door Replacement
 
@@ -22,7 +22,7 @@ So let’s talk strategy. If you’re going to spend your hard-earned cash, **sp
 
 **Average ROI: 96.1%** We're not talking “open up every wall and install a Viking stove” here. Keep it simple: cabinet refacing, new countertops, updated fixtures, and maybe some fresh subway tile. Buyers LOVE a clean, modern kitchen—and they’ll pay for it.
 
-![kitchen remodel](https://static.wixstatic.com/media/11062b_7b1afe7560a848eaa98ed0c4ebed4823~mv2.jpg)
+![kitchen remodel](/assets/img/blog/wix/11062b_7b1afe7560a848eaa98ed0c4ebed4823.webp)
 
 ### 🪟 3. New Windows (Especially Energy-Efficient Ones)
 
@@ -32,7 +32,7 @@ So let’s talk strategy. If you’re going to spend your hard-earned cash, **sp
 
 **Average ROI: 73.7%** Think of this as a bathroom glow-up: new vanity, fixtures, lighting, and a fresh coat of paint. Pro tip: swapping out that builder-grade mirror for a statement piece can change the whole vibe.
 
-![bathroom remodel](https://static.wixstatic.com/media/11062b_2d8e665184934f8eac1ed3bfc63ccc1d~mv2.jpeg)
+![bathroom remodel](/assets/img/blog/wix/11062b_2d8e665184934f8eac1ed3bfc63ccc1d.webp)
 
 ### 🌿 5. Landscaping + Curb Appeal Boosters
 

@@ -2,7 +2,7 @@
 title: "Fall Fun in Portland: Family Adventures for Kids of All Ages!"
 date: 2024-09-18
 description: "Hey there, fabulous families! 🍂✨ As a real estate agent who’s totally in love with all things Portland (and I mean ALL things!), I’m here to sprinkle some…"
-image: "https://static.wixstatic.com/media/11062b_4e32db9adf3140c0b3b2ddb396f425c1~mv2.jpeg"
+image: "/assets/img/blog/wix/11062b_4e32db9adf3140c0b3b2ddb396f425c1.webp"
 section: city-guides
 cities: ["Portland"]
 wixTags: ["best portland real estate agent","oregon","best realtor in portland","fall in portland"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/fall-fun-in-portland-family-adve
 ---
 Hey there, fabulous families! 🍂✨ As a real estate agent who’s totally in love with all things Portland (and I mean ALL things!), I’m here to sprinkle some fall magic your way. Autumn in our quirky, vibrant city is bursting with fun activities that’ll keep your kiddos smiling and your family bonding. So grab your favorite cozy sweater, sip on that pumpkin spice latte, and let’s dive into the best fall adventures right here in Portland!
 
-![Fall in Portland](https://static.wixstatic.com/media/11062b_4e32db9adf3140c0b3b2ddb396f425c1~mv2.jpeg)
+![Fall in Portland](/assets/img/blog/wix/11062b_4e32db9adf3140c0b3b2ddb396f425c1.webp)
 
 #### 1\. Pumpkin Patch Extravaganza! 🎃
 
@@ -54,4 +54,4 @@ So, gather your family, head out, and let the autumn spirit sweep you off your f
 
 Happy fall, y’all! 🍁❤️
 
-![Portland in Fall](https://static.wixstatic.com/media/11062b_a7a7fd5daeac4d08b4a88209c6acadc3~mv2.jpeg)
+![Portland in Fall](/assets/img/blog/wix/11062b_a7a7fd5daeac4d08b4a88209c6acadc3.webp)

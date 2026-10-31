@@ -2,7 +2,7 @@
 title: "Selling in the Fall or Winter? Take Photos NOW!"
 date: 2025-05-12
 description: "📸 Why You Should Snap Summer Photos of Your Home—Even if You're Selling in Fall or Winter"
-image: "https://static.wixstatic.com/media/11062b_87984dd627104854a94fa7abf3619fbc~mv2.jpg"
+image: "/assets/img/blog/wix/11062b_87984dd627104854a94fa7abf3619fbc.webp"
 section: buying-selling
 cities: []
 wixTags: ["best portland real estate agent","portland","pdx","best real estate agent in portland","luxury real estate","portland summer","portlandhomes"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/selling-in-the-fall-or-winter-ta
 ---
 **📸 Why You Should Snap Summer Photos of Your Home—Even if You're Selling in Fall or Winter**
 
-![Portland Summer](https://static.wixstatic.com/media/11062b_87984dd627104854a94fa7abf3619fbc~mv2.jpg)
+![Portland Summer](/assets/img/blog/wix/11062b_87984dd627104854a94fa7abf3619fbc.webp)
 
 Hey there, Portland homeowners! ☀️ Thinking about selling your home later this year—maybe come pumpkin spice season or even when the rain boots are back in full force? Here’s a little real estate insider tip that can *seriously* boost your listing: **take your photos this summer.**
 
@@ -34,7 +34,7 @@ Natural light is a real estate photographer’s best friend. Longer days and cle
 
 And let’s be honest—your kitchen counters and hardwood floors just *glow* in that golden summer light.
 
-![Portland Summer](https://static.wixstatic.com/media/11062b_35abe37eb05f4db794095c90a1285970~mv2.jpeg)
+![Portland Summer](/assets/img/blog/wix/11062b_35abe37eb05f4db794095c90a1285970.webp)
 
 ### 🍁 3. You’ll Be Ahead of the Game
 
@@ -56,4 +56,4 @@ So go ahead—mow the lawn, fluff the pillows, maybe even borrow your neighbor�
 
 Need a pro photographer recommendation or want to talk strategy? You know where to find me—probably with a cold brew in one hand and a camera-ready checklist in the other.
 
-![portland summer](https://static.wixstatic.com/media/11062b_f1b7f82d1e8143b492b70d050815d7f9~mv2.jpg)
+![portland summer](/assets/img/blog/wix/11062b_f1b7f82d1e8143b492b70d050815d7f9.webp)

@@ -2,7 +2,7 @@
 title: "One of the Best Values Near Progress Ridge!"
 date: 2026-06-04
 description: "14231 SW WALNUT CREEK CT. | PORTLAND, OR 97223"
-image: "https://static.wixstatic.com/media/e2dd7e_7757518f7b4642e381dbf2a404b9657a~mv2.jpg"
+image: "/assets/img/blog/wix/e2dd7e_7757518f7b4642e381dbf2a404b9657a.webp"
 section: featured-listings
 cities: ["Beaverton"]
 wixTags: []
@@ -12,7 +12,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/one-of-the-best-values-near-prog
 
 4 Bed | 3 Bath | 1,904 Sq. Ft. | $575,000
 
-![](https://static.wixstatic.com/media/e2dd7e_7757518f7b4642e381dbf2a404b9657a~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_7757518f7b4642e381dbf2a404b9657a.webp)
 
 #### Why 14231 SW Walnut Creek Ct Is One of the Best Deals in Portland Right Now
 

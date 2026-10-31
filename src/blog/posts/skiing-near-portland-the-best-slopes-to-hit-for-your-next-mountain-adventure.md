@@ -2,7 +2,7 @@
 title: "Skiing Near Portland: The Best Slopes to Hit for Your Next Mountain Adventure"
 date: 2025-01-23
 description: "Hey there, fellow snow enthusiasts and mountain lovers! If you're like me, living in the PDX area means you get the best of both worlds: urban cool and easy…"
-image: "https://static.wixstatic.com/media/ea0ed4082c5c4a4e9b51b091fd6595de.png"
+image: "/assets/img/blog/wix/ea0ed4082c5c4a4e9b51b091fd6595de.webp"
 section: city-guides
 cities: ["Oregon Getaways"]
 wixTags: ["portland","pdx","best real estate agent in portland","skiing in oregon","best realtor portland","snowboarding in portland"]
@@ -12,7 +12,7 @@ Hey there, fellow snow enthusiasts and mountain lovers! If you're like me, livin
 
 So, buckle up, grab your ski poles (or snowboard, or just your daydreams), because we’re diving into the best ski mountains near Portland, Oregon!
 
-![skiing near portland, or](https://static.wixstatic.com/media/ea0ed4082c5c4a4e9b51b091fd6595de.png)
+![skiing near portland, or](/assets/img/blog/wix/ea0ed4082c5c4a4e9b51b091fd6595de.webp)
 
 ### 1\. Mt. Hood Meadows
 

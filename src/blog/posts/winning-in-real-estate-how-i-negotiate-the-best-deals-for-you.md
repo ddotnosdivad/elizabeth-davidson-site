@@ -2,7 +2,7 @@
 title: "🏡 Winning in Real Estate: How I Negotiate the Best Deals for You"
 date: 2025-07-21
 description: "Let’s talk about one of the most exciting (and nerve-wracking!) parts of real estate: negotiation. Whether you're buying your very first home or selling the…"
-image: "https://static.wixstatic.com/media/e2dd7e_c67522edbc074c0990a51e39ed372381~mv2.jpg"
+image: "/assets/img/blog/wix/e2dd7e_c67522edbc074c0990a51e39ed372381.webp"
 section: buying-selling
 cities: []
 wixTags: ["best portland real estate agent","best real estate agent in portland","best realtor in portland","Elizabeth Davidson Realtor"]
@@ -12,7 +12,7 @@ Let’s talk about one of the most exciting (and nerve-wracking!) parts of real 
 
 Here’s how I advocate fiercely for my clients—and why having an experienced negotiator in your corner makes all the difference:
 
-![](https://static.wixstatic.com/media/e2dd7e_c67522edbc074c0990a51e39ed372381~mv2.jpg)
+![](/assets/img/blog/wix/e2dd7e_c67522edbc074c0990a51e39ed372381.webp)
 
 ### 🔑 For My Buyers: I Fight for Value & Advantage
 

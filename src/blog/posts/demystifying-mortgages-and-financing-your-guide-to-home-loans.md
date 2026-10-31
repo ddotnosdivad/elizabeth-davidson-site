@@ -2,13 +2,13 @@
 title: "Demystifying Mortgages and Financing: Your Guide to Home Loans"
 date: 2023-11-02
 description: "Buying a home is a big step, and understanding mortgages and financing is crucial. This article aims to break down the complex world of home loans into…"
-image: "https://static.wixstatic.com/media/2403854036464d9aa4829d6be3f8ea77.jpg"
+image: "/assets/img/blog/wix/2403854036464d9aa4829d6be3f8ea77.webp"
 section: buying-selling
 cities: []
 wixTags: ["portland","portland real estate","interest rates","what is a mortgage","fixed rate","types of mortgage loans","fha loan","mortgage rates","va loan","home mortgage","adjustable rate"]
 wixUrl: "https://www.elizabethdavidson.com/post/demystifying-mortgages-and-financing-your-guide-to-home-loans"
 ---
-![home loan process](https://static.wixstatic.com/media/2403854036464d9aa4829d6be3f8ea77.jpg)
+![home loan process](/assets/img/blog/wix/2403854036464d9aa4829d6be3f8ea77.webp)
 
 Buying a home is a big step, and understanding mortgages and financing is crucial. This article aims to break down the complex world of home loans into simple, easy-to-understand terms. We'll cover the basics of mortgages, interest rates, different loan types, and what to expect during the mortgage application process. Let's dive in.
 
@@ -44,7 +44,7 @@ Your Guide to Home Loans:
 
 8.  **Closing**: Sign the final paperwork, pay any closing costs, and get the keys to your new home.
 
-![mortgage tips and home buying](https://static.wixstatic.com/media/af4993bd2bc64f38945fc0a16f0fdbea.jpg)
+![mortgage tips and home buying](/assets/img/blog/wix/af4993bd2bc64f38945fc0a16f0fdbea.webp)
 
 **In Conclusion** Mortgages and financing may seem complicated, but they're the gateway to homeownership for many. Remember, a mortgage is a long-term commitment, so it's crucial to understand your options and choose the one that fits your financial situation and goals. Work with a trusted lender or mortgage broker who can guide you through the process and help you make informed decisions. With the right knowledge, you'll be well on your way to turning that house you love into your dream home.
 

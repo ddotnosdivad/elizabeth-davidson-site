@@ -2,7 +2,7 @@
 title: "Snap That Perfect Shot: How to Get Your Home Ready for Professional Photography"
 date: 2024-09-13
 description: "Hey there, homeowners and aspiring sellers! Ready to make your home look so irresistible that potential buyers will be ready to sign on the dotted line…"
-image: "https://static.wixstatic.com/media/11062b_cd8ad2017f844172be593ffb63a999a4~mv2_d_3246_2044_s_2.jpg"
+image: "/assets/img/blog/wix/11062b_cd8ad2017f844172be593ffb63a999a4_d_3246_2044_s_2.webp"
 section: buying-selling
 cities: []
 wixTags: []
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/snap-that-perfect-shot-how-to-ge
 ---
 Hey there, homeowners and aspiring sellers! Ready to make your home look so irresistible that potential buyers will be ready to sign on the dotted line before they even set foot inside? Well, you’re in luck because today we’re diving into the art of getting your home photo-ready.
 
-![Kitchen Ideas](https://static.wixstatic.com/media/11062b_222fad5cb9984ad2a130bbc8ff114f70~mv2_d_5616_3699_s_4_2.jpg)
+![Kitchen Ideas](/assets/img/blog/wix/11062b_222fad5cb9984ad2a130bbc8ff114f70_d_5616_3699_s_4_2.webp)
 
 ### 1\. Clean Like a Pro (or at Least Pretend To)
 
@@ -28,7 +28,7 @@ Lighting can make or break a photo, so let’s get those lights shining bright! 
 
 Next up, let’s talk staging. Arrange your furniture to highlight the best features of each room. Create cozy vignettes—a well-set dining table, a stylish throw on the sofa, or a neatly made bed with fluffy pillows. If your space looks inviting, potential buyers will want to step right in and stay a while.
 
-![home staging](https://static.wixstatic.com/media/11062b_29197fc2131e4728a4a20ccc91c704f9~mv2.jpg)
+![home staging](/assets/img/blog/wix/11062b_29197fc2131e4728a4a20ccc91c704f9.webp)
 
 ### 5\. Focus on the Details
 
@@ -50,4 +50,4 @@ And there you have it—your guide to getting your home ready for its close-up. 
 
 Happy prepping!
 
-![Luxury Home](https://static.wixstatic.com/media/11062b_cd8ad2017f844172be593ffb63a999a4~mv2_d_3246_2044_s_2.jpg)
+![Luxury Home](/assets/img/blog/wix/11062b_cd8ad2017f844172be593ffb63a999a4_d_3246_2044_s_2.webp)

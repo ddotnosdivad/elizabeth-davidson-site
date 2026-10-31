@@ -2,7 +2,7 @@
 title: "Thanksgiving Feast in Portland: Where to Eat, Drink, and Be Grateful!"
 date: 2024-11-22
 description: "Hello, my fellow Portland foodies and holiday enthusiasts! If you're anything like me, Thanksgiving is all about family and food! Whether you’re a Portland…"
-image: "https://static.wixstatic.com/media/11062b_42ec2bfa00334ee6a86139e198a121a5~mv2.jpeg"
+image: "/assets/img/blog/wix/11062b_42ec2bfa00334ee6a86139e198a121a5.webp"
 section: city-guides
 cities: ["Portland"]
 wixTags: ["best portland real estate agent","pdx","best portland realtor","best restaurants","thanksgiving in portland"]
@@ -10,7 +10,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/thanksgiving-feast-in-portland-w
 ---
 Hello, my fellow Portland foodies and holiday enthusiasts! If you're anything like me, Thanksgiving is all about family and food! Whether you’re a Portland native, new to the area, or just in town visiting, the good news is that you don't have to be chained to the stove this Thanksgiving. Luckily, Portland’s culinary scene has got your back! So, if you're in the mood for turkey, stuffing, or something a little more... unconventional, here’s a roundup of the best places to feast in Portland this Thanksgiving.
 
-![thanksgiving in portland](https://static.wixstatic.com/media/11062b_42ec2bfa00334ee6a86139e198a121a5~mv2.jpeg)
+![thanksgiving in portland](/assets/img/blog/wix/11062b_42ec2bfa00334ee6a86139e198a121a5.webp)
 
 ### 1\. Jake's Grill
 
