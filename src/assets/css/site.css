@@ -92,6 +92,7 @@ p { margin: 0 0 1em; }
 .listings-crop { position: relative; overflow: hidden; margin: 24px 0 28px; }
 .listings-crop iframe { position: absolute; left: 0; top: 0; width: 1100px; max-width: none; height: 1400px; border: 0; transform-origin: 0 0; pointer-events: none; }
 .listings-crop a { position: absolute; inset: 0; }
+.listings-page { width: 100%; height: 1300px; border: 0; margin-top: 20px; }
 
 .testimonials { background: url(/assets/img/home-testimonials-bg.jpg) center/cover; padding: 70px 16px; }
 .testimonials .intro { text-align: center; max-width: 760px; margin: 0 auto 36px; }
@@ -280,4 +281,5 @@ p { margin: 0 0 1em; }
   .slider-btn.prev { left: -6px; } .slider-btn.next { right: -6px; }
   .slide { padding: 28px 30px; }
   .listings-crop { display: none; }
+  .listings-page { height: 2300px; }
 }
