@@ -18,7 +18,8 @@ Read README.md for structure; INVENTORY.md / OPEN-QUESTIONS.md for history.
 - `section` is one of the slugs in `src/_data/blogSections.json`: city-guides, featured-listings, buying-selling,
   home-tips, market-insights. `cities` is a list, e.g. `["West Linn"]`; a new city gets its page automatically.
 - Photos: put them in `src/assets/img/blog/` (resize to ≤1920px wide, JPEG/WebP) and reference them as `/assets/img/blog/<file>`.
-  Older posts still hot-link static.wixstatic.com; those must be downloaded before Wix is cancelled.
+  Imported Wix photos live in `src/assets/img/blog/wix/` (moved off Wix 2026-10-30); never hot-link static.wixstatic.com.
+- Git: pushed to the private repo github.com/ddotnosdivad/elizabeth-davidson-site (branch main). Commit and push after each deploy.
 - City-guide facts (restaurants, parks, events, dates) must be checked against a current source before publishing.
 
 ## Build, check, deploy
