@@ -1,0 +1,79 @@
+﻿---
+layout: layouts/base.njk
+permalink: /relocation-guide.html
+title: Relocation Guide
+description: "Moving to Portland or Lake Oswego? Neighborhood guides, local resources and sign-ups from Elizabeth Davidson, Cascade Hasson Sotheby's International Realty."
+image: /assets/img/home-portland-skyline.jpg
+guides:
+  - title: Portland Area Community Guides
+    text: Neighborhood-by-neighborhood guides with current homes for sale, from Cascade Hasson Sotheby's International Realty.
+    url: https://elizabethdavidson.cascadehassonsir.com/Portland-Area
+    external: true
+  - title: Luxury Outlook 2026
+    text: The Portland luxury real estate lookbook from Cascade Hasson Sotheby's International Realty.
+    url: /luxuryrealestate
+  - title: Portland City Guide
+    text: Things to do, places to eat and seasonal events around Portland.
+    url: /blog/city-guides/portland
+  - title: Lake Oswego City Guide
+    text: Neighborhoods, dining, the lake and life in Lake Oswego.
+    url: /blog/city-guides/lake-oswego
+  - title: FAQ Videos
+    text: Short videos answering the questions buyers and sellers ask most.
+    url: /faq
+  - title: Recommended Vendors
+    text: Trusted local pros for inspections, repairs, landscaping, moving and more.
+    url: /vendors
+signups:
+  - title: Home Search
+    text: Set up a free home search and get new listings as they hit the market.
+    url: /home-search
+  - title: What's Your Home Worth?
+    text: Request a free market analysis of your current home.
+    url: /home-value
+  - title: Join My Newsletter
+    text: Portland news, homeownership tips and new listings in your inbox.
+    url: /newsletter
+  - title: Request a Referral
+    text: Moving away from Portland? Get connected with a trusted agent in your new market.
+    url: /request-a-referral
+  - title: Refer a Friend
+    text: Know someone buying or selling? I'd love to help them too.
+    url: /refer-a-friend
+---
+<section class="portland">
+  <div class="wrap">
+    <h1 class="script" style="color:var(--navy);font-size:clamp(34px,4.6vw,48px)">Portland &amp; Lake Oswego<br>Relocation Guide</h1>
+    <p>The Portland metro area is a hub of culture, business, and recreation surrounded by beautiful landscapes and spectacular views. A wonderful mix of urban and rural living caters to a diverse range of lifestyles.</p>
+  </div>
+</section>
+
+<section class="band" id="guides">
+  <div class="wrap">
+    <h2 class="section-title script">Guides</h2>
+    <div class="link-cards">
+      {%- for g in guides %}
+      <a class="link-card" href="{{ g.url }}"{% if g.external %} target="_blank" rel="noopener"{% endif %}>
+        <h3>{{ g.title }}</h3>
+        <p>{{ g.text }}</p>
+        <span class="more">{{ "Open" if g.external else "Read" }} &rsaquo;</span>
+      </a>
+      {%- endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="band band-navy" id="sign-ups">
+  <div class="wrap">
+    <h2 class="script center" style="font-size:clamp(32px,4.5vw,44px)">Sign Up</h2>
+    <div class="link-cards">
+      {%- for s in signups %}
+      <a class="link-card" href="{{ s.url }}">
+        <h3>{{ s.title }}</h3>
+        <p>{{ s.text }}</p>
+        <span class="more">Get started &rsaquo;</span>
+      </a>
+      {%- endfor %}
+    </div>
+  </div>
+</section>

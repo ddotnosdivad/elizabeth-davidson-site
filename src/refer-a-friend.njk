@@ -1,0 +1,49 @@
+---
+layout: layouts/base.njk
+permalink: /refer-a-friend.html
+title: Refer a Friend
+description: "Your referrals are the heartbeat of my business! Refer a friend or family member to Elizabeth Davidson."
+hideContactForm: true
+---
+<section class="form-page" style="background-image:url(/assets/img/refer-bg.jpg)">
+  <div class="form-card">
+    <h1>Refer a Friend</h1>
+    <p class="eyebrow">Your referrals are the heartbeat of my business!</p>
+    <p>I am never too busy to serve your friends and family.</p>
+    <form class="contact-form" name="refer-a-friend" method="POST" action="/thank-you" data-netlify="true" netlify-honeypot="company">
+      <input type="hidden" name="form-name" value="refer-a-friend">
+      <p class="hp"><label>Leave this empty <input name="company" tabindex="-1" autocomplete="off"></label></p>
+      <fieldset>
+        <legend>About you</legend>
+        <div class="row">
+          <label><span>Your First Name *</span><input name="your-first-name" autocomplete="given-name" required></label>
+          <label><span>Your Last Name *</span><input name="your-last-name" autocomplete="family-name" required></label>
+        </div>
+        <div class="row">
+          <label><span>Your Email Address *</span><input type="email" name="your-email" autocomplete="email" required></label>
+          <label><span>Your Phone Number *</span><input type="tel" name="your-phone" autocomplete="tel" required></label>
+        </div>
+      </fieldset>
+      <fieldset>
+        <legend>Your friend</legend>
+        <div class="row">
+          <label><span>Friend's First Name *</span><input name="friend-first-name" required></label>
+          <label><span>Friend's Last Name *</span><input name="friend-last-name" required></label>
+        </div>
+        <div class="row">
+          <label><span>Friend's Email Address *</span><input type="email" name="friend-email" required></label>
+          <label><span>Friend's Phone Number *</span><input type="tel" name="friend-phone" required></label>
+        </div>
+        <label><span>What does your friend need help with?</span>
+          <select name="friend-needs">
+            <option value="">Choose an option</option>
+            <option>Buying</option>
+            <option>Selling</option>
+            <option>Investing</option>
+          </select>
+        </label>
+      </fieldset>
+      <button type="submit" class="btn btn-gold btn-block">Sign Up</button>
+    </form>
+  </div>
+</section>

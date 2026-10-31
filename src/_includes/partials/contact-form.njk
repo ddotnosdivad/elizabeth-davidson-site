@@ -1,0 +1,15 @@
+{#- Netlify Forms: Netlify finds data-netlify forms in the built HTML at deploy time
+    and stores submissions (dashboard + email notification). The honeypot field
+    catches bots. formName lets one page carry the form under a different name. -#}
+<form class="contact-form" name="{{ formName or 'contact' }}" method="POST" action="/thank-you" data-netlify="true" netlify-honeypot="company">
+  <input type="hidden" name="form-name" value="{{ formName or 'contact' }}">
+  <input type="hidden" name="page" value="{{ page.url | cleanUrl }}">
+  <p class="hp"><label>Leave this empty <input name="company" tabindex="-1" autocomplete="off"></label></p>
+  <div class="row">
+    <label><span>Name</span><input name="name" autocomplete="name" required></label>
+    <label><span>Email</span><input type="email" name="email" autocomplete="email" required></label>
+  </div>
+  <label><span>Subject</span><input name="subject"></label>
+  <label><span class="sr-only">Message</span><textarea name="message" rows="4" placeholder="Type your message here..."></textarea></label>
+  <button type="submit" class="btn btn-gold btn-block">Submit</button>
+</form>

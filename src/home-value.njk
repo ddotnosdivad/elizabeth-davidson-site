@@ -1,0 +1,42 @@
+---
+layout: layouts/base.njk
+permalink: /home-value.html
+title: What's Your Home Worth?
+seoTitle: "What's Your Home Worth? | Elizabeth Davidson | Portland, Oregon Real Estate"
+description: "Wondering what your home is worth in our current real estate market? Fill out the information on this form and I will run a free market analysis for you."
+hideContactForm: true
+---
+<section class="form-page" style="background-image:url(/assets/img/home-value-bg.jpg)">
+  <div class="form-card">
+    <h1>Find Your Home Value</h1>
+    <p>Have you been wondering what your home is worth now, compared to when you first purchased it? Fill out the information below, and I will gladly run a free market analysis for you!</p>
+    <form class="contact-form" name="home-value" method="POST" action="/thank-you" data-netlify="true" netlify-honeypot="company">
+      <input type="hidden" name="form-name" value="home-value">
+      <p class="hp"><label>Leave this empty <input name="company" tabindex="-1" autocomplete="off"></label></p>
+      <fieldset>
+        <legend>Request a Market Analysis</legend>
+        <div class="row">
+          <label><span>First Name *</span><input name="first-name" autocomplete="given-name" required></label>
+          <label><span>Last Name *</span><input name="last-name" autocomplete="family-name" required></label>
+        </div>
+        <div class="row">
+          <label><span>Email *</span><input type="email" name="email" autocomplete="email" required></label>
+          <label><span>Phone *</span><input type="tel" name="phone" autocomplete="tel" required></label>
+        </div>
+        {#- Not on the Wix form, which asks for everything except the address. -#}
+        <label><span>Property Address *</span><input name="address" autocomplete="street-address" required></label>
+        <div class="row">
+          <label><span>How many bedrooms?</span><input type="number" min="0" name="bedrooms"></label>
+          <label><span>How many bathrooms?</span><input type="number" min="0" step="0.5" name="bathrooms"></label>
+        </div>
+        <div class="row">
+          <label><span>Total square footage?</span><input name="square-footage"></label>
+          <label><span>Total number of parking spaces?</span><input name="parking-spaces"></label>
+        </div>
+        <label><span>Recent updates?</span><input name="recent-updates"></label>
+        <label><span>Tell me what makes your home extra special!</span><textarea name="special" rows="3"></textarea></label>
+      </fieldset>
+      <button type="submit" class="btn btn-gold btn-block">Submit</button>
+    </form>
+  </div>
+</section>

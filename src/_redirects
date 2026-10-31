@@ -1,0 +1,75 @@
+﻿# Netlify redirects: old Wix URLs -> new paths. Full old->new table is in INVENTORY.md.
+# Pages whose URL is unchanged (/, /about, /buying, /selling, /blog, /post/<slug>,
+# /vendors, /faq, ...) need no rule: Netlify serves /about from about.html.
+
+# Wix auto-named pages, renamed to readable slugs
+/about-3              /relocation-guide      301
+/copy-of-selling      /request-a-referral    301
+/real-scout           /home-search           301
+/file-share           /                      301
+# linked from the old Buying page but already 404 on Wix
+/homes-for-sale       /home-search           301
+
+# Wix blog categories -> new blog sections (2026-10-29 reorganisation).
+# Exact rules first; Netlify uses the first rule that matches.
+/blog/categories/my-listings                /blog/featured-listings            301
+/blog/categories/home-tips                  /blog/home-tips                    301
+/blog/categories/home-buying                /blog/buying-selling               301
+/blog/categories/home-selling               /blog/buying-selling               301
+/blog/categories/lake-oswego                /blog/city-guides/lake-oswego      301
+/blog/categories/portland-community-guide   /blog/city-guides/portland         301
+/blog/categories/general-portland           /blog/city-guides/portland         301
+/blog/categories/family-guide               /blog/city-guides                  301
+/blog/categories/holiday-guide              /blog/city-guides                  301
+/blog/categories/oregon                     /blog/city-guides/oregon-getaways  301
+/blog/categories/*                          /blog                              301
+# The old numbered list pages; the new blog is organised by section instead.
+/blog/page/*                                /blog                              301
+
+# Wix blog extras with no page of their own on the new site
+/blog/tags/*          /blog                  301
+/blog/hashtags/*      /blog                  301
+/profile/*            /about                 301
+/blog-feed.xml        /feed.xml              301
+
+# Old Wix listing pages (34 in the Wix sitemap, mostly sold), listed one by one:
+# a /properties/* splat is ignored by Netlify because properties.html exists.
+# Until a listings source is chosen they all land on the Featured Listings page.
+/properties/12863-se-139th-ave.-             /properties            301
+/properties/53-touchstone                    /properties            301
+/properties/8873-sw-talawa-dr.-              /properties            301
+/properties/10340-nw-engleman-st.            /properties            301
+/properties/3552-upper-dr.                   /properties            301
+/properties/4223-se-rex-st.                  /properties            301
+/properties/1970-sw-pheasant-dr.             /properties            301
+/properties/14965-sw-leslie-ct.              /properties            301
+/properties/17515-tree-top-way-              /properties            301
+/properties/2-morningview-pl.                /properties            301
+/properties/1885-crest-dr.                   /properties            301
+/properties/5641-sw-powhatan-ave.            /properties            301
+/properties/245-e-barbaras-way               /properties            301
+/properties/5150-s-landing-dr.               /properties            301
+/properties/10442-e-burnside-st.             /properties            301
+/properties/12392-sw-hollow-ln.              /properties            301
+/properties/1315-nw-medinah-dr.              /properties            301
+/properties/4855-centerwood-dr.              /properties            301
+/properties/13583-sw-64th-ave.-              /properties            301
+/properties/17051-sw-137th-ave.              /properties            301
+/properties/15075-nw-perimeter-dr.           /properties            301
+/properties/11335-sw-viewmount-ct.           /properties            301
+/properties/1220-ne-17th-ave.-%236b          /properties            301
+/properties/2944-vale-ct.                    /properties            301
+/properties/24340-nw-dierdorff-rd.-          /properties            301
+/properties/11653-geranium-pl.               /properties            301
+/properties/10265-sw-155th-ave               /properties            301
+/properties/1950-arena-ct.-                  /properties            301
+/properties/13935-sw-spirea                  /properties            301
+/properties/14075-sw-river-ln                /properties            301
+/properties/1714-nw-couch-street             /properties            301
+/properties/5744-se-79th-avenue              /properties            301
+/properties/15321-nw-red-cedar-court         /properties            301
+/properties/4121-wolf-berry-court            /properties            301
+
+# Wix default aliases
+/home                 /                      301
+/index                /                      301

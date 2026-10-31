@@ -1,0 +1,33 @@
+---
+layout: layouts/base.njk
+permalink: /testimonials.html
+title: Testimonials
+description: "Client testimonials for Elizabeth Davidson, Lake Oswego and Portland real estate broker with Cascade Hasson Sotheby's International Realty. Rated 5.0 from 150 reviews on Zillow."
+# Zillow summary as checked 2026-10-29; update when it changes.
+zillow: { rating: "5.0", count: 150 }
+---
+{#- To add a testimonial, add an entry to src/_data/testimonials.json. -#}
+<section class="band band-navy center">
+  <div class="narrow">
+    <h1 class="script" style="font-size:clamp(38px,5vw,56px);margin-bottom:.2em">Client Testimonials</h1>
+    <p class="eyebrow">It is my promise to provide the most exceptional real estate experience you've ever had.</p>
+    <p style="font-size:18px;margin:18px 0 6px"><span style="color:var(--gold);letter-spacing:3px">★★★★★</span> &nbsp;{{ zillow.rating }} from {{ zillow.count }} reviews on Zillow</p>
+    <p>
+      <a class="btn btn-gold" href="{{ site.reviews.zillow }}" target="_blank" rel="noopener">Read All Zillow Reviews</a>
+      <a class="btn btn-outline" href="{{ site.reviews.facebook }}" target="_blank" rel="noopener">Facebook</a>
+      <a class="btn btn-outline" href="{{ site.reviews.realtor }}" target="_blank" rel="noopener">Realtor.com</a>
+    </p>
+  </div>
+</section>
+
+<div class="wrap">
+  <div class="review-list">
+    {%- for t in testimonials %}
+    <blockquote class="review">
+      <div class="stars" aria-label="5 stars">★★★★★</div>
+      {%- for para in t.quote.split('\n\n') %}<p>{{ para }}</p>{% endfor %}
+      <cite>{{ t.name }}</cite>
+    </blockquote>
+    {%- endfor %}
+  </div>
+</div>

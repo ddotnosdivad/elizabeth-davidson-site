@@ -1,0 +1,56 @@
+---
+layout: layouts/base.njk
+pagination:
+  data: collections.blogPages
+  size: 1
+  alias: bp
+permalink: "{{ bp.url }}.html"
+eleventyComputed:
+  title: "{{ bp.title }}{% if bp.pageNumber > 1 %} (Page {{ bp.pageNumber }}){% endif %} | Blog"
+  description: "{{ bp.blurb }}"
+  activeSection: "{{ bp.section.slug }}"
+---
+{#- One template for every section page (/blog/<section>, paginated) and every
+    city page (/blog/city-guides/<city>); the list comes from the blogPages collection. -#}
+<section class="blog-hero band-navy">
+  <div class="wrap">
+    {%- if bp.city %}<p class="crumb"><a href="/blog/city-guides">City Guides</a> &rsaquo;</p>{% endif %}
+    <h1 class="script">{{ bp.title }}</h1>
+    <p>{{ bp.blurb }}</p>
+  </div>
+</section>
+{% include "partials/blog-nav.njk" %}
+
+<div class="wrap">
+  {%- if bp.section.byCity and not bp.city %}
+  <div class="city-tiles" style="margin-top:34px">
+    {%- for c in collections.posts | inSection(bp.section.slug) | cities %}
+    <a class="city-tile" href="/blog/city-guides/{{ c.slug }}" style="background-image:url({{ c.posts[0].data.image | wixSized(480) }})">
+      <span class="name">{{ c.name }}</span>
+      <span class="count">{{ c.posts.length }} {{ "guide" if c.posts.length == 1 else "guides" }}</span>
+    </a>
+    {%- endfor %}
+  </div>
+  {%- endif %}
+
+  {%- if bp.city %}
+  {%- set posts = bp.posts | inSection("city-guides") %}
+  {%- if posts.length %}{% include "partials/post-grid.njk" %}{% endif %}
+  {%- set posts = bp.posts | inSection("featured-listings") %}
+  {%- if posts.length %}
+  <h2 class="section-title script" style="margin-top:10px">Homes I've Listed in {{ bp.city }}</h2>
+  {% include "partials/post-grid.njk" %}
+  {%- endif %}
+  {%- else %}
+  {%- set posts = bp.posts %}
+  {% include "partials/post-grid.njk" %}
+  {%- endif %}
+
+  {%- if bp.totalPages > 1 %}
+  <nav class="center" aria-label="More posts" style="padding-bottom:50px">
+    {%- if bp.prev %}<a class="btn btn-outline" href="{{ bp.prev }}">&larr; Newer</a>{% endif %}
+    <span style="margin:0 14px">Page {{ bp.pageNumber }} of {{ bp.totalPages }}</span>
+    {%- if bp.next %}<a class="btn btn-outline" href="{{ bp.next }}">Older &rarr;</a>{% endif %}
+  </nav>
+  {%- endif %}
+</div>

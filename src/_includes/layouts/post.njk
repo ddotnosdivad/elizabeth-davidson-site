@@ -1,0 +1,25 @@
+---
+layout: layouts/base.njk
+ogType: article
+---
+{%- set sec = section | sectionOf %}
+{%- set activeSection = section %}
+{% include "partials/blog-nav.njk" %}
+<article class="post">
+  <div class="meta">
+    <img src="/assets/img/about-hero.jpg" alt="">
+    <span>Elizabeth Davidson</span> · <time datetime="{{ page.date | isoDate }}">{{ page.date | readableDate }}</time> · <span>{{ content | minutesToRead }} min read</span>
+  </div>
+  <h1>{{ title }}</h1>
+  <div class="post-body">
+    {{ content | safe }}
+  </div>
+  <p class="post-tags">
+    {%- if sec %}<a class="pill" href="/blog/{{ sec.slug }}">{{ sec.label }}</a>{% endif %}
+    {%- for c in cities %} <a class="pill pill-outline" href="/blog/city-guides/{{ c | slug }}">{{ c }}</a>{% endfor %}
+  </p>
+  <div class="post-cta">
+    <p>Thinking about buying or selling in Portland or Lake Oswego? Let's talk.</p>
+    <a class="btn btn-gold" href="#contact">Contact Elizabeth</a>
+  </div>
+</article>

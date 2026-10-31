@@ -1,0 +1,7 @@
+{#- YouTube video that loads only when clicked: shows a cover photo (one of
+    Elizabeth's own, so old brokerage branding in YouTube's thumbnails never shows),
+    then swaps in the youtube-nocookie player. Set yt = { id, title, cover }. -#}
+<button type="button" class="yt" data-yt="{{ yt.id }}" style="background-image:url({{ yt.cover }})" aria-label="Play video: {{ yt.title }}">
+  {%- if yt.label %}<span class="yt-label">{{ yt.label }}</span>{% endif %}
+  <span class="yt-play" aria-hidden="true"></span>
+</button>

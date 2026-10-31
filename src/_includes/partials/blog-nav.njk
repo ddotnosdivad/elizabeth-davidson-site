@@ -1,0 +1,7 @@
+{#- Section menu shown on every blog page. activeSection = slug of the section in view. -#}
+<nav class="blog-nav" aria-label="Blog sections">
+  <a href="/blog"{% if not activeSection %} aria-current="page"{% endif %}>All</a>
+  {%- for s in blogSections %}
+  <a href="/blog/{{ s.slug }}"{% if activeSection == s.slug %} aria-current="page"{% endif %}>{{ s.label }}</a>
+  {%- endfor %}
+</nav>

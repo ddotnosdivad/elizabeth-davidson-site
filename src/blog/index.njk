@@ -1,0 +1,50 @@
+---
+layout: layouts/base.njk
+permalink: /blog.html
+title: Blog
+description: "Portland and Lake Oswego city guides, home tips, buying and selling advice, market insights and featured listings from Elizabeth Davidson."
+---
+{#- Landing page: newest posts, city guides by city, then a row per section.
+    Sections live in src/_data/blogSections.json; each post picks one with `section:`. -#}
+{%- set allPosts = collections.posts %}
+<section class="blog-hero band-navy">
+  <div class="wrap">
+    <h1 class="script">The Blog</h1>
+    <p>Local guides, home advice and market news from Portland &amp; Lake Oswego.</p>
+  </div>
+</section>
+{% include "partials/blog-nav.njk" %}
+
+<div class="wrap">
+  <section class="blog-row">
+    <div class="row-head"><h2 class="script">Latest</h2></div>
+    {%- set posts = allPosts | head(3) %}
+    {% include "partials/post-grid.njk" %}
+  </section>
+
+  {%- for s in blogSections %}
+  {%- set sectionPosts = allPosts | inSection(s.slug) %}
+  {%- if sectionPosts.length %}
+  <section class="blog-row" id="{{ s.slug }}">
+    <div class="row-head">
+      <h2 class="script">{{ s.label }}</h2>
+      <p>{{ s.blurb }}</p>
+      <a class="see-all" href="/blog/{{ s.slug }}">See all {{ sectionPosts.length }} &rsaquo;</a>
+    </div>
+    {%- if s.byCity %}
+    <div class="city-tiles">
+      {%- for c in sectionPosts | cities %}
+      <a class="city-tile" href="/blog/city-guides/{{ c.slug }}" style="background-image:url({{ c.posts[0].data.image | wixSized(480) }})">
+        <span class="name">{{ c.name }}</span>
+        <span class="count">{{ c.posts.length }} {{ "guide" if c.posts.length == 1 else "guides" }}</span>
+      </a>
+      {%- endfor %}
+    </div>
+    {%- else %}
+    {%- set posts = sectionPosts | head(3) %}
+    {% include "partials/post-grid.njk" %}
+    {%- endif %}
+  </section>
+  {%- endif %}
+  {%- endfor %}
+</div>

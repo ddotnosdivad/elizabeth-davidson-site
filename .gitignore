@@ -1,0 +1,11 @@
+node_modules/
+_site/
+_build.log
+_build.err
+# Raw HTML pulled off the Wix site (re-creatable with the import script / curl)
+_scrape/
+# 26 MB homepage video — too big for git; see INVENTORY.md (host on YouTube/Vimeo or re-encode)
+src/assets/video/
+
+# Local Netlify folder
+.netlify

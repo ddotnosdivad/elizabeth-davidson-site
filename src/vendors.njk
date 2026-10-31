@@ -1,0 +1,28 @@
+---
+layout: layouts/base.njk
+permalink: /vendors.html
+title: Vendors
+description: "Elizabeth Davidson's recommended Portland-area home vendors: contractors, inspectors, landscapers, painters, cleaners and more."
+---
+{#- To add or change a vendor, edit src/_data/vendors.json. -#}
+<section class="band band-navy center" style="padding:44px 0">
+  <h1 class="script" style="font-size:clamp(36px,5vw,56px);margin:0">Recommended Vendors</h1>
+</section>
+<div class="wrap">
+  <div class="vendor-grid">
+    {%- for group in vendors %}
+    <section class="vendor">
+      <h2>{{ group.trade }}</h2>
+      {%- for v in group.entries %}
+      <div class="entry">
+        <p class="name">{% if v.url %}<a href="{{ v.url }}" target="_blank" rel="noopener">{{ v.name }}</a>{% else %}{{ v.name }}{% endif %}</p>
+        {%- if v.contact %}<p>{{ v.contact }}</p>{% endif %}
+        {%- if v.phone %}<p><a href="tel:{{ v.phone | replace(r/[^0-9]/g, '') }}">{{ v.phone }}</a></p>{% endif %}
+        {%- if v.email %}<p><a href="mailto:{{ v.email }}">{{ v.email }}</a></p>{% endif %}
+        {%- if v.note %}<p><em>{{ v.note }}</em></p>{% endif %}
+      </div>
+      {%- endfor %}
+    </section>
+    {%- endfor %}
+  </div>
+</div>

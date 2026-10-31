@@ -1,0 +1,92 @@
+{%- set canonical = site.url + (page.url | cleanUrl) -%}
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ seoTitle or (title + " | " + site.shortName if title else site.name) }}</title>
+  <meta name="description" content="{{ description or site.description }}">
+  <link rel="canonical" href="{{ canonical }}">
+  {%- if preview %}
+  <meta name="robots" content="noindex, nofollow">
+  {%- endif %}
+  <meta property="og:title" content="{{ seoTitle or title or site.name }}">
+  <meta property="og:description" content="{{ description or site.description }}">
+  <meta property="og:url" content="{{ canonical }}">
+  <meta property="og:type" content="{{ ogType or 'website' }}">
+  {%- if image %}<meta property="og:image" content="{{ image if 'http' in image else site.url + image }}">{% endif %}
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="preload" href="/assets/fonts/brush.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="/assets/css/site.css?v={{ buildVersion }}">
+  {%- if schemaAgent %}
+  <script type="application/ld+json">{{ realEstateAgent | dump | safe }}</script>
+  {%- endif %}
+  {%- if schemaPost %}
+  <script type="application/ld+json">{{ schemaPost | dump | safe }}</script>
+  {%- endif %}
+</head>
+<body class="{{ bodyClass }}">
+  <header class="site-header">
+    <div class="header-top">
+      <a class="logo" href="/"><img src="/assets/img/logo-lockup.png" alt="Elizabeth Davidson, Real Estate Broker | Cascade Hasson Sotheby's International Realty" width="534" height="102"></a>
+      <div class="social">
+        <a href="{{ site.social.facebook }}" aria-label="Facebook" target="_blank" rel="noopener">{% include "icons/facebook.svg" %}</a>
+        <a href="{{ site.social.instagram }}" aria-label="Instagram" target="_blank" rel="noopener">{% include "icons/instagram.svg" %}</a>
+      </div>
+      <button class="nav-toggle" aria-expanded="false" aria-controls="site-nav" onclick="this.setAttribute('aria-expanded', document.body.classList.toggle('nav-open'))">Menu</button>
+    </div>
+    <nav id="site-nav" class="site-nav" aria-label="Main">
+      <ul>
+      {%- for item in site.nav %}
+        <li class="{{ 'has-children' if item.children }}">
+          {%- if item.url %}<a href="{{ item.url }}"{% if item.url == (page.url | cleanUrl) %} aria-current="page"{% endif %}>{{ item.label }}</a>
+          {%- else %}<span tabindex="0">{{ item.label }}</span>{% endif %}
+          {%- if item.children %}
+          <ul>
+            {%- for child in item.children %}
+            <li><a href="{{ child.url }}"{% if child.external %} target="_blank" rel="noopener"{% endif %}>{{ child.label }}</a></li>
+            {%- endfor %}
+          </ul>
+          {%- endif %}
+        </li>
+      {%- endfor %}
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    {{ content | safe }}
+  </main>
+
+  <footer class="site-footer">
+    {%- if not hideContactForm %}
+    <section class="contact" id="contact">
+      <h2 class="script">Get in Touch</h2>
+      {% include "partials/contact-form.njk" %}
+    </section>
+    {%- endif %}
+    <div class="footer-brand">
+      <img src="/assets/img/logo-lockup.png" alt="" width="534" height="102" loading="lazy">
+      <p><a href="mailto:{{ site.email }}">{{ site.email }}</a> &nbsp;·&nbsp; <a href="tel:+1{{ site.phone | replace('-', '') }}">{{ site.phone }}</a></p>
+      <p class="fine">{{ site.brokerage }} &nbsp;·&nbsp; {{ site.license }}</p>
+      <p class="fine">&copy; {{ year }} by Elizabeth Davidson, Real Estate Broker serving Portland, Oregon</p>
+    </div>
+  </footer>
+  <script>
+    // Click-to-play YouTube (partials/youtube.njk): swap the cover for the player.
+    document.addEventListener('click', (e) => {
+      const b = e.target.closest('[data-yt]');
+      if (!b) return;
+      const f = document.createElement('iframe');
+      f.className = 'yt-frame';
+      f.src = `https://www.youtube-nocookie.com/embed/${b.dataset.yt}?autoplay=1&rel=0&modestbranding=1`;
+      f.title = b.getAttribute('aria-label');
+      f.allow = 'autoplay; encrypted-media; picture-in-picture; fullscreen';
+      f.allowFullscreen = true;
+      b.replaceWith(f);
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,19 @@
+---
+layout: layouts/base.njk
+---
+<section class="split-hero">
+  <div class="photo" style="background-image:url({{ heroImage }})" role="img" aria-label="{{ heroAlt }}"></div>
+  <div class="copy">
+    <h1>{{ heroTitle | safe }}</h1>
+    <p class="sub">{{ heroSubtitle }}</p>
+    <p class="creds">{{ heroCredentials | safe }}</p>
+  </div>
+</section>
+
+<section class="band">
+  <div class="narrow prose prose-center">
+    {%- if tagline %}<h2 class="gold-script">{{ tagline }}</h2>{% endif %}
+    {{ content | safe }}
+    {%- if cta %}<p><a class="btn btn-gold" href="{{ cta.url }}">{{ cta.label }}</a></p>{% endif %}
+  </div>
+</section>

@@ -1,0 +1,54 @@
+[
+  { "trade": "AC/Heat Repair", "entries": [
+    { "name": "Sky Heating & Cooling", "url": "https://skyheating.com/", "phone": "(541) 275-2918" } ] },
+  { "trade": "Appliance Repair", "entries": [
+    { "name": "Mr. Appliance", "url": "https://www.mrappliance.com/", "phone": "(503) 877-1349" } ] },
+  { "trade": "Carpet Care", "entries": [
+    { "name": "Nicholas Carpet Care", "url": "https://www.nicholascarpetcare.com/", "phone": "(503) 348-2146" },
+    { "name": "A Specialty Floors", "contact": "Kelly Sowles", "phone": "(503) 820-8289" } ] },
+  { "trade": "Contractor", "entries": [
+    { "name": "All Services", "contact": "Jeremy Barker", "phone": "(971) 237-0559" },
+    { "name": "Fineline Innovations", "url": "https://finelineinc.us", "contact": "Corbyn Kile", "phone": "(503) 428-3209" } ] },
+  { "trade": "Estate Sales, Packing & Organizing", "entries": [
+    { "name": "Changing Places", "url": "https://changingplaces.today/" } ] },
+  { "trade": "Crawl Space", "entries": [
+    { "name": "Crawl Space Medics", "phone": "(503) 922-9904" } ] },
+  { "trade": "Electrician", "entries": [
+    { "name": "Sky Heating, Plumbing & Electrical", "url": "https://skyheating.com/", "phone": "(541) 275-2918" } ] },
+  { "trade": "Flooring", "entries": [
+    { "name": "CFM Flooring", "url": "https://cfmfloors.com/", "note": "Multiple Locations" } ] },
+  { "trade": "Handyman", "entries": [
+    { "name": "Rent A Laid Off Husband", "url": "https://www.rent-a-laidoff-husband.com/", "phone": "(503) 250-2588" },
+    { "name": "Ace Handyman Services", "url": "https://www.acehandymanservices.com/" } ] },
+  { "trade": "Home Inspection", "entries": [
+    { "name": "Pacific Home Inspections", "contact": "Craig Poindexter", "phone": "(503) 320-4005" } ] },
+  { "trade": "Home Warranty", "entries": [
+    { "name": "First American Home Warranty", "url": "https://homewarranty.firstam.com/" } ] },
+  { "trade": "Junk Haulers", "entries": [
+    { "name": "GI Junk", "url": "https://www.gijunknw.com/" } ] },
+  { "trade": "Home IV Therapy", "entries": [
+    { "name": "Zenia Wellness", "url": "https://www.zeniaiv.com/", "phone": "971-224-6932" } ] },
+  { "trade": "Interior Design", "entries": [
+    { "name": "Carolyn Brazil Design", "url": "https://carolynbrazildesign.com/", "phone": "925-457-5637", "email": "carolynbrazildesign@gmail.com" } ] },
+  { "trade": "Landscaping", "entries": [
+    { "name": "Fernwood Landscapes", "url": "https://www.fernwoodlandscapes.com/", "contact": "Kelly Haller", "phone": "(503) 683-2240" },
+    { "name": "LBD Landscaping", "url": "https://www.lbdlandscaping.com/", "phone": "(503) 631-8755" },
+    { "name": "J&J Maintenance, LLC", "contact": "Joey Arrigo", "phone": "(971) 361-0622", "email": "jandjoregon@gmail.com" } ] },
+  { "trade": "Logo & Promo Items", "entries": [
+    { "name": "Kadmark", "url": "https://www.kadmark.com/", "phone": "(503) 558-7600" } ] },
+  { "trade": "Mortgage Broker", "entries": [
+    { "name": "Todd Davidson - UMortgage", "phone": "(971) 275-2465", "email": "tdavidson@umortgage.com" } ] },
+  { "trade": "Painter", "entries": [
+    { "name": "A to Z Custom Painting", "url": "https://www.atozcustompainting.com/", "phone": "(360) 521-0438" },
+    { "name": "Pepiot Painting", "url": "https://www.pepiotpainting.com/", "contact": "Jamie Pepiot", "phone": "(503) 313-7549" } ] },
+  { "trade": "Pest Mitigation", "entries": [
+    { "name": "Black's Pest Control", "url": "https://www.blackspestservices.com/", "phone": "(503) 723-7957" } ] },
+  { "trade": "Pet Care", "entries": [
+    { "name": "Safe & Hound Doggy Daycare, Grooming & Boarding", "url": "https://www.safeandhound.net/", "note": "Wilsonville & West Linn Locations" } ] },
+  { "trade": "Plumber", "entries": [
+    { "name": "Sky Heating, Plumbing & Electrical", "url": "https://skyheating.com/", "phone": "(541) 275-2918" } ] },
+  { "trade": "Pressure Washing & Window Cleaning", "entries": [
+    { "name": "Kings Pressure Wash", "url": "https://www.kingspressurewashingservice.com/", "contact": "Nico Kauffmen", "phone": "(503) 575-6635", "email": "nicolas@kingspressurewash.com" } ] },
+  { "trade": "Roofing", "entries": [
+    { "name": "All Services", "contact": "Jeremy Barker", "phone": "(971) 237-0559" } ] }
+]

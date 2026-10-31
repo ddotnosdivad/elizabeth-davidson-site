@@ -1,0 +1,23 @@
+---
+layout: layouts/base.njk
+permalink: /newsletter.html
+title: Join My Newsletter
+description: "Sign up to stay in the loop on all things Portland, learn Elizabeth Davidson's best homeownership tips, and be the first to know about new listings."
+hideContactForm: true
+---
+<section class="form-page" style="background-image:url(/assets/img/newsletter-bg.jpg)">
+  <div class="form-card">
+    <h1>Join My Newsletter</h1>
+    <p>Sign up to stay in the loop on all things Portland, learn my best homeownership tips, and be the first to know about new listings.</p>
+    <form class="contact-form" name="newsletter" method="POST" action="/thank-you" data-netlify="true" netlify-honeypot="company">
+      <input type="hidden" name="form-name" value="newsletter">
+      <p class="hp"><label>Leave this empty <input name="company" tabindex="-1" autocomplete="off"></label></p>
+      <div class="row">
+        <label><span>First Name</span><input name="first-name" autocomplete="given-name"></label>
+        <label><span>Last Name</span><input name="last-name" autocomplete="family-name"></label>
+      </div>
+      <label><span>Email *</span><input type="email" name="email" autocomplete="email" required></label>
+      <button type="submit" class="btn btn-gold btn-block">Join</button>
+    </form>
+  </div>
+</section>

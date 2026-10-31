@@ -1,0 +1,128 @@
+---
+layout: layouts/base.njk
+permalink: /index.html
+seoTitle: "Elizabeth Davidson, Real Estate Broker | Lake Oswego Realtor | Portland, Oregon, USA"
+description: "Elizabeth Davidson is a Lake Oswego and Portland, Oregon real estate broker with Cascade Hasson Sotheby's International Realty. Buy, sell or relocate with an exceptional real estate experience."
+image: /assets/img/about-hero.jpg
+schemaAgent: true
+---
+
+<section class="band-navy hero-intro">
+  <div class="wrap">
+    <h1 class="script">Elizabeth Davidson, Real Estate Broker</h1>
+    <p class="eyebrow">An Exceptional Real Estate Experience</p>
+    <p>Behind every purchase or sale of a home, there is a big life event happening behind the scenes. Families are growing, new job offers are calling, empty nesters are downsizing... No matter what it is that has you packing up and moving from one house to another, I will provide a smooth real estate experience so that you can be fully present for the big, important moments happening in your life.</p>
+    <a class="btn btn-gold" href="#contact">Contact Me</a>
+  </div>
+</section>
+
+<section class="video-hero">
+  <div style="max-width:var(--wrap);margin:0 auto">
+    {%- set yt = { id: "JXlD2JRYizk", title: "About Elizabeth Davidson, Real Estate Broker", cover: "/assets/img/home-video-poster.jpg" } %}
+    {% include "partials/youtube.njk" %}
+  </div>
+</section>
+
+<section class="portland">
+  <div class="wrap">
+    <h2 class="script">Come Home to Portland, Oregon</h2>
+    <p class="eyebrow">A Location Second to None</p>
+    <p>The Portland metro area is a hub of culture, business, and recreation surrounded by beautiful landscapes and spectacular views. A wonderful mix of urban and rural living caters to a diverse range of lifestyles. While the city’s popular slogan is “Keep Portland Weird” this special place offers something for everyone. The slogan was actually created with the intention of supporting local businesses and small business owners, demonstrating the sense of community in this city.</p>
+  </div>
+</section>
+
+<section class="band band-navy next-move">
+  <div class="wrap">
+    <h2 class="script">What's Your Next Move?</h2>
+    <p>Whether you're looking to buy a home, sell a home, or purchase an investment property, I'll be there to provide expert guidance and help you make educated purchasing decisions throughout the entire journey.</p>
+    <div class="three-up">
+      <div>
+        <svg class="icon" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><circle cx="20" cy="44" r="12"/><circle cx="20" cy="44" r="4"/><path d="M29 35 54 10m-8 8 6 6m-12 0 5 5"/></svg>
+        <h3>Buying</h3>
+        <p>Find the perfect new home to suite your desired lifestyle.</p>
+        <a class="btn btn-gold" href="/properties">View Featured Listings</a>
+      </div>
+      <div>
+        <svg class="icon" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><path d="M8 30 32 8l24 22M14 25v31h36V25"/></svg>
+        <h3>Selling</h3>
+        <p>List your home &amp; maximize your investment.</p>
+        <a class="btn btn-gold" href="/home-value">Find Home Value</a>
+      </div>
+      <div>
+        <svg class="icon" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><path d="M6 36l10-2 8 6 8-4-12-18 6-2 18 14 10-5c4-2 7 1 4 4L28 44l-10 8-5-1 6-8-11-3z"/></svg>
+        <h3>Relocating</h3>
+        <p>Get a referral for a trusted<br>Realtor in another market.</p>
+        <a class="btn btn-gold" href="/request-a-referral">Request a Referral</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="band band-mist search-cta">
+  <div class="wrap">
+    <h2 class="script">Set Up Your Home Search</h2>
+    <p>Join my RealScout to search for your next home!</p>
+    <a class="btn btn-slate" href="/home-search">Home Search</a>
+  </div>
+</section>
+
+<section class="band featured">
+  <div class="wrap">
+    <h2 class="script">Featured Listings</h2>
+    <p class="center">Ready to start your home search? Check out my newest listings below!</p>
+    <iframe src="{{ site.featuredListingsFeed }}" title="Featured listings from Cascade Hasson Sotheby's International Realty" loading="lazy"></iframe>
+  </div>
+</section>
+
+<section id="testimonials">
+  <div class="band center">
+    <div class="wrap">
+      <h2 class="section-title script">Client Testimonials</h2>
+      <p class="eyebrow">It is my promise to provide the most exceptional real estate experience you've ever had.</p>
+      <p>Don't take it from me, though - check out what my recent buyers and sellers have to say!</p>
+    </div>
+  </div>
+  <div class="testimonials">
+    <div class="slider" data-slider>
+      {%- for t in testimonials %}
+      <blockquote class="slide{{ ' is-active' if loop.first }}">
+        {%- for para in t.quote.split('\n\n') %}<p>{{ para }}</p>{% endfor %}
+        <cite>{{ t.name }}</cite>
+      </blockquote>
+      {%- endfor %}
+      <button class="slider-btn prev" aria-label="Previous testimonial">&lsaquo;</button>
+      <button class="slider-btn next" aria-label="Next testimonial">&rsaquo;</button>
+      <div class="dots"></div>
+    </div>
+  </div>
+  <div class="more-reviews">
+    <h2 class="script">Read More Testimonials</h2>
+    <a class="btn btn-gold" href="{{ site.reviews.zillow }}" target="_blank" rel="noopener">Zillow</a>
+    <a class="btn btn-gold" href="{{ site.reviews.facebook }}" target="_blank" rel="noopener">Facebook</a>
+    <a class="btn btn-gold" href="{{ site.reviews.realtor }}" target="_blank" rel="noopener">Realtor.com</a>
+  </div>
+</section>
+
+<script>
+  // Testimonial slider: arrows, dots, and an 8s auto-advance that stops once someone clicks.
+  document.querySelectorAll('[data-slider]').forEach((el) => {
+    const slides = [...el.querySelectorAll('.slide')];
+    const dots = el.querySelector('.dots');
+    let i = 0, timer;
+    const show = (n) => {
+      i = (n + slides.length) % slides.length;
+      slides.forEach((s, k) => s.classList.toggle('is-active', k === i));
+      [...dots.children].forEach((d, k) => d.setAttribute('aria-current', k === i));
+    };
+    slides.forEach((_, k) => {
+      const b = document.createElement('button');
+      b.setAttribute('aria-label', `Testimonial ${k + 1}`);
+      b.onclick = () => { clearInterval(timer); show(k); };
+      dots.append(b);
+    });
+    el.querySelector('.prev').onclick = () => { clearInterval(timer); show(i - 1); };
+    el.querySelector('.next').onclick = () => { clearInterval(timer); show(i + 1); };
+    show(0);
+    timer = setInterval(() => show(i + 1), 8000);
+  });
+</script>

@@ -1,0 +1,40 @@
+﻿---
+layout: layouts/base.njk
+permalink: /faq.html
+title: FAQ
+seoTitle: "FAQ | Elizabeth Davidson | Lake Oswego, OR"
+description: "Elizabeth Davidson answers the most common questions from Portland home buyers and sellers, on video."
+image: /assets/img/buying-43dc0.jpg
+# YouTube video ids from her "Move Me to Portland" channel; covers are her own photos.
+videos:
+  - q: What does a listing agent do?
+    id: tX_IOjryMYo
+    cover: /assets/img/lifestyle-167.jpg
+  - q: How do I prepare my home for the market?
+    id: agYUpiznqtY
+    cover: /assets/img/selling-video-poster.jpg
+  - q: What can I do to become a competitive buyer?
+    id: QQxRIwIz3PE
+    cover: /assets/img/about-hero.jpg
+  - q: How does it work if I want to sell my home and buy a new one at the same time?
+    id: YbBKYCZ7_io
+    cover: /assets/img/lwt-hero.jpg
+---
+<section class="half">
+  <div class="copy band-navy">
+    <h1 style="color:#fff">Frequently Asked<br>Questions</h1>
+    <p>Whether this is your first time buying or selling, or you've been in the real estate game for a long time, the process has many steps. Watch the videos below to hear my answer to some of the most common questions I get from Portland home buyers and sellers.</p>
+    <p><a class="btn btn-gold" href="#contact">Contact Me</a></p>
+  </div>
+  <div class="photo" style="background-image:url(/assets/img/buying-43dc0.jpg)" role="img" aria-label="Elizabeth Davidson in a kitchen"></div>
+</section>
+
+<div class="band">
+  {%- for v in videos %}
+  <section class="video-block">
+    <h2>{{ v.q }}</h2>
+    {%- set yt = { id: v.id, title: v.q, cover: v.cover } %}
+    {% include "partials/youtube.njk" %}
+  </section>
+  {%- endfor %}
+</div>

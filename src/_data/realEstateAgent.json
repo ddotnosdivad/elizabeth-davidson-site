@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org",
+  "@type": "RealEstateAgent",
+  "name": "Elizabeth Davidson",
+  "image": "https://www.elizabethdavidson.com/assets/img/about-hero.jpg",
+  "logo": "https://www.elizabethdavidson.com/assets/img/logo-lockup.png",
+  "url": "https://www.elizabethdavidson.com/",
+  "telephone": "(503) 939-2035",
+  "email": "mailto:elizabeth@elizabethdavidson.com",
+  "worksFor": {
+    "@type": "RealEstateAgency",
+    "name": "Cascade Hasson Sotheby’s International Realty",
+    "url": "https://www.cascadehasson.com/"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "310 N. State Street, Suite 102",
+    "addressLocality": "Lake Oswego",
+    "addressRegion": "OR",
+    "postalCode": "97034",
+    "addressCountry": "US"
+  },
+  "areaServed": [
+    "Sherwood, OR", "Tualatin, OR", "Wilsonville, OR", "Beaverton, OR", "Lake Oswego, OR",
+    "Tigard, OR", "West Linn, OR", "Oregon City, OR", "Gresham, OR", "Scappoose, OR",
+    "Newberg, OR", "Canby, OR", "Hillsboro, OR", "Bethany, OR", "Happy Valley, OR",
+    "Clackamas, OR", "Forest Grove, OR", "Damascus, OR", "Estacada, OR", "Gladstone, OR",
+    "McMinnville, OR", "Milwaukie, OR", "Portland, OR"
+  ],
+  "sameAs": [
+    "https://www.zillow.com/profile/Elizabeth-Davidson",
+    "https://www.realtor.com/realestateagents/56d0d040761f0a01007d7cc8",
+    "https://www.facebook.com/ElizabethDavidsonHassonBroker/",
+    "https://www.instagram.com/edavidsonpdxrealtor"
+  ],
+  "openingHours": "Mo-Su 09:00-17:00"
+}

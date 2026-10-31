@@ -1,0 +1,37 @@
+---
+layout: layouts/base.njk
+permalink: /request-a-referral.html
+title: Request a Referral
+description: "Moving out of Portland? Elizabeth Davidson will connect you with a trusted real estate professional in your new market."
+hideContactForm: true
+---
+<section class="half">
+  <div class="photo" style="background-image:url(/assets/img/referral-kitchen.jpg)" role="img" aria-label="Modern kitchen"></div>
+  <div class="copy">
+    <p class="eyebrow">Call me! <a href="tel:+15039392035">503-939-2035</a></p>
+    <h1>Moving Out of Portland?</h1>
+    <p class="eyebrow">Allow me to connect you with a trusted professional</p>
+    <p>Any move requires a lot of coordination &amp; logistics, but a cross country move is a massive undertaking! If you find yourself moving from the Portland area to another part of Oregon or another state altogether, please reach out. I am part of an international network of like-minded Realtors who provide the same high quality service I strive for in my own business. I'd love to refer you to someone I personally know and trust, who will take great care of you.</p>
+  </div>
+</section>
+
+<section class="band band-mist">
+  <div class="form-card">
+    <h1>Request a Referral</h1>
+    <p>Allow me to connect you with another real estate professional who will treat your real estate journey with the expert care you deserve.</p>
+    <form class="contact-form" name="request-a-referral" method="POST" action="/thank-you" data-netlify="true" netlify-honeypot="company">
+      <input type="hidden" name="form-name" value="request-a-referral">
+      <p class="hp"><label>Leave this empty <input name="company" tabindex="-1" autocomplete="off"></label></p>
+      <div class="row">
+        <label><span>First Name *</span><input name="first-name" autocomplete="given-name" required></label>
+        <label><span>Last Name *</span><input name="last-name" autocomplete="family-name" required></label>
+      </div>
+      <div class="row">
+        <label><span>Email *</span><input type="email" name="email" autocomplete="email" required></label>
+        <label><span>Phone</span><input type="tel" name="phone" autocomplete="tel"></label>
+      </div>
+      <label><span>Where are you moving to next? When do you need to be there?</span><textarea name="moving-to" rows="4"></textarea></label>
+      <button type="submit" class="btn btn-gold btn-block">Submit</button>
+    </form>
+  </div>
+</section>

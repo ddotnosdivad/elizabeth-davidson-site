@@ -1,0 +1,28 @@
+[
+  {
+    "slug": "city-guides",
+    "label": "City Guides",
+    "blurb": "Neighborhoods, restaurants, events and things to do around Portland, Lake Oswego and beyond.",
+    "byCity": true
+  },
+  {
+    "slug": "featured-listings",
+    "label": "Featured Listings",
+    "blurb": "A closer look at homes I've listed for sale."
+  },
+  {
+    "slug": "buying-selling",
+    "label": "Buying & Selling",
+    "blurb": "Step-by-step advice for buyers and sellers, from first offer to closing day."
+  },
+  {
+    "slug": "home-tips",
+    "label": "Home Tips",
+    "blurb": "Maintenance, upgrades that pay off, décor, entertaining and making the most of your home."
+  },
+  {
+    "slug": "market-insights",
+    "label": "Market Insights",
+    "blurb": "Portland-area market updates, forecasts and what's happening in the luxury market."
+  }
+]

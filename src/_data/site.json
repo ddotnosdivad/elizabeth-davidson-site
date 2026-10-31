@@ -1,0 +1,50 @@
+﻿{
+  "name": "Elizabeth Davidson, Real Estate Broker",
+  "shortName": "Elizabeth Davidson",
+  "url": "https://www.elizabethdavidson.com",
+  "description": "Elizabeth Davidson is a real estate broker with Cascade Hasson Sotheby's International Realty serving the greater Portland metropolitan area.",
+  "phone": "503-939-2035",
+  "email": "elizabeth@elizabethdavidson.com",
+  "license": "Oregon License #201101040",
+  "brokerage": "Cascade Hasson Sotheby's International Realty",
+  "office": "310 N. State Street, Suite 102, Lake Oswego, OR 97034",
+  "social": {
+    "facebook": "https://www.facebook.com/ElizabethDavidsonHassonBroker",
+    "instagram": "https://www.instagram.com/edavidsonpdxrealtor"
+  },
+  "reviews": {
+    "zillow": "https://www.zillow.com/profile/Elizabeth-Davidson/#reviews",
+    "facebook": "https://www.facebook.com/ElizabethDavidsonHassonBroker/reviews",
+    "realtor": "https://www.realtor.com/realestateagents/56d0d040761f0a01007d7cc8"
+  },
+  "realscout": "https://elizabethdavidson.realscout.com/",
+  "featuredListingsFeed": "https://elizabethdavidson.cascadehasson.com/Featured-Properties",
+  "communityGuides": "https://elizabethdavidson.cascadehassonsir.com/Portland-Area",
+  "nav": [
+    { "label": "Home", "url": "/" },
+    { "label": "Luxury Outlook 2026", "url": "/luxuryrealestate" },
+    { "label": "About", "url": "/about", "children": [
+      { "label": "About Cascade Hasson Sotheby's", "url": "/the-sotheby-s-difference" }
+    ] },
+    { "label": "Let's Work Together", "url": "/let-s-work-together", "children": [
+      { "label": "Buying", "url": "/buying" },
+      { "label": "Selling", "url": "/selling" }
+    ] },
+    { "label": "Featured Listings", "url": "/properties" },
+    { "label": "Blog", "url": "/blog" },
+    { "label": "Testimonials", "url": "/testimonials" },
+    { "label": "Guides", "url": "/relocation-guide", "children": [
+      { "label": "Relocation Guide", "url": "/relocation-guide" },
+      { "label": "Community Guides", "url": "https://elizabethdavidson.cascadehassonsir.com/Portland-Area", "external": true },
+      { "label": "FAQ Videos", "url": "/faq" },
+      { "label": "Recommended Vendors", "url": "/vendors" }
+    ] },
+    { "label": "Sign Up", "url": "/relocation-guide#sign-ups", "children": [
+      { "label": "Home Search", "url": "/home-search" },
+      { "label": "What's Your Home Worth?", "url": "/home-value" },
+      { "label": "Join My Newsletter", "url": "/newsletter" },
+      { "label": "Refer a Friend", "url": "/refer-a-friend" },
+      { "label": "Request a Referral", "url": "/request-a-referral" }
+    ] }
+  ]
+}
