@@ -35,7 +35,8 @@ export default {
             description: data.description || undefined,
             datePublished: day(data.page.date),
             dateModified: day(data.updated || data.page.date),
-            image: data.image ? abs(data.image) : undefined,
+            // imageAlt (front matter) describes the photo for Google; older posts without one keep a bare URL.
+            image: data.image ? (data.imageAlt ? { '@type': 'ImageObject', url: abs(data.image), description: data.imageAlt } : abs(data.image)) : undefined,
             author: {
               '@type': 'Person', name: 'Elizabeth Davidson', url: `${SITE}/about`,
               jobTitle: 'Real Estate Broker',

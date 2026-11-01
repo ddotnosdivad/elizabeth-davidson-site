@@ -3,7 +3,7 @@
   {%- set sec = post.data.section | sectionOf %}
   <article class="card">
     <a href="{{ post.url | cleanUrl }}" tabindex="-1" aria-hidden="true">
-      {%- if post.data.image %}<img src="{{ post.data.image | wixSized(640) }}" alt="" loading="lazy" width="640" height="360">{% endif %}
+      {%- if post.data.image %}<img src="{{ post.data.image | wixSized(640) }}" alt="{{ post.data.imageAlt or '' }}" loading="lazy" width="640" height="360">{% endif %}
     </a>
     <div class="body">
       <div class="meta">{% if sec %}<span class="pill">{{ sec.label }}</span>{% endif %}{{ post.date | readableDate }}</div>
