@@ -8,7 +8,7 @@ ogType: article
 <article class="post">
   <div class="meta">
     <img src="/assets/img/about-hero.jpg" alt="">
-    <span>Elizabeth Davidson</span> · <time datetime="{{ page.date | isoDate }}">{{ page.date | readableDate }}</time> · <span>{{ content | minutesToRead }} min read</span>
+    <span>Elizabeth Davidson</span> · <time datetime="{{ page.date | isoDate }}">{{ page.date | readableDate }}</time>{% if updated %} · Updated <time datetime="{{ updated | isoDate }}">{{ updated | readableDate }}</time>{% endif %} · <span>{{ content | minutesToRead }} min read</span>
   </div>
   <h1>{{ title }}</h1>
   <div class="post-body">

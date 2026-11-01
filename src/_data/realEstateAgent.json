@@ -1,6 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "RealEstateAgent",
+  "@id": "https://www.elizabethdavidson.com/#agent",
   "name": "Elizabeth Davidson",
   "image": "https://www.elizabethdavidson.com/assets/img/about-hero.jpg",
   "logo": "https://www.elizabethdavidson.com/assets/img/logo-lockup.png",
