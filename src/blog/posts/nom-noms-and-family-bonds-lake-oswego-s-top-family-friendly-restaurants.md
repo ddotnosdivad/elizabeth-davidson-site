@@ -1,7 +1,7 @@
 ---
-title: "Family Bonds: Lake Oswego's Top Family-Friendly Restaurants!"
+title: "Lake Oswego Restaurants: Casual Spots, Pizza and Treats"
 date: 2023-12-13
-description: "Hey there, foodie families and culinary adventurers! If you're on the hunt for a city where delightful dining meets family fun, Lake Oswego, Oregon, is your…"
+description: "Lake Oswego casual dining, including Stickmen Brewing, Babica Hen Café, Pizzicato, Riccardo's Ristorante, Gubanc's Pub and Kyra's Bake Shop."
 image: "/assets/img/blog/wix/11062b_b8caf7c65db142c9aa2012983437de6e.webp"
 section: city-guides
 cities: ["Lake Oswego"]

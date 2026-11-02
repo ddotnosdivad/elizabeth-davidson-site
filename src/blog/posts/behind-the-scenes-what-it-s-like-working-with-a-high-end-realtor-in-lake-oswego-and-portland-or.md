@@ -1,7 +1,7 @@
 ---
-title: "Behind the Scenes: What It’s Like Working With a High-End Realtor® in Lake Oswego and Portland, OR"
+title: "Working With a Luxury Realtor in Lake Oswego and Portland"
 date: 2026-04-28
-description: "Buying or selling a luxury home in Portland or Lake Oswego isn’t your typical real estate transaction. These properties are unique, buyers are discerning,…"
+description: "Luxury real estate in Portland or Lake Oswego with a behind-the-scenes look at market insight and how a smooth transaction comes together."
 image: "/assets/img/blog/wix/11062b_0367c30afeaa4e9484dbcbff60977ff8.webp"
 section: buying-selling
 cities: []

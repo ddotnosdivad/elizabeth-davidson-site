@@ -1,7 +1,7 @@
 ---
-title: "'Tis the Season for Home Sweet Home: Preparing Your House for Holiday Guests"
+title: "Preparing Your Home for Holiday Guests: Hosting Tips"
 date: 2023-11-19
-description: "Hello, dear readers! As a real estate agent who has seen their fair share of beautifully staged homes, I'm excited to share some insider tips for getting…"
+description: "Tips from a real estate agent for getting your house ready for holiday guests and creating a warm, welcoming space for the season."
 image: "/assets/img/blog/wix/11062b_77d17e189bea4ec0a200f5176fedae00.webp"
 section: home-tips
 cities: []

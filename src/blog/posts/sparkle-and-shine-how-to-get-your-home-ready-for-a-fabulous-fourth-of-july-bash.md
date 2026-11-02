@@ -1,7 +1,7 @@
 ---
-title: "Sparkle and Shine: How to Get Your Home Ready for a Fabulous Fourth of July Bash!"
+title: "Fourth of July Party Home Prep: Decorating and Hosting Tips"
 date: 2024-06-28
-description: "Hello, party planners and home lovers! As your go-to real estate broker and festive celebration enthusiast, I'm here to help you turn your home into the…"
+description: "Tips for getting your home ready to host a Fourth of July gathering, from decluttering and patriotic decorating to setting up for your guests."
 image: "/assets/img/blog/wix/fabfa1c31a6c49e3bdb891b1fcda2aec.webp"
 section: home-tips
 cities: []

@@ -1,7 +1,7 @@
 ---
-title: "One of the Best Values Near Progress Ridge!"
+title: "14231 SW Walnut Creek Ct, Portland, OR: Craftsman Home"
 date: 2026-06-04
-description: "14231 SW WALNUT CREEK CT. | PORTLAND, OR 97223"
+description: "4-bed, 3-bath, 1,904 sq ft Craftsman-style home near Progress Ridge TownSquare, with a main-level bedroom, great room and covered deck."
 image: "/assets/img/blog/wix/e2dd7e_7757518f7b4642e381dbf2a404b9657a.webp"
 section: featured-listings
 cities: ["Beaverton"]

@@ -1,7 +1,7 @@
 ---
-title: "Time to Level Up: Essential Tips for Upsizing Your Home!"
+title: "Tips for Upsizing Your Home: Plan Your Move to More Space"
 date: 2024-09-24
-description: "Hey there, future homebuyers and real estate adventurers! 🌟 So, you’re thinking about upsizing? Exciting times ahead! Whether you’re welcoming a new family…"
+description: "Practical tips for upsizing, from clarifying why you want more space to weighing bedroom, yard and kitchen priorities before you shop for a bigger home."
 image: "/assets/img/blog/wix/11062b_0675b22f349149f5831276dced8c966e_d_4896_3264_s_4_2.webp"
 section: buying-selling
 cities: []

@@ -1,7 +1,7 @@
 ---
-title: "Summer Home Maintenance Tips"
+title: "Summer Home Maintenance Tips for Portland Homeowners"
 date: 2026-06-13
-description: "Summer in the Pacific Northwest is something special. The days are longer, the sun finally shows up, and your home becomes more than just a place to live—it…"
+description: "A seasonal guide to summer home maintenance in Portland, starting with the exterior, to protect your investment and prevent costly repairs."
 image: "/assets/img/blog/wix/e2dd7e_4ed539c3e7fa439f8eaf44774d9c30e9.webp"
 section: home-tips
 cities: []

@@ -123,7 +123,9 @@ The web address stays the same when only the title changes, so retitling doesn't
 
 ## 6. Questions for Todd before editing
 
-**DECIDED 11/1 (Todd): leave the lake-access and "family" wording in the existing posts as is. Questions 1 and 2 are closed, and the existing posts keep that wording.**
+**DECIDED 11/1 (Todd), questions 1 and 2 closed:**
+- **Lake access:** existing posts keep their Oswego Lake access wording as is. New or merged-in text makes no lake-access or ownership claims.
+- **"Family" wording (revised later on 11/1: "actually if you can rephrase the family part do it"):** rephrase it in existing posts too, titles included. That covers "family-friendly", "perfect family home", "great for families/kids", "young families" and any wording about who a home or area suits. Describe the place or activity, not the people; for example, "family-friendly restaurants" becomes "casual restaurants with kids' menus". Kids' activities themselves are fine.
 
 1. **Oswego Lake access.** The Facebook content rules for Elizabeth say lake access and ownership are never mentioned. Six blog posts talk about it: Lakefront Living (Oswego Lake Explained), Why Lake Oswego Continues to Be… Coveted, The Most Desirable Luxury Neighborhoods, Private Schools, Parks, Trails & Amenities, Is Now the Right Time to Sell, and Behind the Scenes Working With a High-End Realtor. Does that rule apply to her blog too? If it does, those passages come out, and the Lakefront Living post would mostly go.
 2. **"Family" wording.** Her Facebook rules ban "family-friendly" and who-it-suits wording under fair housing rules. Several blog titles use it, such as "Family Bonds: Lake Oswego's Top Family-Friendly Restaurants" and "Your Guide to Finding the Perfect Family Home", and one listing post does too. Apply the same rule to the blog?

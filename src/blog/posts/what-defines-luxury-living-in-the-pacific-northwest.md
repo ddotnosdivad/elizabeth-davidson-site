@@ -1,7 +1,7 @@
 ---
-title: "What Defines Luxury Living in the Pacific Northwest?"
+title: "What Defines Luxury Living in the Pacific Northwest"
 date: 2025-12-06
-description: "Where refined design meets wild natural beauty."
+description: "Explore what defines high-end living in the Pacific Northwest, from nature-inspired architecture to sustainable design in Portland and Lake Oswego."
 image: "/assets/img/blog/wix/e2dd7e_95c6d485b8db4766be81683875d50f26.webp"
 section: market-insights
 cities: []

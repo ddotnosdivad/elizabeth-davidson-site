@@ -1,7 +1,7 @@
 ---
-title: "Essential Tips for Downsizing"
+title: "Tips for Downsizing Your Home: Declutter and Plan a Move"
 date: 2024-09-17
-description: "Hey there, savvy movers and shakers! 🌟 Thinking about downsizing? Whether you’re looking to lighten your load, save on space, or simply embrace a more…"
+description: "Practical steps for downsizing, from decluttering and sorting what to keep, donate, sell or toss to planning a smooth move to a smaller home."
 image: "/assets/img/blog/wix/11062b_36b5d77eea9b411885c60f428a0ec542.webp"
 section: buying-selling
 cities: []

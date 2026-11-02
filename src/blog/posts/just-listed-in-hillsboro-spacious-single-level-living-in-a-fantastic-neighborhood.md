@@ -1,7 +1,7 @@
 ---
-title: "Just Listed in Hillsboro: Spacious Single-Level Living in a Fantastic Neighborhood"
+title: "1250 SE 36th Ave, Hillsboro, OR: Single-Level Ranch"
 date: 2026-03-14
-description: "1250 SE 36th Ave. | Hillsboro, OR 97123"
+description: "Single-level 3-bed, 2.5-bath, 1,754 sq ft Hillsboro ranch on a 10,000-plus sq ft lot with a covered deck, RV parking and two powered sheds."
 image: "/assets/img/blog/wix/e2dd7e_a3a4ecee8983425d8b4ab6ea4a2d2c83.webp"
 section: featured-listings
 cities: ["Hillsboro"]

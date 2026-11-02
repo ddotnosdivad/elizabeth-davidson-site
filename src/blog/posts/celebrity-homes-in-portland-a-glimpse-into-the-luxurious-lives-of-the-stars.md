@@ -1,7 +1,7 @@
 ---
-title: "Celebrity Homes in Portland: A Glimpse into the Luxurious Lives of the Stars"
+title: "Celebrity Homes in Portland: Dunthorpe to the Pearl District"
 date: 2023-10-06
-description: "Welcome to the glittering side of the City of Roses, where the vibrant culture meets the allure of luxury living. As a seasoned luxury real estate broker…"
+description: "A look at Portland homes tied to well-known names, from Dunthorpe and the West Hills to the Pearl District, including Beverly Cleary's former home."
 image: "/assets/img/blog/wix/e2dd7e_95c6d485b8db4766be81683875d50f26.webp"
 section: city-guides
 cities: ["Portland"]

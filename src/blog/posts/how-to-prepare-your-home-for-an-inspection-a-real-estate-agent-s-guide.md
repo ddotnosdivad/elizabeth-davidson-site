@@ -1,7 +1,7 @@
 ---
-title: "How to Prepare Your Home for an Inspection: A Real Estate Agent’s Guide"
+title: "How to Prepare Your Home for an Inspection in Portland"
 date: 2024-08-21
-description: "As a seasoned real estate agent, I’ve seen the home inspection process make or break deals. Whether you're selling your first home or your fifth, preparing…"
+description: "An agent's guide to getting your home inspection-ready, from cleaning and tidying to the details inspectors notice, so the process goes smoothly."
 image: "/assets/img/blog/wix/11062b_7c9359e1c03b44e8bfec3ddc7470a136.webp"
 section: buying-selling
 cities: []

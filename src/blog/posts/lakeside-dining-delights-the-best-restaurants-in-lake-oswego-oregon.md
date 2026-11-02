@@ -1,7 +1,7 @@
 ---
-title: "Lakeside Dining Delights: The Best Restaurants in Lake Oswego, Oregon"
+title: "Lake Oswego Restaurants: Italian, Pub Fare and Seafood"
 date: 2023-10-24
-description: "Greetings, fellow luxury enthusiasts and epicurean adventurers! While I typically guide you through the opulent world of real estate, today we're diving…"
+description: "Lake Oswego restaurants including Tucci, Gubanc's Pub, Five Spice, Nicoletta's Table, Stickmen Brewing, Baird's on B and Toulouse Petit Kitchen."
 image: "/assets/img/blog/wix/e2dd7e_7fecbe7bdbbd4933a8b9904f97857d39.webp"
 section: city-guides
 cities: ["Lake Oswego"]

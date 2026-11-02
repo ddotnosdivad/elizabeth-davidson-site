@@ -1,7 +1,7 @@
 ---
-title: "Private Schools, Parks, Trails & Lifestyle Amenities That Attract Luxury Buyers"
+title: "Parks, Trails and Amenities Luxury Buyers Seek in Portland"
 date: 2026-03-04
-description: "As a Realtor® specializing in Portland and Lake Oswego, I can tell you this with absolute confidence: luxury buyers aren’t just shopping for square footage…"
+description: "How parks, trails, golf and other lifestyle amenities factor into luxury home shopping in Portland and Lake Oswego, alongside architecture and finishes."
 image: "/assets/img/blog/wix/11062b_42c25c69456340b7bf931bd589d33ae2.webp"
 section: market-insights
 cities: []

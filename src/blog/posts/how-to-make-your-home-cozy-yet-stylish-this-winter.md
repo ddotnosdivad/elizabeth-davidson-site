@@ -1,7 +1,7 @@
 ---
-title: "How to Make Your Home Cozy Yet Stylish This Winter"
+title: "Cozy and Stylish Winter Home Styling Ideas for Portland"
 date: 2025-02-12
-description: "Winter is here, and while some of us love the chill in the air, there’s no denying it—nothing beats curling up in a warm, inviting space. Whether you're…"
+description: "Winter styling ideas for a warm, inviting home, from layering textiles to simple seasonal touches, whether you are preparing to sell or staying put."
 image: "/assets/img/blog/wix/11062b_ef2374a2826b4ec68e83aa3b3c81ac13.webp"
 section: home-tips
 cities: []

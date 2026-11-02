@@ -1,7 +1,7 @@
 ---
-title: "Paddle Boarding and Kayaking in Lake Oswego: Your Ultimate Guide to Fun on the Water"
+title: "Paddle Boarding and Kayaking in Lake Oswego: Where to Go"
 date: 2024-07-16
-description: "Hello, fellow adventure seekers! As a professional real estate broker (and water sports enthusiast) in the beautiful Lake Oswego, Oregon, I'm thrilled to…"
+description: "Paddling spots in Lake Oswego: George Rogers Park, Foothills Park, Millennium Plaza Park, Tryon Creek State Natural Area, plus tips for a good outing."
 image: "/assets/img/blog/wix/11062b_6e4b050c49fe463cb722de488c6c374c.webp"
 section: city-guides
 cities: ["Lake Oswego"]

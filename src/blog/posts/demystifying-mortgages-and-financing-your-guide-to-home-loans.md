@@ -1,7 +1,7 @@
 ---
-title: "Demystifying Mortgages and Financing: Your Guide to Home Loans"
+title: "Home Loans and Mortgage Financing Explained Simply"
 date: 2023-11-02
-description: "Buying a home is a big step, and understanding mortgages and financing is crucial. This article aims to break down the complex world of home loans into…"
+description: "A plain-language guide to mortgages, interest rates, loan types and what to expect during the mortgage application process when buying a home."
 image: "/assets/img/blog/wix/2403854036464d9aa4829d6be3f8ea77.webp"
 section: buying-selling
 cities: []

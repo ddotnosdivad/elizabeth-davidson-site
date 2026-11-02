@@ -1,7 +1,7 @@
 ---
-title: "Lakefront Living: Luxury Homes on Oswego Lake Explained"
+title: "Oswego Lake Homes in Lake Oswego: What Buyers Should Know"
 date: 2026-06-15
-description: "There’s luxury—and then there’s lakefront luxury. In Lake Oswego, living on Oswego Lake represents one of the most exclusive and sought-after lifestyles in…"
+description: "An overview of home types on and near Oswego Lake in Lake Oswego, notable areas, pricing considerations and points buyers should review."
 image: "/assets/img/blog/wix/e2dd7e_2069701fa099442999e4eae220c5f2b5.webp"
 section: city-guides
 cities: ["Lake Oswego"]

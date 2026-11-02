@@ -1,7 +1,7 @@
 ---
-title: "Back to School Home Essentials That Make Life Easier for Everyone"
+title: "Back-to-School Home Organization Tips for Portland Homes"
 date: 2026-08-25
-description: "The backpacks are coming out, lunchboxes are being dusted off, and suddenly mornings have a schedule again. Yes, it’s officially back-to-school season!"
+description: "Practical ideas for settling into school-year routines at home, from a drop zone by the door to organized mornings, in a Portland-area home."
 image: "/assets/img/blog/wix/e2dd7e_a88d3efae67f415e95871347bc012c1c.webp"
 section: home-tips
 cities: []

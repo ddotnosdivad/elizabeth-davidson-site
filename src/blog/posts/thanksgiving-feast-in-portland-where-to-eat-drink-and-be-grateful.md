@@ -1,7 +1,7 @@
 ---
-title: "Thanksgiving Feast in Portland: Where to Eat, Drink, and Be Grateful!"
+title: "Thanksgiving Dinner in Portland: Where to Eat Out"
 date: 2024-11-22
-description: "Hello, my fellow Portland foodies and holiday enthusiasts! If you're anything like me, Thanksgiving is all about family and food! Whether you’re a Portland…"
+description: "Portland restaurants serving Thanksgiving, including Jake's Grill, Campana, Portland City Grill, The Ritz-Carlton and Bullard, with reservation tips."
 image: "/assets/img/blog/wix/11062b_42ec2bfa00334ee6a86139e198a121a5.webp"
 section: city-guides
 cities: ["Portland"]

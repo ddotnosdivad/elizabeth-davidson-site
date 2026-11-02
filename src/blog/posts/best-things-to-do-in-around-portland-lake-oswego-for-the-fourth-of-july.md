@@ -1,7 +1,7 @@
 ---
-title: "Best Things To Do in & Around Portland & Lake Oswego for the Fourth of July"
+title: "Fourth of July in Portland and Lake Oswego: Things to Do"
 date: 2026-06-23
-description: "There’s something special about the Fourth of July in the Portland area."
+description: "Fireworks, parades, picnics, patio dining and scenic drives for celebrating the Fourth of July in Portland and Lake Oswego, with tips for the day."
 image: "/assets/img/blog/wix/e2dd7e_846cd51cbe1f4458b467cdd52ee5cb2a.webp"
 section: city-guides
 cities: ["Portland","Lake Oswego"]

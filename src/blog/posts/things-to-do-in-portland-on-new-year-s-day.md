@@ -1,7 +1,7 @@
 ---
-title: "Things to do in Portland on New Year's Day!"
+title: "Things to Do in Portland on New Year's Day: Brunch to Hikes"
 date: 2023-12-28
-description: "Hey there, fabulous Portlanders! As we bid adieu to the old and welcome the new, it's time to kick off the year with a bang in our beloved city of roses.…"
+description: "New Year's Day in Portland: holiday window displays in St. Johns, brunch, a first hike, biking, breweries, live music and food carts."
 image: "/assets/img/blog/wix/11062b_baf51311d4ab4ab9a9e5eb46f1bf9306.webp"
 section: city-guides
 cities: ["Portland"]

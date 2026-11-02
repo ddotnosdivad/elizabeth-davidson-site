@@ -1,7 +1,7 @@
 ---
-title: "Buying vs. Building: Pros and Cons of Luxury Home Construction in Portland"
+title: "Buying vs. Building a Luxury Home in Portland: Pros, Cons"
 date: 2023-09-25
-description: "In the realm of luxury real estate, the decision to buy an existing property or embark on a custom home construction journey is a pivotal moment. As a…"
+description: "Weigh buying an existing luxury property against custom home construction in Portland, with the pros and cons of each path and what to consider."
 image: "/assets/img/blog/wix/11062b_b5fc2e0fe08144988d1f1e87249efb6c.webp"
 section: buying-selling
 cities: []

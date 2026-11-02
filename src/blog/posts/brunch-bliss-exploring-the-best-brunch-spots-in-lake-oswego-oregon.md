@@ -1,7 +1,7 @@
 ---
-title: "Brunch Bliss: Exploring the Best Brunch Spots in Lake Oswego, Oregon"
+title: "Best Brunch in Lake Oswego, Oregon: Local Cafes and Bars"
 date: 2023-12-29
-description: "Hello, brunch enthusiasts and potential Lake Oswego homeowners! As a dedicated realtor, I not only help you find the perfect home but also guide you through…"
+description: "Six Lake Oswego brunch spots, from Babica Hen Café and Nicoletta's Table to The Harvest Wine Bar, Jefe, Lola's and Tavern on Kruse."
 image: "/assets/img/blog/wix/5e8760804ad34282ac257dba59c4f2a0.webp"
 section: city-guides
 cities: ["Lake Oswego"]

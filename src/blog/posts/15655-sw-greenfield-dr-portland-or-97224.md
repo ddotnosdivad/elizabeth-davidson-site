@@ -1,7 +1,7 @@
 ---
-title: "15655 SW Greenfield Dr. | Portland, OR 97224"
+title: "15655 SW Greenfield Dr, Portland, OR: 5-Bedroom Home"
 date: 2026-04-17
-description: "5 BED | 2.5 BATH | 3,177 SQ. FT."
+description: "5-bed, 2.5-bath, 3,177 sq ft Southwest Portland home with a connected kitchen and living areas, natural light and room for outdoor gatherings."
 image: "/assets/img/blog/wix/e2dd7e_a8671b2ece8c4705a83a7bd726bf18cf.webp"
 section: featured-listings
 cities: ["Portland"]

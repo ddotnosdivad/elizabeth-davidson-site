@@ -1,7 +1,7 @@
 ---
-title: "Fall Fun in Portland: Family Adventures for Kids of All Ages!"
+title: "Fall Things to Do in Portland: Pumpkin Patches and Farms"
 date: 2024-09-18
-description: "Hey there, fabulous families! 🍂✨ As a real estate agent who’s totally in love with all things Portland (and I mean ALL things!), I’m here to sprinkle some…"
+description: "Fall ideas in Portland, including pumpkin patches, waterfront bike rides, ZooLights, the Japanese Garden, local farms and autumn festivals."
 image: "/assets/img/blog/wix/11062b_4e32db9adf3140c0b3b2ddb396f425c1.webp"
 section: city-guides
 cities: ["Portland"]

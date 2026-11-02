@@ -1,7 +1,7 @@
 ---
-title: "Discover Your Next Home in Sexton Mountain — 9050 SW 161st Ave. Beaverton, OR"
+title: "9050 SW 161st Ave, Beaverton, OR: Corner Lot, Open Plan"
 date: 2025-10-15
-description: "If you’re looking for a move-in ready, beautifully maintained home in one of Beaverton’s most desirable neighborhoods, welcome to 9050 SW 161st Ave. Nestled…"
+description: "4-bed, 2.5-bath, 1,960 sq ft Beaverton corner-lot home backing to greenspace, with vaulted ceilings, a gas fireplace and an island kitchen."
 image: "/assets/img/blog/wix/e2dd7e_bea2c96d63144674a0c3c9abc4054a46.webp"
 section: featured-listings
 cities: ["Beaverton"]

@@ -1,7 +1,7 @@
 ---
-title: "The Best Christmas Tree Lightings in and Around Portland, OR: Your Guide to Festive Fun!"
+title: "Christmas Tree Lightings in and Around Portland, OR"
 date: 2024-11-22
-description: "The holiday season in Portland is a magical time, and one of the highlights is, without a doubt, the annual Christmas tree lighting events that light up the…"
+description: "Christmas tree lightings and holiday light displays in Portland, including downtown, the Grotto, Oregon Zoo, Lake Oswego, Peacock Lane and Tualatin."
 image: "/assets/img/blog/wix/11062b_fe83b16bf7a24b7fbf2f1830dcee7442.webp"
 section: city-guides
 cities: ["Portland"]

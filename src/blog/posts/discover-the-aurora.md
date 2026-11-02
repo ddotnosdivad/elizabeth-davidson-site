@@ -1,7 +1,7 @@
 ---
-title: "Discover The Aurora"
+title: "15109 2nd St, Aurora, OR: 5-Bedroom Home, 3,500 Sq Ft"
 date: 2026-01-18
-description: "Nestled in the heart of charming small-town living, 15109 2nd St. in Aurora offers a rare opportunity to own a home where character, comfort, and community…"
+description: "5-bed, 5.5-bath, 3,500 sq ft home at 15109 2nd St in historic Aurora, with natural light, outdoor space and quick I-5 access."
 image: "/assets/img/blog/wix/e2dd7e_cf92b8de4d9f41348c97392b47bf6d00.webp"
 section: featured-listings
 cities: ["Aurora"]

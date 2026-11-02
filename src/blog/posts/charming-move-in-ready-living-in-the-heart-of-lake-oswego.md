@@ -1,7 +1,7 @@
 ---
-title: "Charming, Move-In Ready Living in the Heart of Lake Oswego"
+title: "1318 Oak St, Lake Oswego, OR: Updated Single-Level Home"
 date: 2026-07-19
-description: "3 BED | 2 BATH | 1,227 SQ. FT."
+description: "Single-level 3-bed, 2-bath, 1,227 sq ft Lake Oswego bungalow with hardwood floors, a gas fireplace, covered deck and new roof and furnace."
 image: "/assets/img/blog/wix/e2dd7e_e0d563569f6d4b34bb62aec17aace967.webp"
 section: featured-listings
 cities: ["Lake Oswego"]

@@ -1,7 +1,7 @@
 ---
-title: "Exclusive Activities & Experiences for Portland’s Luxury Lifestyle"
+title: "Portland Luxury Lifestyle: Clubs, Wine, Dining and Retreats"
 date: 2026-03-15
-description: "As a Realtor® who specializes in Portland and Lake Oswego’s luxury market, I can tell you this: high-end buyers aren’t just purchasing a home — they’re…"
+description: "Private golf and social clubs, Willamette Valley wine tastings, arts access, chef-led dining and ski or coastal weekends in the Portland luxury lifestyle."
 image: "/assets/img/blog/wix/11062b_15f9b54c61eb43c3a255a43518fd6a80.webp"
 section: city-guides
 cities: ["Portland"]

@@ -1,7 +1,7 @@
 ---
-title: "Chowder Cheer: Savoring the Sea in Oregon's Best Clam Spots!"
+title: "Best Clam Chowder on the Oregon Coast: Seven Places to Try"
 date: 2024-01-26
-description: "Ahoy, fellow flavor adventurers and chowder enthusiasts! If your taste buds are yearning for a seaside symphony of creamy goodness, you're in for a treat.…"
+description: "Seven Oregon coast spots for clam chowder, including Mo's, Local Ocean Seafoods, Pelican Brewing in Pacific City and the Chowder Bowl at Nye Beach."
 image: "/assets/img/blog/wix/11062b_5d9d0892bf054135bbc61e08e3de7dbc.webp"
 section: city-guides
 cities: ["Oregon Getaways"]

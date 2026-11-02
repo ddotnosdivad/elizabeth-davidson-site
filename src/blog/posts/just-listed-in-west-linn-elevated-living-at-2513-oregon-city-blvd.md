@@ -1,7 +1,7 @@
 ---
-title: "Just Listed in West Linn: Elevated Living at 2513 Oregon City Blvd"
+title: "2513 Oregon City Blvd, West Linn, OR: 4,160 Sq Ft Home"
 date: 2026-06-29
-description: "4 BED | 3.5 BATH | 4,160 SQ. FT."
+description: "4-bed, 3.5-bath, 4,160 sq ft West Linn home with bright living, dining and kitchen areas and outdoor space, close to shops, parks and trails."
 image: "/assets/img/blog/wix/e2dd7e_d308e492d58644378e3347f46cd90004.webp"
 section: featured-listings
 cities: ["West Linn"]

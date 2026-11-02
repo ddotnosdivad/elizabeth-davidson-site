@@ -1,7 +1,7 @@
 ---
-title: "Fall in Lake Oswego: Your Ultimate Guide to Seasonal Fun!"
+title: "Fall in Lake Oswego: Trails, Markets and Harvest Events"
 date: 2024-09-17
-description: "Hey there, fall fanatics and leaf lovers! 🍂🍁 Ready to dive into the autumnal wonderland of Lake Oswego, OR? As your favorite local real estate broker…"
+description: "Fall in Lake Oswego: George Rogers Park trails, the farmers market, Lakewood Center for the Arts, pumpkin picking, Mount Sylvania and picnics."
 image: "/assets/img/blog/wix/11062b_ee801198a09a460e9ecd0013fe440cca.webp"
 section: city-guides
 cities: ["Lake Oswego"]

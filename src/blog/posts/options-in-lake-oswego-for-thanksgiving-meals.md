@@ -1,7 +1,7 @@
 ---
-title: "Options in Lake Oswego for Thanksgiving Meals!"
+title: "Thanksgiving Meals in Lake Oswego: Dining and Take-Home"
 date: 2024-11-06
-description: "Where to Get Thanksgiving Dinner in Lake Oswego: Feast Without the Stress!"
+description: "Where to get Thanksgiving dinner in Lake Oswego, from Oswego Grill and Tavern on Kruse to the farmers market and Zupan's Market for meals at home."
 image: "/assets/img/blog/wix/4f894c105420ec9e5999f9b22ae14999.webp"
 section: city-guides
 cities: ["Lake Oswego"]

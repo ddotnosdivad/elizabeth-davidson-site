@@ -1,7 +1,7 @@
 ---
-title: "The Value of Waterfront, Forest, and Mountain Views in Luxury Pricing: Portland & Lake Oswego Real Estate Insights"
+title: "Views and Luxury Pricing in Portland & Lake Oswego"
 date: 2026-02-27
-description: "As a Realtor® specializing in Portland and Lake Oswego, I can tell you this without hesitation: Views sell homes."
+description: "How waterfront, forest and mountain views influence luxury home pricing and buyer demand in Portland and Lake Oswego real estate."
 image: "/assets/img/blog/wix/11062b_1d01a2cc38c24bf7ab81188518db52d7.webp"
 section: market-insights
 cities: []

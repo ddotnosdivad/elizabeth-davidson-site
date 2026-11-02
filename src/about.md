@@ -2,7 +2,8 @@
 layout: layouts/about.njk
 permalink: /about.html
 title: About
-description: "Meet Elizabeth Davidson, a Lake Oswego and Portland real estate broker with Cascade Hasson Sotheby's International Realty, ranked in the top 2% of Portland Metro REALTORS® by volume sold."
+seoTitle: "About Elizabeth Davidson | Lake Oswego & Portland Realtor"
+description: "Meet Elizabeth Davidson, a Lake Oswego and Portland real estate broker with Cascade Hasson Sotheby's, ranked in the top 2% of Portland Metro REALTORS®."
 image: /assets/img/about-hero.jpg
 heroImage: /assets/img/site-bg-cfdeb.jpg
 heroAlt: "Elizabeth Davidson on a sofa with a Lake Oswego pillow"

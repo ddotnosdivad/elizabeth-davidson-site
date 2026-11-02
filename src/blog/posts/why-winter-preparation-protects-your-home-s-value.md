@@ -1,7 +1,7 @@
 ---
-title: "Why Winter Preparation Protects Your Home’s Value"
+title: "Winter Home Preparation in Portland to Protect Your Value"
 date: 2026-02-18
-description: "As a professional Realtor® serving homeowners in the Pacific Northwest, I can tell you: Winter in Portland isn’t just about cozy fireplaces and misty…"
+description: "How to prepare your home for Portland winter storms and protect its value, from gutters and downspouts to long-term steps that keep it winter-ready."
 image: "/assets/img/blog/wix/11062b_8178d0875154415696a351ea0b7bd7bb.webp"
 section: home-tips
 cities: []

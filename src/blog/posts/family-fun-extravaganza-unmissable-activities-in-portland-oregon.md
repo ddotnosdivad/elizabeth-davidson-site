@@ -1,7 +1,7 @@
 ---
-title: "Family Fun Extravaganza: Unmissable Activities in Portland, Oregon!"
+title: "Things to Do in Portland: Zoo, OMSI, Gardens and Parks"
 date: 2023-09-21
-description: "Hello, fellow luxury aficionados and adventure-seeking families! While my usual gig involves guiding you through the world of opulent real estate, today…"
+description: "Portland attractions including the Oregon Zoo, OMSI, Powell's City of Books, Oaks Park, the Japanese Garden, Pittock Mansion and Washington Park."
 image: "/assets/img/blog/wix/11062b_8ab60862e8a54a02b24a8faa498d87e1.webp"
 section: city-guides
 cities: ["Portland"]

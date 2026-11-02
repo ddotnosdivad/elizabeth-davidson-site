@@ -1,7 +1,7 @@
 ---
-title: "Spring Break Shenanigans: Your Ultimate Guide to Oregon Adventure!"
+title: "Spring Break in Oregon: Trails, Coast and Road Trips"
 date: 2024-03-04
-description: "Hey there, fellow adventurers and spring breakers! Are you ready to kick off the season of sunshine and fun in the beautiful state of Oregon? From scenic…"
+description: "Spring break ideas around Oregon: hiking trails, the coast, offbeat road trips, regional food and city outings in Portland, Eugene and beyond."
 image: "/assets/img/blog/wix/11062b_6a3eecbe23c941eb9203425da3130f8a.webp"
 section: city-guides
 cities: ["Oregon Getaways"]

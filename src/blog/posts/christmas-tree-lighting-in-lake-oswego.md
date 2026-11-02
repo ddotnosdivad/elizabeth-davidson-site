@@ -1,7 +1,7 @@
 ---
-title: "Christmas Tree Lighting in Lake Oswego!"
+title: "Lake Oswego Christmas Tree Lighting: Schedule and Tips"
 date: 2024-11-06
-description: "It’s that magical time of year when Lake Oswego transforms into a winter wonderland, and nothing kicks off the holiday season quite like the annual Lake…"
+description: "What to expect at the Lake Oswego Christmas tree lighting: the schedule of events, holiday marketplace vendors, and tips for enjoying the evening."
 image: "/assets/img/blog/wix/11062b_fde9fa6b19d74291bd2df359da0545f5.webp"
 section: city-guides
 cities: ["Lake Oswego"]

@@ -1,7 +1,7 @@
 ---
-title: "Portland's Winter Wonderland: Where Festive Homes and Holiday Cheer Collide!"
+title: "Portland Holiday Lights: Peacock Lane, ZooLights and More"
 date: 2023-12-13
-description: "Hey there, fellow Portlanders and festive enthusiasts! 🎄✨ As your friendly neighborhood real estate agent, I can't help but get into the holiday spirit and…"
+description: "Holiday light displays in Portland, including Peacock Lane, ZooLights, the Grotto's Festival of Lights, an OMSI laser show and Winter Wonderland at PIR."
 image: "/assets/img/blog/wix/11062b_89ddcfc581d74ce2b445e41a5256921f.webp"
 section: city-guides
 cities: ["Portland"]

@@ -1,7 +1,7 @@
 ---
-title: "Wine, Wonders, and Whimsy: Exploring Real Estate in Willamette Valley!"
+title: "Buying a Home in Oregon's Willamette Valley: What to Know"
 date: 2024-02-06
-description: "Hey there, fellow adventurers and home seekers! If you're on the hunt for your slice of paradise nestled amidst rolling hills, lush vineyards, and charming…"
+description: "A look at real estate in Oregon's Willamette Valley, from vineyard estates and farmhouses to small towns, outdoor recreation and farm-to-table dining."
 image: "/assets/img/blog/wix/11062b_145604f7f0a242678c15a1e76fa99a1b.webp"
 section: city-guides
 cities: ["Willamette Valley"]

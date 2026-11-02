@@ -1,7 +1,7 @@
 ---
-title: "Savor the Splendor: The Best Restaurants in Willamette Valley, Oregon"
+title: "Willamette Valley Restaurants: Newberg, Dayton and More"
 date: 2023-10-30
-description: "Greetings, fellow connoisseurs of luxury living and epicurean delights! While I typically guide you through the world of opulent real estate, today, I'm…"
+description: "Willamette Valley dining in Newberg, Dayton and McMinnville, including The Painted Lady, Joel Palmer House, Recipe, JORY, Thistle and Subterra."
 image: "/assets/img/blog/wix/edb3f758cf4e4198967832af9eb45807.webp"
 section: city-guides
 cities: ["Willamette Valley"]

@@ -1,7 +1,7 @@
 ---
-title: "Welcome Home to 9174 SW Waverly Dr: A Portland Gem Near Cook Park"
+title: "9174 SW Waverly Dr, Portland, OR: Main-Level Primary"
 date: 2025-10-14
-description: "If you’re searching for a home that blends comfort, style, and a connection to nature, 9174 SW Waverly Drive is a standout. Nestled near Cook Park, this…"
+description: "4-bed, 2.5-bath, 2,739 sq ft home built in 1995 with a main-level primary suite, refreshed kitchen and a new furnace, near Cook Park."
 image: "/assets/img/blog/wix/e2dd7e_ec1f754d12694eaa9d9f9d8ac1e20f54.webp"
 section: featured-listings
 cities: ["Tigard"]

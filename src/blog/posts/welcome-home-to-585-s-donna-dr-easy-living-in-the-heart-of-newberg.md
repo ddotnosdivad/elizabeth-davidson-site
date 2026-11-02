@@ -1,7 +1,7 @@
 ---
-title: "Welcome Home to 585 S. Donna Dr.: Easy Living in the Heart of Newberg"
+title: "585 S Donna Dr, Newberg, OR: Single-Level Home"
 date: 2026-08-28
-description: "Some homes simply make life easier—and 585 S. Donna Dr. in Newberg is one of them."
+description: "Single-level 3-bed, 2-bath Newberg home built in 2008, with vaulted ceilings, engineered hardwood, central air, a fenced yard and two-car garage."
 image: "/assets/img/blog/wix/e2dd7e_c3fa2fa9b17347bd9dc78d1f8050172d.webp"
 section: featured-listings
 cities: ["Newberg"]

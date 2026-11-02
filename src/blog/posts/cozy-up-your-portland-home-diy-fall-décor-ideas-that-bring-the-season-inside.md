@@ -1,7 +1,7 @@
 ---
-title: "Cozy Up Your Portland Home: DIY Fall Décor Ideas That Bring the Season Inside"
+title: "Portland DIY Fall Décor Ideas to Bring the Season Inside"
 date: 2025-10-14
-description: "Fall in Portland is pure magic — crisp mornings, fiery leaves, cozy sweaters, and the smell of pumpkin spice drifting from every corner café. As the days…"
+description: "Easy, affordable DIY fall décor for a Portland home, from Pacific Northwest centerpieces of pinecones and greenery to other cozy seasonal touches."
 image: "/assets/img/blog/wix/11062b_0d49e9844ae348fc83217d5d8742b292.webp"
 section: home-tips
 cities: []

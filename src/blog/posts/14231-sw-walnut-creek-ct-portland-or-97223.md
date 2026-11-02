@@ -1,7 +1,7 @@
 ---
-title: "14231 SW Walnut Creek Ct.  | Portland, OR 97223"
+title: "14231 SW Walnut Creek Ct, Portland, OR: Cul-de-Sac Home"
 date: 2026-04-17
-description: "4 BED | 3 BATH | 1,904 SQ. FT."
+description: "4-bed, 3-bath, 1,904 sq ft home on a quiet Portland cul-de-sac with a flowing layout, natural light, flexible rooms and a private backyard."
 image: "/assets/img/blog/wix/e2dd7e_d77c267f508d4cc292853e94030a17d2.webp"
 section: featured-listings
 cities: ["Portland"]

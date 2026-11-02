@@ -1,7 +1,7 @@
 ---
-title: "Boo-tiful Adventures: Halloween in Portland, Oregon!"
+title: "Halloween Events in Portland, Oregon: Haunts and Pumpkins"
 date: 2024-10-15
-description: "Hello, Portland spirits and pumpkin enthusiasts! 🎃 As your local real estate agent and Halloween aficionado, I’m here to dish out some spooktacular…"
+description: "Haunted houses, pumpkin patches, corn mazes, ghost tours, craft fairs and trick-or-treating ideas for Halloween in Portland, Oregon."
 image: "/assets/img/blog/wix/11062b_ca608181dd7f4c6dbdb4d8e71930dce8.webp"
 section: city-guides
 cities: ["Portland"]
