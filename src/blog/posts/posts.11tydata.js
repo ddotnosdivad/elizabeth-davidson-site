@@ -36,7 +36,11 @@ export default {
             datePublished: day(data.page.date),
             dateModified: day(data.updated || data.page.date),
             // imageAlt (front matter) describes the photo for Google; older posts without one keep a bare URL.
-            image: data.image ? (data.imageAlt ? { '@type': 'ImageObject', url: abs(data.image), description: data.imageAlt } : abs(data.image)) : undefined,
+            // imageCredit/imageLicense: set for photos from Wikimedia Commons (credit required by their licence).
+            image: data.image ? (data.imageAlt ? {
+              '@type': 'ImageObject', url: abs(data.image), description: data.imageAlt,
+              creditText: data.imageCredit || undefined, license: data.imageLicense || undefined,
+            } : abs(data.image)) : undefined,
             author: {
               '@type': 'Person', name: 'Elizabeth Davidson', url: `${SITE}/about`,
               jobTitle: 'Real Estate Broker',
