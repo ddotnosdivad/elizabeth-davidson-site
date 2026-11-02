@@ -3,6 +3,7 @@ title: "Tips for Downsizing Your Home: Declutter and Plan a Move"
 date: 2024-09-17
 description: "Practical steps for downsizing, from decluttering and sorting what to keep, donate, sell or toss to planning a smooth move to a smaller home."
 image: "/assets/img/blog/wix/11062b_36b5d77eea9b411885c60f428a0ec542.webp"
+imageAlt: "Three people unpacking cardboard boxes in a bright entryway"
 section: buying-selling
 cities: []
 wixTags: []
@@ -46,10 +47,10 @@ While you’re focused on downsizing, it’s also wise to think about the future
 
 ### 9\. Get to Know Your New Neighborhood
 
-Moving isn’t just about the house—it’s about the community too! 🌆 Take some time to explore your new neighborhood. Find out where the nearest grocery store, pharmacy, and other essentials are located. Discover local parks, coffee shops, and restaurants that you’ll want to frequent. Feeling at home starts with knowing your surroundings.
+Moving isn’t just about the house—it’s about the community too! 🌆 Take some time to explore your new neighborhood. Find out where the nearest grocery store, pharmacy, and other essentials are located. Discover local parks, coffee shops, and restaurants that you’ll want to frequent. Feeling at home starts with knowing your surroundings. If you're moving within Portland, the [Portland city guide](/blog/city-guides/portland) is a good place to start.
 
 ### 10\. Celebrate Your New Beginnings
 
 Downsizing is a big step and a great opportunity for a fresh start. 🎉 Take the time to celebrate your new home, no matter how small it may be. Host a housewarming party, create a cozy corner just for you, or simply take a moment to enjoy the new chapter you’re starting. Embrace the adventure with open arms!
 
-And there you have it—your ultimate tips to downsizing with style and ease! If you’re ready to make the move or need a hand finding the perfect new spot, I’m just a call or click away. Let’s make your downsizing journey a delightful and exciting transition! 🚀🏠
+And there you have it—your ultimate tips to downsizing with style and ease! If you’re ready to make the move or need a hand finding the perfect new spot, start your [home search](/home-search) or reach out, I’m just a call or click away. If you later need more room instead, see these [tips for upsizing your home](/post/time-to-level-up-essential-tips-for-upsizing-your-home). Let’s make your downsizing journey a delightful and exciting transition! 🚀🏠

@@ -15,7 +15,7 @@ Maybe it’s the warm summer evenings (finally), the community energy, or the pe
 
 Here’s your guide to making the most of the holiday.
 
-![](/assets/img/blog/wix/e2dd7e_846cd51cbe1f4458b467cdd52ee5cb2a.webp)
+![Decorated floats and flags at a Fourth of July parade](/assets/img/blog/wix/e2dd7e_846cd51cbe1f4458b467cdd52ee5cb2a.webp)
 
 ## Fireworks Shows Worth Planning Around
 
@@ -29,11 +29,11 @@ Let’s start with the main event.
 
 Pro tip: Arrive early—these spots fill up quickly, and the best viewing areas go fast.
 
-![](/assets/img/blog/wix/b588f5f7894a45e7a6e81bb73db8cf82.webp)
+![Colorful fireworks over the water at night](/assets/img/blog/wix/b588f5f7894a45e7a6e81bb73db8cf82.webp)
 
 ## Start the Day with a Parade or Community Event
 
-Fourth of July mornings in the Portland area often begin with classic Americana.
+Fourth of July mornings in the [Portland](/blog/city-guides/portland) area often begin with classic Americana.
 
 **Lake Oswego Star Spangled Parade** Charming and full of local spirit. The parade usually steps off on the morning of the Fourth and marches down A Avenue to Millennium Plaza Park (200 First St). Think decorated floats, community groups, and that small-town feel that makes Lake Oswego so desirable.
 
@@ -43,13 +43,13 @@ Fourth of July mornings in the Portland area often begin with classic Americana.
 
 Don’t just show up for fireworks—turn it into a full experience.
 
-**Head to the Water**
+### Head to the Water
 
--   Paddleboarding or kayaking on the Willamette River or Oswego Lake
+-   [Paddleboarding or kayaking](/post/paddle-boarding-and-kayaking-in-lake-oswego-your-ultimate-guide-to-fun-on-the-water) on the Willamette River or Oswego Lake
 
 -   Relaxing at nearby spots like Sellwood Riverfront Park
 
-**Picnic in the Park**
+### Picnic in the Park
 
 -   Laurelhurst Park
 
@@ -59,7 +59,7 @@ Don’t just show up for fireworks—turn it into a full experience.
 
 Pack a blanket, bring your favorite food, and enjoy the kind of slow summer afternoon that makes this area so special.
 
-![](/assets/img/blog/wix/e2dd7e_26ca40c8defb4878a6b36065c4f36121.webp)
+![Backyard table set with a flag tablecloth and a grill](/assets/img/blog/wix/e2dd7e_26ca40c8defb4878a6b36065c4f36121.webp)
 
 ## Patio Dining & Rooftop Views
 
@@ -71,7 +71,7 @@ In Portland:
 
 In Lake Oswego:
 
--   Dining around downtown and the lake feels more relaxed and upscale—perfect for a slower-paced evening before the show
+-   [Dining around downtown](/post/lakeside-dining-delights-the-best-restaurants-in-lake-oswego-oregon) and the lake feels more relaxed and upscale—perfect for a slower-paced evening before the show
 
 Reservations are highly recommended—this is one of the busiest dining days of the summer.
 

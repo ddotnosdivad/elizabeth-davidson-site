@@ -11,6 +11,8 @@ wixUrl: "https://www.elizabethdavidson.com/post/christmas-tree-lighting-in-lake-
 ---
 It’s that magical time of year when Lake Oswego transforms into a winter wonderland, and nothing kicks off the holiday season quite like the annual **Lake Oswego Christmas Tree Lighting**! Whether you’re a longtime resident or new to the area, this festive tradition is one that you won’t want to miss. Picture twinkling lights, hot cocoa, carolers, and a glowing community spirit—it’s the perfect way to get into the holiday mood!
 
+If you want more holiday light displays, see the [best Christmas tree lightings in and around Portland](/post/the-best-christmas-tree-lightings-in-and-around-portland-or-your-guide-to-festive-fun).
+
 So, let’s dive into why the Lake Oswego Christmas Tree Lighting is *the* event to attend this season.
 
 ![Christmas Tree](/assets/img/blog/wix/11062b_fde9fa6b19d74291bd2df359da0545f5.webp)
@@ -53,11 +55,11 @@ To make the most of your time at the Lake Oswego Christmas Tree Lighting, here a
 
 3.  **Bring a camera (or your phone)**: You’ll definitely want to capture some magical moments, especially when the tree lights up.
 
-4.  **Check out local dining options**: After the ceremony, head to one of the local eateries for a cozy dinner or dessert. A lot of restaurants around the area get into the holiday spirit with seasonal menus and decorations.
+4.  **Check out local dining options**: After the ceremony, head to one of the [local eateries](/post/lakeside-dining-delights-the-best-restaurants-in-lake-oswego-oregon) for a cozy dinner or dessert. A lot of restaurants around the area get into the holiday spirit with seasonal menus and decorations.
 
 ### A Perfect Way to Start Your Holidays in Lake Oswego
 
-If you’re new to the area or just visiting, the **Lake Oswego Christmas Tree Lighting** is the perfect introduction to the heart and soul of this beautiful town. It’s a time when the community truly shines, and the joy and warmth of the season are felt by all. It’s also a wonderful opportunity to explore Lake Oswego’s charming downtown and experience the magic that makes this town so special.
+If you’re new to the area or just visiting, the **Lake Oswego Christmas Tree Lighting** is the perfect introduction to the heart and soul of this beautiful town. It’s a time when the community truly shines, and the joy and warmth of the season are felt by all. It’s also a wonderful opportunity to explore [Lake Oswego](/blog/city-guides/lake-oswego)’s charming downtown and experience the magic that makes this town so special.
 
 So, grab your loved ones, bundle up, and get ready for a holiday tradition that’s sure to put a smile on your face and a twinkle in your eye!
 

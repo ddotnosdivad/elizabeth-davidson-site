@@ -4,6 +4,7 @@ date: 2026-02-23
 updated: 2026-11-01
 description: "What moves the Portland and Lake Oswego real estate market, what luxury buyers look for, design features in demand, and how to judge when to sell."
 image: "/assets/img/blog/wix/2403854036464d9aa4829d6be3f8ea77.webp"
+imageAlt: "Modern house at dusk with a glass entry and lit balconies"
 section: market-insights
 cities: []
 wixTags: ["lake oswego","#RealEstateGoals","#HomeSellingTips","Home buying tips"]
@@ -11,7 +12,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/luxury-market-update-trends-in-p
 ---
 The luxury real estate market in the Pacific Northwest continues to evolve—and if you’re buying or selling at the high end, understanding the nuances of today’s market is essential. Here’s a closer look at what moves the market in Portland and Lake Oswego, what today’s buyers are looking for, and how to think about timing a sale.
 
-![](/assets/img/blog/wix/2403854036464d9aa4829d6be3f8ea77.webp)
+![Modern house at dusk with a glass entry and lit balconies](/assets/img/blog/wix/2403854036464d9aa4829d6be3f8ea77.webp)
 
 ## What Moves the Portland & Lake Oswego Market
 
@@ -19,7 +20,7 @@ The luxury real estate market in the Pacific Northwest continues to evolve—and
 
 Luxury inventory in both Portland and Lake Oswego tends to run tight, particularly for turnkey properties in prime neighborhoods. Well-priced homes in desirable areas still attract strong interest.
 
-In Portland, sought-after luxury pockets include:
+In Portland, [sought-after luxury pockets](/post/the-most-desirable-luxury-neighborhoods-in-portland-lake-oswego) include:
 
 -   The West Hills
 
@@ -137,7 +138,7 @@ In Portland’s upper tier, expect:
 
 -   Greater emphasis on pre-listing preparation
 
-Strategic staging, elevated marketing, and proper positioning are critical to capturing attention in a more selective buyer pool.
+[Strategic staging, elevated marketing](/post/how-to-sell-a-luxury-home-in-portland-for-top-dollar), and proper positioning are critical to capturing attention in a more selective buyer pool.
 
 ## How to Judge When to Sell
 
@@ -159,7 +160,7 @@ Signs it may be a good time to list:
 
 -   **Professional staging** that highlights flow, scale and how the home lives
 
--   **Targeted updates** such as a modern kitchen, spa-style bathrooms and better indoor-outdoor connection
+-   **[Targeted updates](/post/luxury-renovations-that-increase-home-value-in-high-end-portland-lake-oswego-properties)** such as a modern kitchen, spa-style bathrooms and better indoor-outdoor connection
 
 -   **Curb appeal and landscaping**, because first impressions matter
 

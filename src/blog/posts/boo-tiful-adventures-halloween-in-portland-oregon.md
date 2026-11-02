@@ -9,7 +9,7 @@ cities: ["Portland"]
 wixTags: ["best portland real estate agent","lake oswego","best real estate agent in portland","family activities","halloween in portland"]
 wixUrl: "https://www.elizabethdavidson.com/post/boo-tiful-adventures-halloween-in-portland-oregon"
 ---
-Hello, Portland spirits and pumpkin enthusiasts! As your local real estate agent and Halloween aficionado, I’m here to dish out some spooktacular activities in our vibrant city each October. From haunted houses that will send chills down your spine to pumpkin patches bursting with autumn vibes, there’s no shortage of frightful fun. So grab your witch's hat and broomstick, and let’s dive into all the boo-tiful things to do for Halloween in Portland!
+Hello, Portland spirits and pumpkin enthusiasts! As your local real estate agent and Halloween aficionado, I’m here to dish out some spooktacular activities in our vibrant city each October. From haunted houses that will send chills down your spine to pumpkin patches bursting with autumn vibes, there’s no shortage of frightful fun. So grab your witch's hat and broomstick, and let’s dive into all the boo-tiful things to do for Halloween in [Portland](/blog/city-guides/portland)!
 
 ![Halloween in Portland](/assets/img/blog/wix/11062b_ca608181dd7f4c6dbdb4d8e71930dce8.webp)
 
@@ -19,7 +19,7 @@ If you’re looking to unleash your inner thrill-seeker, the Portland area has s
 
 ### 2\. Pumpkin Patches & Corn Mazes
 
-What’s fall without a visit to a pumpkin patch? Head out to **Sauvie Island** for a day of pumpkin picking, hayrides, and navigating corn mazes. With stunning views of Mount Hood and an abundance of pumpkins, it’s the perfect spot for a day of fall fun or a cozy date. Grab some hot apple cider while you’re there, and don’t forget to snap a pic for the ‘gram—those fall colors are begging for it!
+What’s fall without a visit to a pumpkin patch? Head out to **Sauvie Island** for a day of pumpkin picking, hayrides, and navigating corn mazes. With stunning views of Mount Hood and an abundance of pumpkins, it’s the perfect spot for a day of [fall fun](/post/fall-fun-in-portland-family-adventures-for-kids-of-all-ages) or a cozy date. Grab some hot apple cider while you’re there, and don’t forget to snap a pic for the ‘gram—those fall colors are begging for it!
 
 ### 3\. Ghost Tours of Old Portland
 

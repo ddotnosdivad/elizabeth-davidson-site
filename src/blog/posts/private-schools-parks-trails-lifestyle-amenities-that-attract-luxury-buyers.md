@@ -3,6 +3,7 @@ title: "Parks, Trails and Amenities Luxury Buyers Seek in Portland"
 date: 2026-03-04
 description: "How parks, trails, golf and other lifestyle amenities factor into luxury home shopping in Portland and Lake Oswego, alongside architecture and finishes."
 image: "/assets/img/blog/wix/11062b_42c25c69456340b7bf931bd589d33ae2.webp"
+imageAlt: "Person taking a golf swing on a fairway near a sand bunker"
 section: market-insights
 cities: []
 wixTags: ["portland","pdx","lake oswego","#bestportlandrealtor","#RealEstateGoals","#realestate","Portland Neighborhoods"]
@@ -14,7 +15,7 @@ Yes, they want architectural beauty and refined finishes. But what truly seals t
 
 In our market, lifestyle amenities are not “extras.” They’re everything. Let’s talk about the key features that consistently attract high-end buyers to Portland and Lake Oswego.
 
-![](/assets/img/blog/wix/11062b_42c25c69456340b7bf931bd589d33ae2.webp)
+![Person taking a golf swing on a fairway near a sand bunker](/assets/img/blog/wix/11062b_42c25c69456340b7bf931bd589d33ae2.webp)
 
 ## Prestigious Private Schools That Elevate Property Value
 
@@ -26,17 +27,17 @@ Some of the most sought-after private schools in the area include:
 
 -   **Oregon Episcopal School** – A premier college-preparatory day and boarding school.
 
--   **Lake Oswego Montessori School** – A favorite among families seeking a strong foundational approach.
+-   **Lake Oswego Montessori School** – A Montessori school with a strong foundational approach.
 
 -   **St. Mary's Academy** – One of the most established all-girls schools in the region.
 
 Homes located within easy access to these campuses — particularly in the West Hills, Dunthorpe, and Lake Oswego — consistently command premium attention.
 
-For relocating executives and entrepreneurs, knowing top-tier education is nearby provides peace of mind — and that confidence translates into strong offers.
+For [relocating executives and entrepreneurs](/post/relocating-to-portland-a-luxury-buyer-s-guide), knowing top-tier education is nearby provides peace of mind — and that confidence translates into strong offers.
 
 ## Lake Oswego: The Lifestyle Magnet
 
-Let’s be honest — Lake Oswego is a lifestyle brand all its own.
+Let’s be honest — Lake Oswego is a lifestyle brand all its own. See my [Lake Oswego guide](/blog/city-guides/lake-oswego) for more.
 
 Private lake easements, golf courses, boutique shopping, and a tight-knit community feel create a rare blend of luxury and livability.
 
@@ -44,7 +45,7 @@ Buyers are especially drawn to:
 
 -   Lakefront access and boating privileges
 
--   Walkability to downtown Lake Oswego restaurants and shops
+-   Walkability to downtown Lake Oswego [restaurants](/post/lakeside-dining-delights-the-best-restaurants-in-lake-oswego-oregon) and shops
 
 -   Access to the prestigious Oswego Lake Country Club
 

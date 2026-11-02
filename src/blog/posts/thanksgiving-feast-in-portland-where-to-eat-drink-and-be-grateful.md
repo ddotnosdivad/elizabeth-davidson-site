@@ -9,7 +9,7 @@ cities: ["Portland"]
 wixTags: ["best portland real estate agent","pdx","best portland realtor","best restaurants","thanksgiving in portland"]
 wixUrl: "https://www.elizabethdavidson.com/post/thanksgiving-feast-in-portland-where-to-eat-drink-and-be-grateful"
 ---
-Hello, my fellow Portland foodies and holiday enthusiasts! If you're anything like me, Thanksgiving is all about family and food! Whether you’re a Portland native, new to the area, or just in town visiting, the good news is that you don't have to be chained to the stove this Thanksgiving. Luckily, Portland’s culinary scene has got your back! So, if you're in the mood for turkey, stuffing, or something a little more... unconventional, here’s a roundup of great places to feast in Portland this Thanksgiving.
+Hello, my fellow [Portland](/blog/city-guides/portland) foodies and holiday enthusiasts! If you're anything like me, Thanksgiving is all about family and food! Whether you’re a Portland native, new to the area, or just in town visiting, the good news is that you don't have to be chained to the stove this Thanksgiving. Luckily, Portland’s culinary scene has got your back! So, if you're in the mood for turkey, stuffing, or something a little more... unconventional, here’s a roundup of great places to feast in Portland this Thanksgiving.
 
 Holiday menus, hours and prices change every year, so for each restaurant below, check their site for this year’s Thanksgiving menu and reservations.
 
@@ -52,5 +52,7 @@ For a truly luxurious Thanksgiving experience, look no further than **The Ritz-C
 So, whether you’re craving a classic turkey dinner or something more adventurous, Portland has you covered this Thanksgiving! And for those of you who prefer to avoid the kitchen madness entirely—well, there's no shame in letting someone else do the cooking for a change. From fine dining to casual comfort food, there’s no shortage of delicious places to enjoy a Thanksgiving feast.
 
 If you're planning on spending the holiday in Portland and need help finding the perfect home to put your feet up after that big meal, give me a call! I know this town inside and out—and can help you find the perfect Portland home to make every holiday feel special.
+
+Staying in Lake Oswego? See [Thanksgiving meals in Lake Oswego](/post/options-in-lake-oswego-for-thanksgiving-meals), and for what comes next, the [Christmas tree lightings in and around Portland](/post/the-best-christmas-tree-lightings-in-and-around-portland-or-your-guide-to-festive-fun).
 
 Happy Thanksgiving, Portland!

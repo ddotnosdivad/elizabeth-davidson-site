@@ -3,6 +3,7 @@ title: "Working With a Luxury Realtor in Lake Oswego and Portland"
 date: 2026-04-28
 description: "Luxury real estate in Portland or Lake Oswego with a behind-the-scenes look at market insight and how a smooth transaction comes together."
 image: "/assets/img/blog/wix/11062b_0367c30afeaa4e9484dbcbff60977ff8.webp"
+imageAlt: "Large Mediterranean-style home lit at dusk with a fountain in the driveway"
 section: buying-selling
 cities: []
 wixTags: ["#bestportlandrealtor","#HomeSellingTips","#realestate"]
@@ -12,7 +13,7 @@ Buying or selling a luxury home in **Portland** or **Lake Oswego** isn’t you
 
 Here’s an insider look at what it’s really like to work with a luxury real estate specialist, like me, in the Portland metro area.
 
-![](/assets/img/blog/wix/11062b_0367c30afeaa4e9484dbcbff60977ff8.webp)
+![Large Mediterranean-style home lit at dusk with a fountain in the driveway](/assets/img/blog/wix/11062b_0367c30afeaa4e9484dbcbff60977ff8.webp)
 
 ## 1\. Strategic Market Insights
 
@@ -52,7 +53,7 @@ Luxury transactions aren’t just bigger — they’re more nuanced. I coordinat
 
 The goal is to make the process feel effortless while maximizing results.
 
-![](/assets/img/blog/wix/13eefd27e5a543a688fff990b0adb35b.webp)
+![Open kitchen with two islands, wood cabinetry and a long dining table](/assets/img/blog/wix/13eefd27e5a543a688fff990b0adb35b.webp)
 
 ## 4\. Negotiation Expertise & Market Savvy
 
@@ -66,7 +67,7 @@ In luxury real estate, a well-negotiated deal often goes beyond price. Buyers an
 
 -   Preservation of architectural features
 
-I act as an advisor and strategist, anticipating what matters most to the other party and protecting my client’s interests while maintaining professionalism.
+I act as an advisor and strategist, anticipating what matters most to the other party and protecting my client’s interests while maintaining professionalism. You can read more about [how I negotiate for buyers and sellers](/post/winning-in-real-estate-how-i-negotiate-the-best-deals-for-you).
 
 ## 5\. Lifestyle & Investment Guidance
 
@@ -80,7 +81,7 @@ High-end clients don’t just purchase square footage — they invest in lifesty
 
 Luxury real estate is about aligning property features with life priorities — and that requires careful guidance.
 
-![](/assets/img/blog/wix/11062b_15a65af8b543487195e6e0ee721cf368.webp)
+![Bathroom with a freestanding tub and a large window onto greenery](/assets/img/blog/wix/11062b_15a65af8b543487195e6e0ee721cf368.webp)
 
 ## 6\. Attention to Detail — From Listing to Closing
 
@@ -119,3 +120,5 @@ From confidential showings to tailored marketing, from strategic pricing to seam
 If you’re considering buying or selling a high-end property in Portland or Lake Oswego, partnering with a skilled luxury Realtor® isn’t just smart — it’s essential.
 
 Because in this market, success isn’t just about the property itself. It’s about **how the experience makes you feel**. And that’s where a professional makes all the difference.
+
+For more detail, see my guides to [buying a luxury home in Portland](/post/luxury-real-estate-buying-guide-tips-for-first-time-luxury-homebuyers-in-portland) and [selling a luxury home in Portland](/post/how-to-sell-a-luxury-home-in-portland-for-top-dollar).

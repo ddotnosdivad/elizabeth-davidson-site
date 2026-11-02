@@ -3,6 +3,7 @@ title: "2513 Oregon City Blvd, West Linn, OR: 4,160 Sq Ft Home"
 date: 2026-06-29
 description: "4-bed, 3.5-bath, 4,160 sq ft West Linn home with bright living, dining and kitchen areas and outdoor space, close to shops, parks and trails."
 image: "/assets/img/blog/wix/e2dd7e_d308e492d58644378e3347f46cd90004.webp"
+imageAlt: "Two-story home with a two-car garage among tall evergreens"
 section: featured-listings
 cities: ["West Linn"]
 wixTags: ["#bestportlandrealtor","#RealEstateGoals","2026portlandhomes"]
@@ -16,11 +17,11 @@ By Elizabeth Davidson, Realtor® | Portland & West Linn, Oregon
 
 If you’ve been waiting for a home that blends location, lifestyle, and livability—this is it. I’m thrilled to introduce my newest listing at **2513 Oregon City Blvd in West Linn**, a property that offers the perfect balance of comfort, convenience, and Pacific Northwest charm.
 
-![](/assets/img/blog/wix/e2dd7e_d308e492d58644378e3347f46cd90004.webp)
+![Two-story home with a two-car garage among tall evergreens](/assets/img/blog/wix/e2dd7e_d308e492d58644378e3347f46cd90004.webp)
 
 ## A Location That Truly Delivers
 
-Set in the heart of West Linn, this home places you exactly where you want to be. Known for its top-rated schools, scenic beauty, and welcoming community feel,
+Set in the heart of [West Linn](/blog/city-guides/west-linn), this home places you exactly where you want to be. Known for its top-rated schools, scenic beauty, and welcoming community feel,
 
 West Linn continues to be one of the most sought-after areas in the greater Portland metro.
 
@@ -30,7 +31,7 @@ From this address, you’re just minutes from:
 
 -   Parks, trails, and outdoor recreation
 
--   Easy access to Oregon City and Portland
+-   Easy access to Oregon City and [Portland](/blog/city-guides/portland)
 
 Whether you're commuting, exploring, or simply enjoying your neighborhood, this location supports a seamless and connected lifestyle.
 
@@ -50,7 +51,7 @@ Every detail contributes to a space that is easy to live in and even easier to l
 
 ## Outdoor Space to Enjoy Year-Round
 
-One of the standout features of this property is its connection to the outdoors. Whether you're hosting summer get-togethers, enjoying a peaceful morning coffee, or simply soaking in the fresh Oregon air, the outdoor areas provide versatility and relaxation.
+One of the standout features of this property is its connection to the outdoors. Whether you're hosting summer get-togethers (see my [summer home maintenance tips](/post/summer-home-maintenance-tips)), enjoying a peaceful morning coffee, or simply soaking in the fresh Oregon air, the outdoor areas provide versatility and relaxation.
 
 ## Why This Home Stands Out
 
@@ -64,4 +65,4 @@ Homes like this don’t stay on the market for long. If you’re interested in l
 
 Let’s find the home that fits your lifestyle—beautifully.
 
-![](/assets/img/blog/wix/e2dd7e_38be088fe58943eeb2aa2f7ef35f91f0.webp)
+![Back of a green home with two decks above a landscaped garden](/assets/img/blog/wix/e2dd7e_38be088fe58943eeb2aa2f7ef35f91f0.webp)

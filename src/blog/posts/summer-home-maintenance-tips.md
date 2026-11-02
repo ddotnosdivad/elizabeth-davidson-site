@@ -3,6 +3,7 @@ title: "Summer Home Maintenance Tips for Portland Homeowners"
 date: 2026-06-13
 description: "A seasonal guide to summer home maintenance in Portland, starting with the exterior, to protect your investment and prevent costly repairs."
 image: "/assets/img/blog/wix/e2dd7e_4ed539c3e7fa439f8eaf44774d9c30e9.webp"
+imageAlt: "Person pressure washing a brick walkway in front of a large white house"
 section: home-tips
 cities: []
 wixTags: ["best portland realtor","home maintenance"]
@@ -14,7 +15,7 @@ But while you’re enjoying the season, it’s also the perfect time to give you
 
 Here’s your go-to guide for summer home maintenance—Portland style.
 
-![](/assets/img/blog/wix/e2dd7e_4ed539c3e7fa439f8eaf44774d9c30e9.webp)
+![Person pressure washing a brick walkway in front of a large white house](/assets/img/blog/wix/e2dd7e_4ed539c3e7fa439f8eaf44774d9c30e9.webp)
 
 ## Start with the Exterior
 
@@ -48,7 +49,7 @@ Consider:
 
 Even small upgrades can make your outdoor areas feel like an extension of your home.
 
-![](/assets/img/blog/wix/e2dd7e_d4f00bd4a0224a9eb2143b064061f957.webp)
+![Living room with a large window, cream sofas and a wall-mounted TV above a fireplace](/assets/img/blog/wix/e2dd7e_d4f00bd4a0224a9eb2143b064061f957.webp)
 
 ## Keep Your Home Cool and Efficient
 
@@ -80,7 +81,7 @@ Make sure to:
 
 Not only does this improve appearance, but it also helps keep your home energy efficient.
 
-![](/assets/img/blog/wix/e2dd7e_f6d5d9dfb8b4448d82904704c6792597.webp)
+![Person cleaning arched white-framed windows with a long-handled mop](/assets/img/blog/wix/e2dd7e_f6d5d9dfb8b4448d82904704c6792597.webp)
 
 ## Tackle Small Repairs Before They Become Big Ones
 
@@ -132,7 +133,9 @@ Staying on top of maintenance now can translate directly into higher value later
 
 Summer home maintenance doesn’t have to be overwhelming. In fact, it’s an opportunity—an easy way to protect your investment, enhance your lifestyle, and keep your home looking its absolute best during the most enjoyable season of the year.
 
-And if you’re ever wondering which updates will actually add value (or thinking about selling down the line), having a strategy in place early makes all the difference.
+And if you’re ever wondering [which updates will actually add value](/post/luxury-renovations-that-increase-home-value-in-high-end-portland-lake-oswego-properties) (or thinking about selling down the line), having a strategy in place early makes all the difference.
+
+For a season-by-season checklist, see my [spring and summer home maintenance checklist](/post/why-spring-summer-home-maintenance-is-your-house-s-love-language) and the guide to [winter home preparation](/post/why-winter-preparation-protects-your-home-s-value).
 
 *Curious which improvements will have the biggest impact on your home’s value in today’s market? Let’s connect—I’d be happy to give you personalized recommendations based on your property and goals.*
 

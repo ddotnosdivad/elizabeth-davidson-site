@@ -9,15 +9,15 @@ cities: ["Portland"]
 wixTags: ["portland oregon","things to do in portland","live music portland","portland new years day","portland jazz clubs","portland brunch spots","outdoor activities portland","ugly sweater","portland music month","hiking trails in portland","new years day"]
 wixUrl: "https://www.elizabethdavidson.com/post/things-to-do-in-portland-on-new-year-s-day"
 ---
-Hey there, fabulous Portlanders! As we bid adieu to the old and welcome the new, it's time to kick off the year with a bang in our beloved city of roses. Whether you're a proud Portland local or just visiting, I've got the scoop on the most fantastic ways to spend New Year's Day in our quirky and vibrant city.
+Hey there, fabulous Portlanders! As we bid adieu to the old and welcome the new, it's time to kick off the year with a bang in our beloved [city of roses](/blog/city-guides/portland). Whether you're a proud Portland local or just visiting, I've got the scoop on the most fantastic ways to spend New Year's Day in our quirky and vibrant city.
 
 ![new years](/assets/img/blog/wix/11062b_baf51311d4ab4ab9a9e5eb46f1bf9306.webp)
 
-**St. Johns Holiday Window Displays**: Join one of Portland’s most charming neighborhoods for its holiday celebrations. The St. Johns Boosters and local businesses have presented a season of festivities, including holiday window decorations from local artists along the St. Johns Business District, which in past years have stayed up through New Year's Day. Check the St. Johns Boosters calendar for this season’s theme and dates. 
+**St. Johns Holiday Window Displays**: Join one of Portland’s most charming neighborhoods for its holiday celebrations (more seasonal ideas are in [Portland’s winter wonderland](/post/portland-s-winter-wonderland-where-festive-homes-and-holiday-cheer-collide)). The St. Johns Boosters and local businesses have presented a season of festivities, including holiday window decorations from local artists along the St. Johns Business District, which in past years have stayed up through New Year's Day. Check the St. Johns Boosters calendar for this season’s theme and dates. 
 
 If they're up, it's a lovely New Year's Day stroll through the neighborhood. 
 
-**Brunch Bonanza:** Let's be real, what better way to start the year than with a delicious brunch? Portland is a brunch haven, and on New Year's Day, the city's eateries are ready to tantalize your taste buds. From classic favorites to trendy spots, grab your pals and head to one of the many brunch spots. Bonus points if they have bottomless mimosas – it's a new year, after all!
+**Brunch Bonanza:** Let's be real, what better way to start the year than with a delicious brunch? Portland is a brunch haven, and on New Year's Day, the city's eateries are ready to tantalize your taste buds. From classic favorites to trendy spots, grab your pals and head to one of the many brunch spots (across the river, try these [Lake Oswego brunch spots](/post/brunch-bliss-exploring-the-best-brunch-spots-in-lake-oswego-oregon)). Bonus points if they have bottomless mimosas – it's a new year, after all!
 
 **First Hike of the Year:** Portland is nestled in the lap of nature, so why not kick off the year with a rejuvenating hike? Bundle up and hit the trails at Forest Park or Powell Butte. The crisp winter air and stunning views will invigorate your senses, setting the tone for an adventurous year ahead.
 

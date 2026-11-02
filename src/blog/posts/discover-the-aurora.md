@@ -3,6 +3,7 @@ title: "15109 2nd St, Aurora, OR: 5-Bedroom Home, 3,500 Sq Ft"
 date: 2026-01-18
 description: "5-bed, 5.5-bath, 3,500 sq ft home at 15109 2nd St in historic Aurora, with natural light, outdoor space and quick I-5 access."
 image: "/assets/img/blog/wix/e2dd7e_cf92b8de4d9f41348c97392b47bf6d00.webp"
+imageAlt: "White two-story home with an upper balcony and a brick walkway"
 section: featured-listings
 cities: ["Aurora"]
 wixTags: ["portland","pdx","best portland realtor","oregon","historic","aurora"]
@@ -16,7 +17,7 @@ Presented by Elizabeth Davidson, this exceptional property blends timeless appea
 
 **5 Bed | 5.5 Bath | 3,500 Sq. Ft. | $950,000**
 
-![](/assets/img/blog/wix/e2dd7e_cf92b8de4d9f41348c97392b47bf6d00.webp)
+![White two-story home with an upper balcony and a brick walkway](/assets/img/blog/wix/e2dd7e_cf92b8de4d9f41348c97392b47bf6d00.webp)
 
 # Discover Life in Historic Aurora
 
@@ -30,7 +31,7 @@ Living here means:
 
 • Scenic farmland and open skies• Easy access to I-5 for commuting
 
-Residents enjoy proximity to vineyards, farmers markets, and some of the region’s most stunning natural landscapes.
+Residents enjoy proximity to [vineyards](/post/wine-wonders-and-whimsy-exploring-real-estate-in-willamette-valley), farmers markets, and some of the region’s most stunning natural landscapes.
 
 # A Home Designed for Comfort & Connection
 
@@ -50,7 +51,7 @@ Every detail contributes to a home that feels warm, livable, and ready for its n
 
 chapter.
 
-![](/assets/img/blog/wix/e2dd7e_663242a5552e44aca75bbebcb66aa142.webp)
+![Large wooden deck with white railings overlooking a lawn and trees](/assets/img/blog/wix/e2dd7e_663242a5552e44aca75bbebcb66aa142.webp)
 
 # Outdoor Living in the Valley
 
@@ -72,7 +73,7 @@ Buyers are increasingly drawn to communities like Aurora for several reasons:
 
 ✔ A slower pace of life
 
-✔ Proximity to Portland, Salem, and wine country
+✔ Proximity to Portland, Salem, and [wine country](/blog/city-guides/willamette-valley)
 
 ✔ Strong sense of neighborhood pride
 
@@ -80,8 +81,8 @@ Properties here don’t come available often, and when they do, they attract buy
 
 # An Opportunity You Don’t Want to Miss
 
-**15109 2nd St.** represents more than just a home — it’s a chance to embrace the lifestyle that makes Aurora special. Whether you're looking for your first home, a place to settle down, or a peaceful retreat outside the city, this listing deserves your attention.
+**15109 2nd St.** represents more than just a home — it’s a chance to embrace the lifestyle that makes Aurora special, with room to settle in and a peaceful setting outside the city. This listing deserves your attention.
 
-For more information or to schedule a private showing, reach out to Elizabeth Davidson and experience firsthand what makes this property truly stand out.
+For more information or to schedule a private showing, reach out to Elizabeth Davidson and experience firsthand what makes this property truly stand out. You can also read more in the [Aurora city guide](/blog/city-guides/aurora).
 
-![](/assets/img/blog/wix/e2dd7e_6fe14263ffa14889b3056eb6630184eb.webp)
+![Bright living room with cream armchairs, a round coffee table and a vaulted ceiling](/assets/img/blog/wix/e2dd7e_6fe14263ffa14889b3056eb6630184eb.webp)

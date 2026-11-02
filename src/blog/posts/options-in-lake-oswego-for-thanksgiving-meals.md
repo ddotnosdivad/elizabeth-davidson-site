@@ -15,6 +15,8 @@ Hey there, Lake Oswego foodies and festive folk!
 
 The season of thanks is upon us, and if you're like many of us, you're *really* looking forward to that Thanksgiving feast. But—plot twist—you don’t have to work away in the kitchen for hours to enjoy a mouth-watering spread. Whether you’re a local or a first-time visitor, we’ve got the lowdown on where to get an amazing Thanksgiving dinner in Lake Oswego, so you can spend less time cooking and more time *savoring*!
 
+Heading into Portland instead? See [where to eat on Thanksgiving in Portland](/post/thanksgiving-feast-in-portland-where-to-eat-drink-and-be-grateful).
+
 Holiday menus, prices and pickup times change every year, so for each spot below, check their site for this year’s Thanksgiving menu and reservations.
 
 ![Thanksgiving in Lake Oswego](/assets/img/blog/wix/4f894c105420ec9e5999f9b22ae14999.webp)
@@ -37,9 +39,9 @@ Zupan’s Lake Oswego store (16380 Boones Ferry Rd, Lake Oswego, OR 97035) has o
 
 ### 4\. Tavern on Kruse
 
-Tavern on Kruse (4835 Meadows Rd, Suite 133, Lake Oswego, OR 97035, in Kruse Village) celebrates major holidays with special brunch and dinner menus, and has offered a finish-at-home Thanksgiving dinner in past years. No messes, almost no cleanup, amazing food, and you’ll be rested and relaxed when your guests arrive.
+[Tavern on Kruse](/post/brunch-bliss-exploring-the-best-brunch-spots-in-lake-oswego-oregon) (4835 Meadows Rd, Suite 133, Lake Oswego, OR 97035, in Kruse Village) celebrates major holidays with special brunch and dinner menus, and has offered a finish-at-home Thanksgiving dinner in past years. No messes, almost no cleanup, amazing food, and you’ll be rested and relaxed when your guests arrive.
 
-Lake Oswego has a cornucopia of options to choose from when it comes to Thanksgiving dinner—whether you want to dine out, pick up a pre-made meal, or make it yourself with a little help. So go ahead, ditch the stress, and treat yourself to a delicious meal that you’ll actually *enjoy*.
+[Lake Oswego](/blog/city-guides/lake-oswego) has a cornucopia of options to choose from when it comes to Thanksgiving dinner—whether you want to dine out, pick up a pre-made meal, or make it yourself with a little help. So go ahead, ditch the stress, and treat yourself to a delicious meal that you’ll actually *enjoy*.
 
 Remember to call ahead, make reservations where necessary, and get your orders in early. And most importantly—enjoy your feast and give thanks for all the wonderful food, family, and friends that make this time of year so special.
 

@@ -4,6 +4,7 @@ date: 2025-01-23
 updated: 2026-11-01
 description: "Skiing near Portland: Mt. Hood Meadows, Timberline, Ski Bowl and Cooper Spur, plus Mt. Bachelor, Hoodoo, Anthony Lakes and Mt. Ashland farther afield."
 image: "/assets/img/blog/wix/ea0ed4082c5c4a4e9b51b091fd6595de.webp"
+imageAlt: "Skiers on a snowy slope beside a chairlift"
 section: city-guides
 cities: ["Oregon Getaways"]
 wixTags: ["portland","pdx","best real estate agent in portland","skiing in oregon","best realtor portland","snowboarding in portland"]
@@ -11,7 +12,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/skiing-near-portland-the-best-sl
 ---
 Hey there, fellow snow enthusiasts and mountain lovers! If you're like me, living in the PDX area means you get the best of both worlds: urban cool and easy access to jaw-dropping outdoor adventure. And what's one of the *most* amazing things about living in Portland? The fact that world-class ski mountains are just a short drive away. Whether you’re a beginner who’s just learning how to carve or an expert looking to catch some powder, there’s a perfect slope for you just up the road.
 
-So, buckle up, grab your ski poles (or snowboard, or just your daydreams), because we’re diving into the best ski mountains near Portland, Oregon—plus a few worth the longer drive.
+So, buckle up, grab your ski poles (or snowboard, or just your daydreams), because we’re diving into the best ski mountains near Portland, Oregon—plus a few worth the longer drive. For more trips around the state, see my [Oregon getaways](/blog/city-guides/oregon-getaways).
 
 ![skiing near portland, or](/assets/img/blog/wix/ea0ed4082c5c4a4e9b51b091fd6595de.webp)
 
@@ -51,7 +52,7 @@ For a more laid-back experience with great value, **Ski Bowl** is your best bet.
 
 *Distance from Portland: 1 hour 45 minutes (about 70 miles)*
 
-For a quieter, more intimate experience, **Cooper Spur** offers a small-town, low-key vibe. This hidden gem is perfect if you want to avoid the crowds that sometimes swarm bigger resorts.
+For a quieter, more intimate experience, **Cooper Spur** offers a small-town, low-key vibe. This hidden gem steers clear of the crowds that sometimes swarm bigger resorts.
 
 -   **What makes it awesome?** The terrain here is mostly beginner to intermediate. You won’t find massive crowds here, so it’s the perfect place to really hone your skills without feeling rushed. The resort is also smaller, with fewer runs, but it’s packed with charm. If you’re looking for an easy, relaxed vibe that lets you escape the hustle and bustle of Portland, Cooper Spur is calling your name.
 
@@ -67,7 +68,7 @@ Ok, this one’s a bit farther out, but hear me out — if you’re willing to m
 
 -   **What makes it awesome?** Mount Bachelor offers over 4,300 acres of terrain, making it the largest ski resort in the Pacific Northwest. It’s got everything from steep, powder-filled bowls to mellow beginner runs. It also receives a ton of snow, and the lift system here is top-notch. If you’re into backcountry, you’ll love the endless opportunities to explore off-piste terrain. The mountain is a dormant volcano, and the summit has 360-degree views across the Cascades.
 
--   **Bonus:** Mount Bachelor’s proximity to Bend means you can enjoy the quirky, artsy atmosphere of this cool town. Think local breweries, great coffee shops, and a lively downtown scene. It's the perfect place for a weekend getaway!
+-   **Bonus:** Mount Bachelor’s proximity to Bend means you can enjoy the quirky, artsy atmosphere of this cool town. Think local breweries, great coffee shops, and a lively downtown scene. It's a great spot for a [weekend getaway](/post/spring-break-shenanigans-your-ultimate-guide-to-oregon-adventure)!
 
 ### 6\. Hoodoo Ski Area
 
@@ -85,7 +86,7 @@ Down in Southern Oregon near Ashland, **[Mt. Ashland](https://www.mtashland.com/
 
 ### Final Thoughts
 
-Living in Portland means you get easy access to some of the best skiing in the Pacific Northwest. Whether you’re just starting out or you’re a seasoned pro, the mountains around here have got you covered. From the famous slopes of Mt. Hood to the hidden gems like Cooper Spur, there’s a perfect spot to create your next adventure, no matter your skill level.
+Living in [Portland](/blog/city-guides/portland) means you get easy access to some of the best skiing in the Pacific Northwest. Whether you’re just starting out or you’re a seasoned pro, the mountains around here have got you covered. From the famous slopes of Mt. Hood to the hidden gems like Cooper Spur, there’s a perfect spot to create your next adventure, no matter your skill level.
 
 So, what are you waiting for? Grab your gear, hit the slopes, and make the most of the winter season! And hey, if you’re thinking of moving to Portland, you know where to find me for all your real estate needs. Let’s talk mountain retreats! ⛷️❄️
 

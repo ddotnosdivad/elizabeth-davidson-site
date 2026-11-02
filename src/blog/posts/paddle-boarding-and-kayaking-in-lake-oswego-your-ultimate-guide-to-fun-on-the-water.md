@@ -23,7 +23,7 @@ Foothills Park (199 Foothills Rd, Lake Oswego, OR 97034) offers more than just s
 
 ### 3\. Millennium Plaza Park
 
-For those who enjoy a lively atmosphere, Millennium Plaza Park (200 First St, Lake Oswego, OR 97034) is the place to be. Located in the heart of Lake Oswego, this park offers easy access to the lake and is surrounded by charming cafes and boutiques. Paddle out into the lake, and when you return, you can treat yourself to a delicious meal or a refreshing drink. It's the perfect blend of adventure and leisure.
+For those who enjoy a lively atmosphere, Millennium Plaza Park (200 First St, Lake Oswego, OR 97034) is the place to be. Located in the heart of Lake Oswego, this park offers easy access to the lake and is surrounded by charming cafes and boutiques. Paddle out into the lake, and when you return, you can treat yourself to a [delicious meal](/post/lakeside-dining-delights-the-best-restaurants-in-lake-oswego-oregon) or a refreshing drink. It's the perfect blend of adventure and leisure.
 
 ### 4\. Lake Oswego's Main Lake
 
@@ -43,7 +43,7 @@ While not on the water itself, Tryon Creek State Natural Area (11321 SW Terwilli
 
 -   **Have Fun:** Paddle boarding and kayaking are all about enjoying the water and the great outdoors.
 
-So, there you have it – a fun and friendly guide to paddle boarding and kayaking in Lake Oswego. Whether you're looking for a peaceful paddle or an adventurous day out, our beautiful lake has something to offer everyone. So, what are you waiting for? Get out there and make a splash!
+So, there you have it – a fun and friendly guide to paddle boarding and kayaking in [Lake Oswego](/blog/city-guides/lake-oswego). Once you're back on land, there's plenty more to do in the [fall in Lake Oswego guide](/post/fall-in-lake-oswego-your-ultimate-guide-to-seasonal-fun). Whether you're looking for a peaceful paddle or an adventurous day out, our beautiful lake has something to offer everyone. So, what are you waiting for? Get out there and make a splash!
 
 Happy paddling!
 

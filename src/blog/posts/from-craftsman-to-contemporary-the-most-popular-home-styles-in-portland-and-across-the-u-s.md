@@ -4,6 +4,7 @@ date: 2025-06-16
 updated: 2026-11-01
 description: "A guide to Portland home styles, from Craftsman, bungalow and Victorian homes to mid-century modern and contemporary, plus local architects to know."
 image: "/assets/img/blog/wix/11062b_ee5add250ee643d1abc55ec22f16cf66.webp"
+imageAlt: "Living room with large windows, built-in wood cabinets and cream sofas"
 section: home-tips
 cities: []
 wixTags: ["best portland real estate agent","portland real estate","portland homes","mid century modern","home styles"]
@@ -46,7 +47,7 @@ Built in the decades after World War II, these homes often have low rooflines, p
 
 ### Contemporary and Modern
 
-Sleek, bold and energy-efficient, contemporary homes are a growing part of Portland’s housing mix, from new infill houses on narrow city lots to custom homes in the hills. Expect flat or shed roofs, large windows, mixed materials like wood, metal and concrete, and open interiors.
+Sleek, bold and energy-efficient, contemporary homes are a growing part of Portland’s housing mix, from new infill houses on narrow city lots to custom homes in the hills (see [new construction luxury homes in Portland](/post/new-construction-luxury-homes-in-portland-what-to-know)). Expect flat or shed roofs, large windows, mixed materials like wood, metal and concrete, and open interiors.
 
 ![Contemporary House](/assets/img/blog/wix/11062b_37b2c48d18e34a398b8c8cee99758a23.webp)
 
@@ -56,7 +57,7 @@ A newer trend in the Portland metro area, especially in suburbs like Happy Valle
 
 ### Eclectic Finds
 
-Portland also has plenty of homes that don’t fit a single label: A-frames, small cottages and old warehouses converted into lofts. Part of the fun of house hunting here is what turns up around the next corner.
+Portland also has plenty of homes that don’t fit a single label: A-frames, small cottages and old warehouses converted into lofts. Part of the fun of house hunting here is what turns up around the next corner. To compare areas, see [Portland vs. Lake Oswego](/post/the-most-desirable-luxury-neighborhoods-in-portland-lake-oswego).
 
 ### Sustainable Design
 
@@ -72,7 +73,7 @@ Portland has a strong community of residential architects. A few local firms who
 - **Potestio Studio.** Portland architect Rick Potestio designs custom homes that pair classical ideas of proportion and harmony with modern materials.
 - **Scott Edwards Architecture.** Founded in Portland in 1998, the firm designs modern houses with flat roofs and walls of glass and has also worked on restorations and additions to historic Portland homes.
 
-![](/assets/img/blog/wix/e8fa624bdd624499ba8fbf74a575b28f.webp)
+![Modern two-story house with large windows and bamboo landscaping at dusk](/assets/img/blog/wix/e8fa624bdd624499ba8fbf74a575b28f.webp)
 
 ## Why Architecture Matters Here
 
@@ -80,7 +81,7 @@ Portland’s architecture is shaped by its landscape, its sustainability culture
 
 ## Realtor Tip: Style *Matters*
 
-Not just for looks—different home styles can affect everything from energy efficiency to resale value and neighborhood vibe. As a local real estate pro, I can help you match a home’s style to the way you want to live *and* your Pinterest boards. 😄
+Not just for looks—different home styles (and [home improvements that add value](/post/luxury-renovations-that-increase-home-value-in-high-end-portland-lake-oswego-properties)) can affect everything from energy efficiency to resale value and neighborhood vibe. As a local real estate pro, I can help you match a home’s style to the way you want to live *and* your Pinterest boards. 😄
 
 ## Ready to Find Your Style Soulmate?
 

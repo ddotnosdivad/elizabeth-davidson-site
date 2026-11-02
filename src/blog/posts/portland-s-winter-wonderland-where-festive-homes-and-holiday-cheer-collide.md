@@ -3,12 +3,13 @@ title: "Portland Holiday Lights: Peacock Lane, ZooLights and More"
 date: 2023-12-13
 description: "Holiday light displays in Portland, including Peacock Lane, ZooLights, the Grotto's Festival of Lights, an OMSI laser show and Winter Wonderland at PIR."
 image: "/assets/img/blog/wix/11062b_89ddcfc581d74ce2b445e41a5256921f.webp"
+imageAlt: "Holiday market street with colorful flags, lights and a snowman display"
 section: city-guides
 cities: ["Portland"]
 wixTags: ["portland oregon","family activities","portland guide","Christmas Lights","Portland Christmas","Holiday lights"]
 wixUrl: "https://www.elizabethdavidson.com/post/portland-s-winter-wonderland-where-festive-homes-and-holiday-cheer-collide"
 ---
-Hey there, fellow Portlanders and festive enthusiasts! 🎄✨ As your friendly neighborhood real estate agent, I can't help but get into the holiday spirit and spread some cheer about the magical winter wonderland that is Portland, Oregon! This city knows how to do the holidays right, and I'm here to guide you through the most dazzling activities and twinkling lights that will make your season merry and bright.
+Hey there, fellow Portlanders and festive enthusiasts! 🎄✨ As your friendly neighborhood real estate agent, I can't help but get into the holiday spirit and spread some cheer about the magical winter wonderland that is Portland, Oregon! This city knows how to do the holidays right, and I'm here to guide you through the most dazzling activities (and the [best Christmas tree lightings](/post/the-best-christmas-tree-lightings-in-and-around-portland-or-your-guide-to-festive-fun)) and twinkling lights that will make your season merry and bright.
 
 ![Portland Christmas Lights](/assets/img/blog/wix/11062b_89ddcfc581d74ce2b445e41a5256921f.webp)
 
@@ -18,7 +19,7 @@ Let's kick off our holiday adventure with the iconic Peacock Lane! Picture this:
 
 ### [2\.](https://www.oregonzoo.org/lights) [ZooLights Extravaganza:](https://www.oregonzoo.org/lights)
 
-Who says the zoo is just for summertime fun? Oregon Zoo transforms into a dazzling winter wonderland during ZooLights. Thousands of colorful lights illuminate the zoo grounds, creating a magical atmosphere. From a tunnel of twinkling lights to life-sized animal sculptures, it's a wild and wonderful experience for the whole family. Pro tip: grab your tickets early to avoid the lines and enjoy the lights without a care!
+Who says the zoo is just for summertime fun? Oregon Zoo transforms into a dazzling winter wonderland during ZooLights. Thousands of colorful lights illuminate the zoo grounds, creating a magical atmosphere. From a tunnel of twinkling lights to life-sized animal sculptures, it's a wild and wonderful experience for visitors of all ages. Pro tip: grab your tickets early to avoid the lines and enjoy the lights without a care!
 
 ### [3\.](https://thegrotto.org/christmas-festival-of-lights/) [The Grotto's Festival of Lights:](https://thegrotto.org/christmas-festival-of-lights/)
 
@@ -34,6 +35,8 @@ It's the holiday season at OMSI's Kendall Planetarium. This highly popular progr
 
 ### [6\. Winter Wonderland at Portland International Raceway](https://winterwonderlandportland.com/)
 
-For a drive-thru delight like no other, head to the Portland International Raceway for their Winter Wonderland extravaganza. Tune your car radio to the designated station, and cruise through a mile-long path illuminated by over 250 colorful light displays. It's a merry and magical experience that will have the whole family singing carols and ooh-ing at the dazzling light sculptures.
+For a drive-thru delight like no other, head to the Portland International Raceway for their Winter Wonderland extravaganza. Tune your car radio to the designated station, and cruise through a mile-long path illuminated by over 250 colorful light displays. It's a merry and magical experience that will have everyone singing carols and ooh-ing at the dazzling light sculptures.
 
-There you have it, folks! Portland's holiday scene is as diverse and vibrant as its residents. Whether you're into sparkling lights, serene sanctuaries, or spirited pub crawls, there's something for everyone in the City of Roses. So, grab your scarf, put on your Santa hat, and let the Portland Christmas adventures begin! 🌟🎅
+There you have it, folks! Portland's holiday scene is as diverse and vibrant as its residents. Whether you're into sparkling lights, serene sanctuaries, or spirited pub crawls, there's something for everyone in the [City of Roses](/blog/city-guides/portland). So, grab your scarf, put on your Santa hat, and let the Portland Christmas adventures begin! 🌟🎅
+
+Once the holidays wrap up, see [things to do in Portland on New Year's Day](/post/things-to-do-in-portland-on-new-year-s-day).

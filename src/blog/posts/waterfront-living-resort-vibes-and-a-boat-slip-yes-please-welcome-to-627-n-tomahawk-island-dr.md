@@ -3,6 +3,7 @@ title: "627 N Tomahawk Island Dr, Portland, OR: Boat Slip"
 date: 2026-08-22
 description: "3-bed, 2.5-bath, 2,037 sq ft Hayden Island townhome-style condo with Columbia River views, a pool and a 35-foot boat slip at Riverhouse Marina."
 image: "/assets/img/blog/wix/e2dd7e_d4687fe6de84421d8b49ea29104ce00f.webp"
+imageAlt: "Gray shingle-sided waterfront townhomes with decks and a large green lawn"
 section: featured-listings
 cities: ["Portland"]
 wixTags: ["#bestportlandrealtor","hayden island"]
@@ -14,7 +15,7 @@ Imagine sipping your morning coffee while watching the sunrise over the water. P
 
 Welcome to **627 N Tomahawk Island Dr in Portland**, where waterfront living meets comfort, style, and serious fun.
 
-![](/assets/img/blog/wix/e2dd7e_d4687fe6de84421d8b49ea29104ce00f.webp)
+![Gray shingle-sided waterfront townhomes with decks and a large green lawn](/assets/img/blog/wix/e2dd7e_d4687fe6de84421d8b49ea29104ce00f.webp)
 
 ## Say Hello to Your Own Waterfront Escape
 
@@ -40,7 +41,7 @@ This is where things get really fun.
 
 Residents can enjoy a pool, stroll along the walking path beside the bay toward the Columbia River, or head out on the water whenever adventure calls. And yes, the home includes a **35-foot boat slip at Riverhouse Marina**.
 
-Whether you're a boating enthusiast, a paddleboard fan, or simply someone who believes water views make everything better, this is a lifestyle with plenty of ways to enjoy the outdoors.
+With boating, paddleboarding and water views all close at hand, this is a lifestyle with plenty of ways to enjoy the outdoors.
 
 ## Easy Living Means More Time for Fun
 
@@ -55,6 +56,8 @@ Translation? More time enjoying the views and less time worrying about weekend c
 Here, a quick walk can lead you to the river. Your morning can begin with water views. Your weekend can include boating adventures. And your evenings can end outdoors, watching the sky change color over the Columbia River.
 
 It's relaxed. It's scenic. It's fun. And it may just be the lifestyle upgrade you've been waiting for.
+
+For more to do nearby, see [summer in Portland](/post/best-things-to-do-in-around-portland-during-summer) and the [Portland city guide](/blog/city-guides/portland).
 
 **Welcome home to 627 N Tomahawk Island Dr—where every day comes with a little more vacation energy.**
 

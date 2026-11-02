@@ -4,18 +4,19 @@ date: 2026-04-13
 updated: 2026-11-01
 description: "Home improvements that add value, from curb appeal, kitchens, baths and backyards to luxury renovations in high-end Portland and Lake Oswego homes."
 image: "/assets/img/blog/wix/11062b_edcaa8e2622b4770b6746ce82775704c.webp"
+imageAlt: "Kitchen with sage green cabinets and a checkerboard floor"
 section: home-tips
 cities: []
 wixTags: ["#bestportlandrealtor","#RealEstateGoals","#HomeSellingTips","#realestate","homerenovation"]
 wixUrl: "https://www.elizabethdavidson.com/post/luxury-renovations-that-increase-home-value-in-high-end-portland-lake-oswego-properties"
 ---
-As a luxury Realtor® specializing in Portland and Lake Oswego, I’m often asked:
+As a luxury Realtor® specializing in Portland and [Lake Oswego](/blog/city-guides/lake-oswego), I’m often asked:
 
 **“If I’m going to renovate, where should I invest to truly increase value?”**
 
 The answer depends on the home, the neighborhood and how soon you plan to sell, but one rule holds at every price point: not every project pays you back. Small, well-chosen updates often do more for a sale than a big remodel, and the right upgrades also make the home better to live in while you own it. Below are the improvements I recommend most, starting with the ones that work for almost any home and finishing with renovations for the high-end market.
 
-![](/assets/img/blog/wix/11062b_edcaa8e2622b4770b6746ce82775704c.webp)
+![Kitchen with sage green cabinets and a checkerboard floor](/assets/img/blog/wix/11062b_edcaa8e2622b4770b6746ce82775704c.webp)
 
 ## Start With a Plan
 
@@ -69,7 +70,7 @@ The backyard is often overlooked, yet outdoor living space ranks high with buyer
 - **Smart watering.** Drip irrigation and smart sprinkler controllers cut water use and make yard care easier for the next owner.
 - **Pools.** A pool can add value in some neighborhoods and be a drawback in others because of upkeep and safety. Ask a local agent before you build one.
 
-![](/assets/img/blog/wix/11062b_50544baa35ab4ab9bafcef9a08824b38.webp)
+![Courtyard with a lawn, reflecting pool and a tree in fall color](/assets/img/blog/wix/11062b_50544baa35ab4ab9bafcef9a08824b38.webp)
 
 ## Declutter and Stage
 
@@ -77,7 +78,7 @@ Even if you aren’t selling yet, clearing out clutter and arranging rooms the w
 
 ## Luxury Renovations for High-End Portland and Lake Oswego Homes
 
-In the high-end market, not all upgrades are created equal. Buyers at the luxury level expect quality — but what truly moves the needle are renovations that elevate lifestyle, architectural integrity, and long-term desirability.
+In the [high-end market](/post/luxury-market-update-trends-in-portland-lake-oswego-you-should-know), not all upgrades are created equal. Buyers at the luxury level expect quality — but what truly moves the needle are renovations that elevate lifestyle, architectural integrity, and long-term desirability.
 
 Here’s where I consistently see the strongest return in Portland and Lake Oswego’s premium properties.
 
@@ -97,7 +98,7 @@ Open-concept kitchens that connect seamlessly to great rooms and outdoor terrace
 
 Pro tip: Hidden prep kitchens or walk-in sculleries are becoming increasingly desirable in the Lake Oswego luxury market.
 
-![](/assets/img/blog/wix/11062b_35abe37eb05f4db794095c90a1285970.webp)
+![Covered patio with outdoor seating and a pool beyond](/assets/img/blog/wix/11062b_35abe37eb05f4db794095c90a1285970.webp)
 
 ### 2. Indoor-Outdoor Living Enhancements
 
@@ -115,7 +116,7 @@ Proximity to Oswego Lake or views of Mount Hood become even more powerful when p
 
 Buyers will pay significantly more when a home feels like a private resort.
 
-![](/assets/img/blog/wix/11062b_213cfb1c8c54438a8efcf3fa959efeaa.webp)
+![Bedroom with a large bed, desk and neutral tones](/assets/img/blog/wix/11062b_213cfb1c8c54438a8efcf3fa959efeaa.webp)
 
 ### 3. Primary Suite Retreats That Rival Five-Star Hotels
 
@@ -130,7 +131,7 @@ Renovations that increase value:
 
 In homes bordering Forest Park or wooded Dunthorpe lots, framing serene views from the primary suite dramatically enhances appeal.
 
-![](/assets/img/blog/wix/11062b_15a65af8b543487195e6e0ee721cf368.webp)
+![Bathroom with a freestanding tub in front of a large garden window](/assets/img/blog/wix/11062b_15a65af8b543487195e6e0ee721cf368.webp)
 
 ### 4. Smart Home & Security Integration
 
@@ -148,7 +149,7 @@ In Lake Oswego’s estate neighborhoods, discreet but sophisticated tech integra
 
 The key is seamless design. Technology should enhance the home without overwhelming it.
 
-![](/assets/img/blog/wix/11062b_c075f4070aef46f3bce57a0960b5d6db.webp)
+![Living room with a red cabinet, neutral sofa and open glass doors](/assets/img/blog/wix/11062b_c075f4070aef46f3bce57a0960b5d6db.webp)
 
 ### 5. Sustainable & Energy-Efficient Improvements
 
@@ -178,7 +179,7 @@ High-impact improvements:
 
 In West Hills and Lake Oswego estates, buyers often want dual offices.
 
-![](/assets/img/blog/wix/11062b_fa83617d3f2c41a1ba80f451c8ac948e.webp)
+![Wine bottles resting on a wooden rack](/assets/img/blog/wix/11062b_fa83617d3f2c41a1ba80f451c8ac948e.webp)
 
 ### 7. Wine Rooms & Entertaining Spaces
 
@@ -214,7 +215,7 @@ The right renovation can:
 -   Increase competitive offers
 -   Elevate perceived prestige
 
-If you’re considering upgrading before selling — or renovating a newly purchased luxury home — thoughtful planning is everything.
+If you’re considering upgrading [before selling](/post/how-to-sell-a-luxury-home-in-portland-for-top-dollar) — or renovating a newly purchased luxury home — thoughtful planning is everything.
 
 Because in this market, refined improvements don’t just enhance a property. They position it at the top.
 

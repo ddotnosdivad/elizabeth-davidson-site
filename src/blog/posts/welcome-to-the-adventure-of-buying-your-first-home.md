@@ -4,6 +4,7 @@ date: 2025-02-11
 updated: 2026-11-01
 description: "A step-by-step guide to buying your first home: budget and pre-approval, choosing an agent, location, house hunting, inspection, offers and closing."
 image: "/assets/img/blog/wix/56b1ad182bb349119217cef75d1ec0a7.webp"
+imageAlt: "Modern single-level home with wood siding and glass garage doors at dusk"
 section: buying-selling
 cities: []
 wixTags: ["best portland real estate agent","portland","pdx","house hunting","dream home","#FirstTimeHomeBuyer","real estate tips","home sweet home"]
@@ -11,7 +12,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/welcome-to-the-adventure-of-buyi
 ---
 So, you’re thinking about buying your first home? Well, buckle up, because you’re about to embark on one of the most exciting (and maybe slightly nerve-wracking) journeys of your life! But don’t worry – I’m here to help you navigate the twists, turns, and those “wait, what does that even mean?” moments with some fun, friendly advice.
 
-![](/assets/img/blog/wix/56b1ad182bb349119217cef75d1ec0a7.webp)
+![Modern single-level home with wood siding and glass garage doors at dusk](/assets/img/blog/wix/56b1ad182bb349119217cef75d1ec0a7.webp)
 
 ## Step 1: Dream Big – But Stay Grounded!
 
@@ -21,7 +22,7 @@ Then turn the dream into a working list. Start with your goal: is this a long-te
 
 ## Step 2: Set Your Budget and Get Pre-Approved
 
-BUT – and here’s the real talk – you’ve gotta be realistic. As much as you might want the 5-bedroom mansion, you also need to consider your budget. Be sure to talk to a mortgage lender and get pre-approved before you fall in love with something *way* out of your price range. It’s a total bummer, but trust me, it’ll save you a lot of heartache later.
+BUT – and here’s the real talk – you’ve gotta be realistic. As much as you might want the 5-bedroom mansion, you also need to consider your budget. Be sure to [talk to a mortgage lender](/post/demystifying-mortgages-and-financing-your-guide-to-home-loans) and get pre-approved before you fall in love with something *way* out of your price range. It’s a total bummer, but trust me, it’ll save you a lot of heartache later.
 
 A realistic budget starts with your credit score, your debt-to-income ratio and how much you plan to put down. Then look past the mortgage payment to the full monthly cost of owning: property taxes, homeowners insurance, utilities and a cushion for maintenance and repairs. A pre-approval letter does double duty: it confirms what you can borrow, and it shows sellers you are a serious buyer when it is time to make an offer.
 
@@ -35,7 +36,7 @@ We’ve all heard it, right? But what does it *really* mean? Well, let’s break
 
 It’s also important to think about the future of the neighborhood. Are there any new developments planned? Will your property value rise, or will you be stuck with a fixer-upper that’s worth less than you paid? These are all things to consider, and your real estate agent will have great insights here.
 
-Before you commit to an area, spend real time there. Drive your commute at rush hour, visit on a weekday evening and a Saturday morning, walk to the nearest park and coffee shop, and stop by a farmers market or local event. Seeing a neighborhood at different times of day tells you far more than a single showing.
+Before you commit to an area, spend real time there. Drive your commute at rush hour, visit on a weekday evening and a Saturday morning, walk to the nearest park and coffee shop, and stop by a farmers market or local event. Seeing a neighborhood at different times of day tells you far more than a single showing. My [Portland city guide](/blog/city-guides/portland) is a good place to start.
 
 ![neighborhood community](/assets/img/blog/wix/11062b_fcff492f042d41768abf6495071a7eb2.webp)
 
@@ -60,7 +61,7 @@ Take this list to every showing:
 
 Now that you’ve found the one (or at least, the one you *think* is the one), it’s time to make an offer. This is where your agent’s expertise really comes in handy. They’ll help you come up with a competitive yet fair price and advise you on how much wiggle room you have.
 
-Be prepared for some back-and-forth negotiating. It’s not like the movies where you just raise your hand and say, “I’ll take it!” There may be counteroffers, contingencies, and a whole lot of waiting, but don’t worry – the end result will be totally worth it.
+Be prepared for some [back-and-forth negotiating](/post/winning-in-real-estate-how-i-negotiate-the-best-deals-for-you). It’s not like the movies where you just raise your hand and say, “I’ll take it!” There may be counteroffers, contingencies, and a whole lot of waiting, but don’t worry – the end result will be totally worth it.
 
 Price is only one part of the negotiation. Closing costs, the closing date, repair requests after the inspection and which appliances stay with the home are all on the table, and your agent can help you decide which terms matter most to you.
 
@@ -82,4 +83,4 @@ So, whether you're picturing cozy nights in front of the fireplace, summer BBQs 
 
 Happy house hunting – and welcome to the world of homeownership! 🏡✨
 
-![](/assets/img/blog/wix/11062b_76e2ba52528e4130815e12ef64b11b9f.webp)
+![People carrying moving boxes through an empty living room with tall windows](/assets/img/blog/wix/11062b_76e2ba52528e4130815e12ef64b11b9f.webp)

@@ -4,6 +4,7 @@ date: 2026-06-10
 updated: 2026-11-01
 description: "How to prep a Portland-area home for sale: curb appeal, repairs, staging, pricing, marketing and offers, plus what to do differently in each season."
 image: "/assets/img/blog/wix/e2dd7e_f31ca04606bd48f0abb6f74f0b936064.webp"
+imageAlt: "Backyard pool with lounge chairs, a stone patio and flower beds beside a home"
 section: buying-selling
 cities: []
 wixTags: ["portland real estate","best portland realtor"]
@@ -13,7 +14,7 @@ Not every listing achieves top dollar. The homes that win? They’re positioned,
 
 Whether this is your first sale or your fifth, and whether you list in June or January, the same fundamentals apply. If you’re thinking about selling in the Greater Portland area, these strategies can make a significant difference in your final sale price.
 
-![](/assets/img/blog/wix/e2dd7e_66b005c757314f4a81726c130d58856d.webp)
+![Patio table under a timber pergola in a landscaped garden](/assets/img/blog/wix/e2dd7e_66b005c757314f4a81726c130d58856d.webp)
 
 ## Start With Your Goals
 
@@ -53,9 +54,9 @@ The best listings don’t hit the market “as-is”—they’re thoughtfully pr
 
 Consider:
 
--   Pre-listing inspections to avoid surprises
+-   [Pre-listing inspections](/post/how-to-prepare-your-home-for-an-inspection-a-real-estate-agent-s-guide) to avoid surprises
 
--   Minor repairs and cosmetic updates
+-   [Minor repairs](/post/summer-home-maintenance-tips) and cosmetic updates
 
 -   Fresh interior paint where needed
 
@@ -65,7 +66,7 @@ You don’t need to renovate the kitchen. Tighten the squeaky hinges, fix the dr
 
 These upfront efforts often lead to stronger offers and smoother transactions.
 
-![](/assets/img/blog/wix/11062b_b4d52dd6c0fa4bbf89ad022d3b13de50.webp)
+![Brick house with a slate roof, trees and a green lawn](/assets/img/blog/wix/11062b_b4d52dd6c0fa4bbf89ad022d3b13de50.webp)
 
 ## Maximize Light and Comfort
 
@@ -91,7 +92,7 @@ In winter, make sure the heat is on and the house feels warm the moment buyers w
 
 A bright home feels bigger, newer, and more inviting.
 
-![](/assets/img/blog/wix/11062b_ee5add250ee643d1abc55ec22f16cf66.webp)
+![Bright living room with large windows, light wood cabinetry and cream sofas](/assets/img/blog/wix/11062b_ee5add250ee643d1abc55ec22f16cf66.webp)
 
 ## Stage Inside and Out
 
@@ -109,7 +110,7 @@ In the Pacific Northwest, outdoor living is a major selling point. Highlight spa
 
 Even smaller spaces can feel luxurious with the right staging. A simple bistro set, cozy cushions, or string lighting can completely transform a patio or balcony.
 
-![](/assets/img/blog/wix/11062b_f1b7f82d1e8143b492b70d050815d7f9.webp)
+![Wood deck with a fire-feature table and wicker chairs at dusk](/assets/img/blog/wix/11062b_f1b7f82d1e8143b492b70d050815d7f9.webp)
 
 ## Price Strategically—Not Emotionally
 
@@ -131,7 +132,7 @@ Today’s buyers start online—and your home needs to stand out instantly.
 
 That means:
 
--   High-end photography (timed for optimal light)
+-   [High-end photography](/post/why-summer-photos-can-give-your-winter-home-sale-a-major-advantage) (timed for optimal light)
 
 -   Video and aerial drone footage
 
@@ -145,7 +146,7 @@ That means:
 
 Luxury buyers, in particular, expect a certain level of presentation. The difference between average and exceptional marketing can translate directly into your bottom line.
 
-![](/assets/img/blog/wix/e2dd7e_f31ca04606bd48f0abb6f74f0b936064.webp)
+![Backyard pool with lounge chairs, a stone patio and flower beds beside a home](/assets/img/blog/wix/e2dd7e_f31ca04606bd48f0abb6f74f0b936064.webp)
 
 ## Showings, Offers and Closing
 
@@ -187,7 +188,7 @@ Buyers touring in the colder months usually have a clear reason to move, and few
 
 -   **Plan cozy staging:** throws, soft lighting and a few tasteful seasonal touches like a wreath or potted mums.
 
-![](/assets/img/blog/wix/11062b_5fcc14df163d4af68d395f4dcddf0aab_d_3872_2592_s_4_2.webp)
+![Craftsman-style home with a two-car garage, stone steps and an autumn maple](/assets/img/blog/wix/11062b_5fcc14df163d4af68d395f4dcddf0aab_d_3872_2592_s_4_2.webp)
 
 ## The Local Advantage
 

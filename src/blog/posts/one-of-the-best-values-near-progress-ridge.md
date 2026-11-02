@@ -3,6 +3,7 @@ title: "14231 SW Walnut Creek Ct, Portland, OR: Craftsman Home"
 date: 2026-06-04
 description: "4-bed, 3-bath, 1,904 sq ft Craftsman-style home near Progress Ridge TownSquare, with a main-level bedroom, great room and covered deck."
 image: "/assets/img/blog/wix/e2dd7e_7757518f7b4642e381dbf2a404b9657a.webp"
+imageAlt: "Open living and dining area with a carpeted staircase"
 section: featured-listings
 cities: ["Beaverton"]
 wixTags: []
@@ -12,7 +13,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/one-of-the-best-values-near-prog
 
 4 Bed | 3 Bath | 1,904 Sq. Ft. | $575,000
 
-![](/assets/img/blog/wix/e2dd7e_7757518f7b4642e381dbf2a404b9657a.webp)
+![Open living and dining area with a carpeted staircase](/assets/img/blog/wix/e2dd7e_7757518f7b4642e381dbf2a404b9657a.webp)
 
 #### Why 14231 SW Walnut Creek Ct Is One of the Best Deals in Portland Right Now
 
@@ -32,7 +33,7 @@ Add in recent price improvements, and the value becomes even more attractive for
 
 What truly sets this home apart is its versatility.
 
--   **Main-level bedroom + full bath** — perfect for guests, multigenerational living, or a private office
+-   **Main-level bedroom + full bath** — useful as a guest room, a private office or a second living space
 
 -   **Open-concept great room** — ideal for entertaining and everyday living
 
@@ -82,11 +83,11 @@ Homes that hit all three—**price, layout, and location**—don’t come around
 
 -   Located in one of the most sought-after areas in the Portland metro
 
-For buyers looking to get the most value for their money without compromising on lifestyle—this is a must-see.
+With a price, layout and location like this, it is a must-see. Questions about financing? Start with my [guide to home loans](/post/demystifying-mortgages-and-financing-your-guide-to-home-loans).
 
 ### 📲 Schedule Your Private Tour
 
-If you’d like to see why this home stands out in person, reach out today. Opportunities like this don’t last long—especially in Progress Ridge.
+If you’d like to see why this home stands out in person, reach out today. Opportunities like this don’t last long—especially in Progress Ridge. For more homes and local guides, see [Beaverton](/blog/city-guides/beaverton).
 
 Elizabeth Davidson
 

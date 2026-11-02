@@ -3,6 +3,7 @@ title: "Home Loans and Mortgage Financing Explained Simply"
 date: 2023-11-02
 description: "A plain-language guide to mortgages, interest rates, loan types and what to expect during the mortgage application process when buying a home."
 image: "/assets/img/blog/wix/2403854036464d9aa4829d6be3f8ea77.webp"
+imageAlt: "Modern two-story home with large lit windows at dusk"
 section: buying-selling
 cities: []
 wixTags: ["portland","portland real estate","interest rates","what is a mortgage","fixed rate","types of mortgage loans","fha loan","mortgage rates","va loan","home mortgage","adjustable rate"]
@@ -26,7 +27,7 @@ Your Guide to Home Loans:
 
 5.  **USDA Loan**: Designed for rural homebuyers, these loans offer low interest rates and low or no down payments.
 
-**The Mortgage Application Process**  
+## The Mortgage Application Process
 
 1.  **Preparation**: Gather your financial documents, including pay stubs, bank statements, and tax returns. Check your credit score, as it can affect your loan terms.
 
@@ -47,5 +48,7 @@ Your Guide to Home Loans:
 ![mortgage tips and home buying](/assets/img/blog/wix/af4993bd2bc64f38945fc0a16f0fdbea.webp)
 
 **In Conclusion** Mortgages and financing may seem complicated, but they're the gateway to homeownership for many. Remember, a mortgage is a long-term commitment, so it's crucial to understand your options and choose the one that fits your financial situation and goals. Work with a trusted lender or mortgage broker who can guide you through the process and help you make informed decisions. With the right knowledge, you'll be well on your way to turning that house you love into your dream home.
+
+For the full picture, see my [step-by-step guide to buying your first home in Portland](/post/welcome-to-the-adventure-of-buying-your-first-home) and my [tips for first-time luxury homebuyers](/post/luxury-real-estate-buying-guide-tips-for-first-time-luxury-homebuyers-in-portland). When you're ready to look at homes, start your [home search](/home-search).
 
 Mortgage loan, home buying process explained.

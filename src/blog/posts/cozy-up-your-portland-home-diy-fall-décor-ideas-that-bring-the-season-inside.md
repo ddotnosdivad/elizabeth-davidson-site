@@ -3,6 +3,7 @@ title: "Portland DIY Fall Décor Ideas to Bring the Season Inside"
 date: 2025-10-14
 description: "Easy, affordable DIY fall décor for a Portland home, from Pacific Northwest centerpieces of pinecones and greenery to other cozy seasonal touches."
 image: "/assets/img/blog/wix/11062b_0d49e9844ae348fc83217d5d8742b292.webp"
+imageAlt: "Front porch steps decorated with pumpkins and orange chrysanthemums"
 section: home-tips
 cities: []
 wixTags: ["portlandrealtor","pdxrealtor","fall decor"]
@@ -35,7 +36,7 @@ You don’t need to spend a fortune at the store — a DIY wreath made from twig
 
 As daylight fades earlier, embrace the glow! Mason jar candles, lanterns, and string lights can transform your space into a warm haven. Try placing a few along your front porch or in your backyard — perfect for sipping a glass of Oregon Pinot Noir under the twinkle lights.
 
-![](/assets/img/blog/wix/11062b_f602e3b2e5424f7f9ecf166afd478c25.webp)
+![Porch and yard decorated for Halloween with jack-o'-lanterns and string lights](/assets/img/blog/wix/11062b_f602e3b2e5424f7f9ecf166afd478c25.webp)
 
 #### 6\. Bring the Scents of Fall Indoors
 
@@ -46,3 +47,5 @@ Nothing says “fall” like the smell of cinnamon, clove, and vanilla. Create y
 Whether you’re settling in for the season or prepping to list your home, adding a few personal touches makes all the difference. DIY décor brings warmth, charm, and that special Portland personality into your space — and it doesn’t take much more than a free afternoon and a little creativity.
 
 So grab your favorite flannel, put on a pot of coffee (or cider!), and let’s make this fall your coziest yet. 🍁
+
+For more seasonal ideas, see these [Halloween events in Portland](/post/boo-tiful-adventures-halloween-in-portland-oregon), explore [fall in Lake Oswego](/post/fall-in-lake-oswego-your-ultimate-guide-to-seasonal-fun), or keep the coziness going with [winter home styling ideas](/post/how-to-make-your-home-cozy-yet-stylish-this-winter).

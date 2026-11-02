@@ -4,6 +4,7 @@ date: 2026-07-23
 updated: 2026-11-01
 description: "Summer in Portland: trails in Forest Park, paddling and biking, Gorge waterfalls, wine country, the coast, Mount Hood, patios, festivals and free concerts."
 image: "/assets/img/blog/wix/e2dd7e_91705ae1409144a3bc68c5b28d2742d0.webp"
+imageAlt: "Two people walking on a forested trail with a view of water in the distance"
 section: city-guides
 cities: ["Portland"]
 wixTags: ["best portland realtor","Summer in Portland"]
@@ -15,7 +16,7 @@ The rain fades, the patios fill up, the mountains call your name, and suddenly e
 
 Here’s your guide to making the most of it.
 
-![](/assets/img/blog/wix/e2dd7e_91705ae1409144a3bc68c5b28d2742d0.webp)
+![Two people walking on a forested trail with a view of water in the distance](/assets/img/blog/wix/e2dd7e_91705ae1409144a3bc68c5b28d2742d0.webp)
 
 ## Explore the Outdoors (Without Going Far)
 
@@ -49,7 +50,7 @@ When temperatures rise, the rivers are where Portland cools off.
 
 ## Sip Your Way Through Wine Country
 
-Just 45–60 minutes from Portland sits one of the country’s premier wine regions: the Willamette Valley.
+Just 45–60 minutes from Portland sits one of the country’s premier wine regions: the [Willamette Valley](/blog/city-guides/willamette-valley).
 
 Summer is the perfect time to:
 
@@ -61,7 +62,7 @@ Summer is the perfect time to:
 
 It’s an easy day trip that feels like a full getaway.
 
-![](/assets/img/blog/wix/e2dd7e_556ec3bc4b2441038959421039eb072e.webp)
+![Glass of red wine held up in front of a vineyard and rolling hills](/assets/img/blog/wix/e2dd7e_556ec3bc4b2441038959421039eb072e.webp)
 
 ## Chase Waterfalls in the Columbia River Gorge
 
@@ -111,7 +112,7 @@ From casual to upscale, you’ll find:
 
 Pair great food with long evenings and you’ve got one of the best parts of living here.
 
-![](/assets/img/blog/wix/11062b_6fa4b2ae1c0e496293366ca45040bf03.webp)
+![Outdoor market stalls with shoppers and flower beds in the foreground](/assets/img/blog/wix/11062b_6fa4b2ae1c0e496293366ca45040bf03.webp)
 
 ## Don’t Miss Local Markets & Events
 
@@ -123,7 +124,7 @@ Keep an eye out for:
 
 -   Outdoor concerts and movie nights, including Portland Parks & Recreation’s free Summer Free For All series in parks around the city
 
--   The Waterfront Blues Festival at Tom McCall Waterfront Park over the Fourth of July
+-   The Waterfront Blues Festival at Tom McCall Waterfront Park over the [Fourth of July](/post/best-things-to-do-in-around-portland-lake-oswego-for-the-fourth-of-july)
 
 -   Pickathon, the music festival at Pendarvis Farm in Happy Valley
 
@@ -173,7 +174,7 @@ Portland in the Summer isn’t just a season—it’s a lifestyle.
 
 It’s where city living meets the outdoors, where every weekend offers something new, and where the pace feels just right.
 
-And if you’re thinking about calling Portland home, this is exactly the kind of everyday experience you get to enjoy.
+And if you’re thinking about [calling Portland home](/post/relocating-to-portland-a-luxury-buyer-s-guide), this is exactly the kind of everyday experience you get to enjoy.
 
 *Curious what it’s like to live here year-round—or thinking about making a move? Let’s connect. I’d love to help you find a home that puts you right in the middle of everything Portland Summer has to offer.*
 

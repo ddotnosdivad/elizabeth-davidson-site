@@ -11,7 +11,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/the-best-christmas-tree-lighting
 ---
 The holiday season in Portland is a magical time, and one of the highlights is, without a doubt, the annual Christmas tree lighting events that light up the city—and your holiday spirit! Whether you're a Portland native or just visiting, there’s nothing quite like the moment when the Christmas lights first sparkle to life, signaling the start of the most wonderful time of the year.
 
-As a real estate agent who loves showing clients the beauty of Portland and its surrounding neighborhoods, I can tell you that our city really knows how to do Christmas! From stunning downtown displays to neighborhood gatherings, here are the top Christmas tree lightings in and around Portland you won’t want to miss.
+As a real estate agent who loves showing clients the beauty of [Portland](/blog/city-guides/portland) and its surrounding neighborhoods, I can tell you that our city really knows how to do Christmas! From stunning downtown displays to neighborhood gatherings, here are the top Christmas tree lightings in and around Portland you won’t want to miss.
 
 ![Christmas lights in Portland](/assets/img/blog/wix/11062b_fe83b16bf7a24b7fbf2f1830dcee7442.webp)
 
@@ -41,7 +41,7 @@ You can also hop on the zoo train to see the lanterns along the route, warm up w
 
 ### 4\. Lake Oswego’s Christmas Tree Lighting (Lake Oswego)
 
-If you’re looking for a charming, small-town vibe with all the big holiday spirit, head to **Lake Oswego** for their annual Tree Lighting Festival at Millennium Plaza Park (200 First St, Lake Oswego). This lovely event takes place in the heart of downtown, where you can enjoy hot cocoa, cookies, and a variety of local entertainment. The festival is usually held the Friday after Thanksgiving and brings the community together in a festive, intimate atmosphere.
+If you’re looking for a charming, small-town vibe with all the big holiday spirit, head to **Lake Oswego** for their annual Tree Lighting Festival at Millennium Plaza Park (200 First St, Lake Oswego). This lovely event takes place in the heart of downtown, where you can enjoy hot cocoa, cookies, and a variety of local entertainment (see the full [Lake Oswego tree lighting guide](/post/christmas-tree-lighting-in-lake-oswego)). The festival is usually held the Friday after Thanksgiving and brings the community together in a festive, intimate atmosphere.
 
 Lake Oswego is known for its picturesque lakefront setting, and during the holidays, it’s especially beautiful with all the lights and decorations reflecting off the water.
 
@@ -64,5 +64,7 @@ Step into a winter wonderland at Lee Farms (21975 SW 65th Ave, Tualatin), a work
 From downtown Portland’s tree lighting to the neighborhood charm of Peacock Lane and the dazzling displays at The Grotto and the Oregon Zoo, Portland and its surrounding areas have no shortage of festive events to enjoy this holiday season. Whether you’re spending time with loved ones, friends, or your significant other, these tree lighting ceremonies and light displays are the perfect way to kick off the holidays in style.
 
 If you're new to the area and thinking about calling Portland home, there's no better time to explore the neighborhoods and see how our city transforms for the season. Need help finding the perfect home to create your own holiday memories? Let me know! As your local real estate expert, I’m here to help you find a cozy place to call your own, just in time for the next holiday season.
+
+Looking ahead to the new year? See [things to do in Portland on New Year's Day](/post/things-to-do-in-portland-on-new-year-s-day).
 
 Happy Holidays, Portland!

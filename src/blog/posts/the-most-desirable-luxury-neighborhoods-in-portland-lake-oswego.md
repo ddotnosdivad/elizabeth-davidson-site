@@ -4,6 +4,7 @@ date: 2025-12-06
 updated: 2026-11-01
 description: "Portland and Lake Oswego compared as places to buy: housing stock, setting, commute options, parks and amenities, and the local taxes to check."
 image: "/assets/img/blog/wix/e2dd7e_7fecbe7bdbbd4933a8b9904f97857d39.webp"
+imageAlt: "Restaurant deck with tables overlooking a calm lake lined with evergreen trees and homes"
 section: city-guides
 cities: ["Portland","Lake Oswego"]
 wixTags: ["portland real estate","#HomeSellingTips","lake oswego realtor","2025 real estate market","Choosing the Right Neighborhood"]
@@ -17,9 +18,9 @@ One of the first questions I hear from buyers is whether to look in Portland its
 
 ## The Setting: A Big City and a Smaller One
 
-Portland is a large city split by the Willamette River. West of the river, the forested West Hills and Forest Park rise right behind downtown; east of it, older neighborhoods spread out on a street grid with their own commercial main streets.
+[Portland](/blog/city-guides/portland) is a large city split by the Willamette River. West of the river, the forested West Hills and Forest Park rise right behind downtown; east of it, older neighborhoods spread out on a street grid with their own commercial main streets.
 
-Lake Oswego is its own city, mostly in Clackamas County, built around Oswego Lake and bounded by the Willamette on the east. It has two main commercial hubs, downtown and Lake Grove, with wooded, hilly residential areas in between. Hillside neighborhoods such as Skylands look out over the valley, with sweeping views of Mt. Hood, the Willamette River, and the rolling hills of the Willamette Valley.
+[Lake Oswego](/blog/city-guides/lake-oswego) is its own city, mostly in Clackamas County, built around Oswego Lake and bounded by the Willamette on the east. It has two main commercial hubs, downtown and Lake Grove, with wooded, hilly residential areas in between. Hillside neighborhoods such as Skylands look out over the valley, with sweeping views of Mt. Hood, the Willamette River, and the rolling hills of the Willamette Valley.
 
 ## Housing Stock
 
@@ -65,6 +66,8 @@ Nestled between Portland and Lake Oswego, Dunthorpe is one of Oregon’s most ic
 ## Final Thoughts
 
 From the grandeur of Dunthorpe to the scenic serenity of Lake Oswego’s waterfront communities, the Portland metro area offers no shortage of luxury neighborhoods—each with its own unique personality and perks.
+
+If you’re moving from out of town, my [Portland relocation guide](/post/relocating-to-portland-a-luxury-buyer-s-guide) covers the neighborhoods in more detail.
 
 If you’re considering buying or selling in one of these prestigious communities, I’d love to share personalized insights, market data, and a tailored strategy to help you reach your goals.
 

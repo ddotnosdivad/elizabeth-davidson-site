@@ -3,6 +3,7 @@ title: "Preparing Your Home for Holiday Guests: Hosting Tips"
 date: 2023-11-19
 description: "Tips from a real estate agent for getting your house ready for holiday guests and creating a warm, welcoming space for the season."
 image: "/assets/img/blog/wix/11062b_77d17e189bea4ec0a200f5176fedae00.webp"
+imageAlt: "Holiday table with wrapped gifts, cookies and guests in festive hats"
 section: home-tips
 cities: []
 wixTags: ["portland real estate","portland oregon","best real estate agent in portland","Home Organization for the Holidays","Holiday Home Decorations","Creating a Cozy Guest Room","Holiday Entertaining Ideas","Holiday Hosting Tips","Preparing Your Home for Holiday Guests","Winter Home Safety","Holiday Home Cleaning Tips","Guest Room Amenities","Hosting a Memorable Holiday Gathering"]
@@ -12,9 +13,9 @@ Hello, dear readers! As a real estate agent who has seen their fair share of bea
 
 ![preparing your home for the holidays](/assets/img/blog/wix/11062b_77d17e189bea4ec0a200f5176fedae00.webp)
 
-**1\. Deck the Halls with Joy** The first step is to embrace the holiday spirit and decorate your home. Whether it's a towering Christmas tree, twinkling lights, or festive garlands, holiday decorations can instantly create a warm and welcoming atmosphere. Just remember to keep it tasteful and not overdo it – less can often be more.
+**1\. Deck the Halls with Joy** The first step is to embrace the holiday spirit and decorate your home. Whether it's a towering Christmas tree, [twinkling lights](/post/portland-s-winter-wonderland-where-festive-homes-and-holiday-cheer-collide), or festive garlands, holiday decorations can instantly create a warm and welcoming atmosphere. Just remember to keep it tasteful and not overdo it – less can often be more.
 
-**2\. Cozy Up Your Space** Winter is the perfect time to make your home cozier. Add throw blankets, cushions, and warm, soft lighting. Create a snug and inviting ambiance that will make your guests want to curl up with a hot cocoa by the fireplace.
+**2\. Cozy Up Your Space** Winter is the perfect time to [make your home cozier](/post/how-to-make-your-home-cozy-yet-stylish-this-winter). Add throw blankets, cushions, and warm, soft lighting. Create a snug and inviting ambiance that will make your guests want to curl up with a hot cocoa by the fireplace.
 
 **3\. Clear the Clutter** A clutter-free space is a welcoming space. Before your guests arrive, declutter and organize your home. Tidy up living spaces, bedrooms, and bathrooms, so your guests can relax and enjoy a neat and clean environment.
 
@@ -34,4 +35,4 @@ Hello, dear readers! As a real estate agent who has seen their fair share of bea
 
 **9\. Be a Gracious Host** The best way to make your home inviting is to be a gracious host. Show genuine interest in your guests, listen to their stories, and make them feel appreciated. The warmth of your welcome will stay with them long after the decorations are packed away.
 
-**10\. Make Memories Together** The holidays are all about making memories. Plan activities, outings, and experiences that you can enjoy together. Whether it's a nature walk, caroling, or a holiday baking session, these shared moments will be cherished by your guests. Remember, it's not just about preparing your home; it's about creating a warm and welcoming atmosphere that will make your holiday guests feel cherished and valued. Enjoy the journey of preparing your home for this special season, and make it a time to create lasting memories with those you hold dear. Wishing you a joyful and heartwarming holiday season!
+**10\. Make Memories Together** The holidays are all about making memories. Plan activities, [outings](/post/the-best-christmas-tree-lightings-in-and-around-portland-or-your-guide-to-festive-fun), and experiences that you can enjoy together. Whether it's a nature walk, caroling, or a holiday baking session, these shared moments will be cherished by your guests. Remember, it's not just about preparing your home; it's about creating a warm and welcoming atmosphere that will make your holiday guests feel cherished and valued. Enjoy the journey of preparing your home for this special season, and make it a time to create lasting memories with those you hold dear. Wishing you a joyful and heartwarming holiday season!

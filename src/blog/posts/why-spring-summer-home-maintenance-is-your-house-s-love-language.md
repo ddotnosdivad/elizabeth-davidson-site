@@ -3,12 +3,13 @@ title: "Spring and Summer Home Maintenance Checklist for Portland"
 date: 2025-04-22
 description: "Why seasonal home maintenance matters for comfort and property value, with spring and summer tips for homeowners and future sellers."
 image: "/assets/img/blog/wix/e2dd7e_5bd2c87b3fb844159f46c7ba8a69841a.webp"
+imageAlt: "Spring home maintenance checklist graphic with exterior and interior tasks"
 section: home-tips
 cities: []
 wixTags: ["best portland real estate agent","oregon","luxury homes","home maintenance"]
 wixUrl: "https://www.elizabethdavidson.com/post/why-spring-summer-home-maintenance-is-your-house-s-love-language"
 ---
-![](/assets/img/blog/wix/e2dd7e_5bd2c87b3fb844159f46c7ba8a69841a.webp)
+![Spring home maintenance checklist graphic with exterior and interior tasks](/assets/img/blog/wix/e2dd7e_5bd2c87b3fb844159f46c7ba8a69841a.webp)
 
 Hey there, homeowners, future sellers, DIY weekend warriors, and proud porch-sitters! 🌷☀️
 
@@ -16,7 +17,7 @@ Spring has sprung, the birds are singing louder than your neighbor’s leaf blow
 
 As a professional realtor (and part-time weather optimist), let me tell you: a well-maintained home isn’t just a joy to live in—it also keeps your property value as fresh as a daisy. Whether you're planning to list soon or just want your place to shine, here’s your friendly reminder that taking care of your home during the warmer months is *essential*.
 
-![](/assets/img/blog/wix/11062b_f09330616e284fe0819f5c3fdc21f7e6.webp)
+![Person spraying a finish onto a textured wall beside a window](/assets/img/blog/wix/11062b_f09330616e284fe0819f5c3fdc21f7e6.webp)
 
 ### 🌸 Spring Into Action: Your Home’s Seasonal Tune-Up
 
@@ -77,6 +78,8 @@ And if you're thinking of selling? Trust me—buyers *notice* a well-loved home
 Taking care of your home in the spring and summer isn’t a chore—it’s a love language. A little time now saves a lot later, and let’s be honest, there's something super satisfying about checking things off your to-do list while soaking in that sunshine.
 
 So grab your toolbelt (or your phone to call a pro), and give your home the seasonal spa treatment it deserves. You—and your future self—will be glad you did.
+
+For more, see my [summer home maintenance tips](/post/summer-home-maintenance-tips) and [winter preparation guide](/post/why-winter-preparation-protects-your-home-s-value). If a sale is on the horizon, [how to prep your home for top value](/post/summer-selling-tips-for-maximum-value-in-the-greater-portland-area) covers the next steps.
 
 Need tips? Local vendor referrals? Thinking about selling? I’ve got your back.
 

@@ -15,7 +15,7 @@ Hey there, fall fanatics and leaf lovers! Ready to dive into the autumnal wonder
 
 ### 1\. Explore the Scenic Trails at George Rogers Park
 
-First up, lace up those hiking boots and hit the trails at George Rogers Park (611 S State St, Lake Oswego, OR 97034). With fall’s vibrant foliage as your backdrop, it’s like walking through a living painting. The leaves crunching underfoot, the crisp air filling your lungs—it’s the perfect way to enjoy the great outdoors. Don’t forget your camera for those Insta-worthy shots of the Willamette River and the colorful canopies!
+First up, lace up those hiking boots and hit the trails at [George Rogers Park](/post/paddle-boarding-and-kayaking-in-lake-oswego-your-ultimate-guide-to-fun-on-the-water) (611 S State St, Lake Oswego, OR 97034). With fall’s vibrant foliage as your backdrop, it’s like walking through a living painting. The leaves crunching underfoot, the crisp air filling your lungs—it’s the perfect way to enjoy the great outdoors. Don’t forget your camera for those Insta-worthy shots of the Willamette River and the colorful canopies!
 
 ### 2\. Stroll Through the Lake Oswego Farmers Market
 
@@ -25,7 +25,7 @@ On Saturday mornings during its season (usually May through October), the Lake O
 
 ### 3\. Savor Seasonal Flavors at Local Cafés
 
-Autumn calls for cozy cafés with warm drinks and sweet treats. Visit local favorites for a pumpkin spice latte or a maple scone. It’s the perfect way to take a break from your fall adventures and indulge in some seasonal comfort.
+Autumn calls for cozy cafés with warm drinks and sweet treats. Visit [local favorites](/post/brunch-bliss-exploring-the-best-brunch-spots-in-lake-oswego-oregon) for a pumpkin spice latte or a maple scone. It’s the perfect way to take a break from your fall adventures and indulge in some seasonal comfort.
 
 ### 4\. Take a Scenic Boat Cruise on the Lake
 
@@ -57,6 +57,6 @@ Foothills Park (199 Foothills Rd, Lake Oswego, OR 97034) is another great spot f
 
 Fall is a great time to get creative, and there are plenty of workshops in Lake Oswego where you can learn to make your own autumn-themed crafts. From wreath-making to painting, there’s something for everyone to enjoy and take home a handmade memento of the season.
 
-There you have it—a delightful array of fall activities to enjoy in Lake Oswego! Whether you’re a local or just visiting, this town truly shines in autumn. So bundle up, get out there, and make the most of this colorful season. And if you fall in love with Lake Oswego (and who wouldn’t?), you know where to find me.
+There you have it—a delightful array of fall activities to enjoy in Lake Oswego! Whether you’re a local or just visiting, [this town](/blog/city-guides/lake-oswego) truly shines in autumn. So bundle up, get out there, and make the most of this colorful season. And if you fall in love with Lake Oswego (and who wouldn’t?), you know where to find me.
 
 Happy autumn adventuring!

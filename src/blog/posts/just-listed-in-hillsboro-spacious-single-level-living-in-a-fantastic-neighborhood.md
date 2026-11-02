@@ -3,6 +3,7 @@ title: "1250 SE 36th Ave, Hillsboro, OR: Single-Level Ranch"
 date: 2026-03-14
 description: "Single-level 3-bed, 2.5-bath, 1,754 sq ft Hillsboro ranch on a 10,000-plus sq ft lot with a covered deck, RV parking and two powered sheds."
 image: "/assets/img/blog/wix/e2dd7e_a3a4ecee8983425d8b4ab6ea4a2d2c83.webp"
+imageAlt: "Single-story home with two-car garage and front lawn"
 section: featured-listings
 cities: ["Hillsboro"]
 wixTags: ["pdx","best portland realtor","oregon","#RealEstateGoals","real estate","hillsboro","single-level home"]
@@ -16,9 +17,9 @@ Listed by: Elizabeth Davidson | Cascade Hasson Sotheby's International Realty
 
 [elizabeth@elizabethdavidson.com](mailto:elizabeth@elizabethdavidson.com) | 503.939.2035
 
-![](/assets/img/blog/wix/e2dd7e_a3a4ecee8983425d8b4ab6ea4a2d2c83.webp)
+![Single-story home with two-car garage and front lawn](/assets/img/blog/wix/e2dd7e_a3a4ecee8983425d8b4ab6ea4a2d2c83.webp)
 
-If you’ve been waiting for a **single-level home with space, charm, and a fantastic yard**, you’re going to want to take a closer look at this new listing in the heart of Hillsboro.
+If you’ve been waiting for a **single-level home with space, charm, and a fantastic yard**, you’re going to want to take a closer look at this [new listing](/blog/featured-listings) in the heart of Hillsboro.
 
 Welcome to **1250 SE 36th Ave**, a warm and inviting ranch-style home located in the desirable Bentley Orchard neighborhood—where mature trees, established homes, and quiet streets create a neighborhood that people truly love calling home.
 
@@ -46,7 +47,7 @@ The backyard includes:
 
 Whether you're hosting summer BBQs or enjoying a quiet morning coffee outside, this backyard offers space and flexibility.
 
-![](/assets/img/blog/wix/e2dd7e_505e147e7c434e3bb8efebda60441263.webp)
+![Covered patio with string lights and a fenced backyard](/assets/img/blog/wix/e2dd7e_505e147e7c434e3bb8efebda60441263.webp)
 
 ## Practical Features Buyers Love
 
@@ -68,7 +69,7 @@ These thoughtful upgrades make everyday living easier while adding long-term val
 
 ## A Great Location in Hillsboro
 
-Located in a well-established area of **Hillsboro**, this home offers convenient access to parks, schools, shopping, and major commuting routes. The neighborhood itself is known for its **wide streets, mature landscaping, and welcoming community feel**—the kind of place where people stay for years.
+Located in a well-established area of **[Hillsboro](/blog/city-guides/hillsboro)**, this home offers convenient access to parks, schools, shopping, and major commuting routes. The neighborhood itself is known for its **wide streets, mature landscaping, and welcoming community feel**—the kind of place where people stay for years.
 
 It’s the perfect blend of **peaceful residential living with easy access to everything Hillsboro has to offer**.
 
@@ -77,5 +78,7 @@ It’s the perfect blend of **peaceful residential living with easy access to ev
 Homes with this combination of **single-level living, large lots, and great neighborhood location** don’t come along often.
 
 If you’ve been searching for a place that feels comfortable, functional, and full of potential, **this could be the one.**
+
+If you are weighing a move to one level, my [tips for downsizing](/post/essential-tips-for-downsizing) may help.
 
 📩 **Interested in learning more or scheduling a private showing?**Reach out today—I’d love to show you around this wonderful Hillsboro home.

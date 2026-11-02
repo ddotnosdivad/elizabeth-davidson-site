@@ -3,6 +3,7 @@ title: "Winter Home Preparation in Portland to Protect Your Value"
 date: 2026-02-18
 description: "How to prepare your home for Portland winter storms and protect its value, from gutters and downspouts to long-term steps that keep it winter-ready."
 image: "/assets/img/blog/wix/11062b_8178d0875154415696a351ea0b7bd7bb.webp"
+imageAlt: "Wood cabin with a lit gable window surrounded by snow-covered evergreens"
 section: home-tips
 cities: []
 wixTags: ["pdx","portland realtor","home maintenance","winter home tips"]
@@ -12,7 +13,7 @@ As a professional Realtor® serving homeowners in the Pacific Northwest, I can t
 
 Whether you're protecting your investment, planning to sell in the spring, or simply want peace of mind, here’s how to prep your home for a Winter storm — plus long-term strategies to keep your home winter-ready year after year.
 
-![](/assets/img/blog/wix/11062b_c5cec3ec1d4c49a69f65bc42526891df.webp)
+![Snow-covered front porch with red wreaths on a yellow house](/assets/img/blog/wix/11062b_c5cec3ec1d4c49a69f65bc42526891df.webp)
 
 ## Immediate Steps: How to Prep Your Home for a Winter Storm
 
@@ -94,7 +95,7 @@ Buyers often appreciate homes with built-in resilience features.
 
 Beyond storm prep, smart homeowners invest in upgrades that protect their property year after year.
 
-![](/assets/img/blog/wix/11062b_8178d0875154415696a351ea0b7bd7bb.webp)
+![Wood cabin with a lit gable window surrounded by snow-covered evergreens](/assets/img/blog/wix/11062b_8178d0875154415696a351ea0b7bd7bb.webp)
 
 ## 1\. Upgrade Insulation & Air Sealing
 
@@ -136,7 +137,7 @@ Even if your roof looks fine from the street, periodic professional inspections 
 
 # Why Winter Preparation Protects Your Home’s Value
 
-In a competitive market like Portland, deferred maintenance can quickly impact inspection results and buyer confidence. Homes that show proactive care:
+In a competitive market like Portland, deferred maintenance can quickly impact [inspection results](/post/how-to-prepare-your-home-for-an-inspection-a-real-estate-agent-s-guide) and buyer confidence. Homes that show proactive care:
 
 • Sell faster
 
@@ -150,4 +151,4 @@ Preparing now means fewer surprises later.
 
 If you're unsure whether your home is Winter-ready — or you're considering selling in the next year — proactive maintenance can make a measurable difference in your bottom line.
 
-Stay warm, stay prepared, and protect your investment.
+Stay warm, stay prepared, and protect your investment. For indoor touches, see my ideas for a [cozy, stylish winter home](/post/how-to-make-your-home-cozy-yet-stylish-this-winter), and for the warmer months, the [spring and summer maintenance checklist](/post/why-spring-summer-home-maintenance-is-your-house-s-love-language).

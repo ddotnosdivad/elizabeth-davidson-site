@@ -3,6 +3,7 @@ title: "Spring Things to Do in Portland: Gardens and Markets"
 date: 2024-03-13
 description: "Six spring ideas in Portland: the Rose Test Garden, Springwater Corridor, farmers markets, Forest Park, Lan Su Chinese Garden and cherry blossoms."
 image: "/assets/img/blog/wix/e2dd7e_c77c08186f314f30a1e21ffcc8a5afcf.webp"
+imageAlt: "Pink cherry blossom trees arching over a grass lawn beside a riverfront path"
 section: city-guides
 cities: ["Portland"]
 wixTags: ["portland","portland oregon","oregon","best real estate agent in portland","portland realtor","portland real estate agent","things to do in portland","farmers market","gardens","san lu","waterfront park","chinese garden","spring","japanese garden","picnic","biking","rose garden","cherry blossoms","portland spring","forest park"]
@@ -25,3 +26,5 @@ Hey there, Portland pals and springtime enthusiasts! Are you ready to shake off 
 6.  **Cherry Blossom Chasing in Waterfront Park:** Last but certainly not least, don't forget to check out the cherry blossoms in full bloom at Portland's Waterfront Park. These delicate pink blooms are a sure sign that spring has officially arrived, and they make for a picture-perfect backdrop for all your springtime adventures.
 
 So there you have it, folks – 6 fabulous ways to spring into action and make the most of the season in Portland, Oregon! Whether you're a nature lover, a foodie, or just someone who loves to soak up the sunshine, there's something for everyone to enjoy in the City of Roses this spring. Happy adventuring! 🌸
+
+For more ideas, see [Portland's zoo, gardens and parks](/post/family-fun-extravaganza-unmissable-activities-in-portland-oregon) and [summer things to do in and around Portland](/post/best-things-to-do-in-around-portland-during-summer), or browse the [Portland city guide](/blog/city-guides/portland).
