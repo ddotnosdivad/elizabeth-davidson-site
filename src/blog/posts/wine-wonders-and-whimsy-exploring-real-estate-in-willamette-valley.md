@@ -26,6 +26,6 @@ Hey there, fellow adventurers and home seekers! If you're on the hunt for your s
 
 ![oregon wine country](/assets/img/blog/wix/e2dd7e_b6efc5f5f190456ca36b1bf6ec313de2.webp)
 
-To see a home in the valley, take a look at this [single-level home in Newberg](/post/welcome-home-to-585-s-donna-dr-easy-living-in-the-heart-of-newberg), or browse the [Willamette Valley city guide](/blog/city-guides/willamette-valley).
+To see what's for sale, take a look at my [current listings](/properties), or browse the [Willamette Valley city guide](/blog/city-guides/willamette-valley).
 
 In conclusion, Willamette Valley is more than just a destination—it's a lifestyle filled with wine, wonders, and whimsy at every turn. Whether you're seeking serenity, adventure, or simply a place to call home, this enchanting region has it all and then some. So, what are you waiting for? Let's make your real estate dreams a reality in Willamette Valley! Cheers to new beginnings and unforgettable adventures! 🍷🏡✨
