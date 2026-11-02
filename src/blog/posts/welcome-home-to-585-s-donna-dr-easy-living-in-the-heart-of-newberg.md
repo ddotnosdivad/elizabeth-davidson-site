@@ -1,6 +1,7 @@
 ---
 title: "585 S Donna Dr, Newberg, OR: Single-Level Home"
 date: 2026-08-28
+updated: 2026-11-01
 description: "Single-level 3-bed, 2-bath Newberg home built in 2008, with vaulted ceilings, engineered hardwood, central air, a fenced yard and two-car garage."
 image: "/assets/img/blog/wix/e2dd7e_c3fa2fa9b17347bd9dc78d1f8050172d.webp"
 imageAlt: "Blue single-level home with a two-car garage, a shade tree and a front lawn"

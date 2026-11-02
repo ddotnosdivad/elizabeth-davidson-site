@@ -1,6 +1,7 @@
 ---
 title: "Cozy and Stylish Winter Home Styling Ideas for Portland"
 date: 2025-02-12
+updated: 2026-11-01
 description: "Winter styling ideas for a warm, inviting home, from layering textiles to simple seasonal touches, whether you are preparing to sell or staying put."
 image: "/assets/img/blog/wix/11062b_ef2374a2826b4ec68e83aa3b3c81ac13.webp"
 imageAlt: "Two pairs of feet in plaid pajamas by a fireplace with mugs on a fur rug"

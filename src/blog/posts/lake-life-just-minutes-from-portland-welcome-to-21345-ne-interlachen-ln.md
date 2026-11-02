@@ -1,6 +1,7 @@
 ---
 title: "21345 NE Interlachen Ln, Fairview, OR: 1938 Cottage"
 date: 2026-08-18
+updated: 2026-11-01
 description: "4-bed, 2-bath, 2,316 sq ft Fairview cottage built in 1938, with a stone wood-burning fireplace, newer windows and a finished lower level."
 image: "/assets/img/blog/wix/e2dd7e_c2301a0ab91943db978176e445df0a91.webp"
 imageAlt: "Deck with patio table and string lights overlooking the water"

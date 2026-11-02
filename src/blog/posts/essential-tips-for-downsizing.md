@@ -1,6 +1,7 @@
 ---
 title: "Tips for Downsizing Your Home: Declutter and Plan a Move"
 date: 2024-09-17
+updated: 2026-11-01
 description: "Practical steps for downsizing, from decluttering and sorting what to keep, donate, sell or toss to planning a smooth move to a smaller home."
 image: "/assets/img/blog/wix/11062b_36b5d77eea9b411885c60f428a0ec542.webp"
 imageAlt: "Three people unpacking cardboard boxes in a bright entryway"

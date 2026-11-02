@@ -1,6 +1,7 @@
 ---
 title: "Working With a Luxury Realtor in Lake Oswego and Portland"
 date: 2026-04-28
+updated: 2026-11-01
 description: "Luxury real estate in Portland or Lake Oswego with a behind-the-scenes look at market insight and how a smooth transaction comes together."
 image: "/assets/img/blog/wix/11062b_0367c30afeaa4e9484dbcbff60977ff8.webp"
 imageAlt: "Large Mediterranean-style home lit at dusk with a fountain in the driveway"

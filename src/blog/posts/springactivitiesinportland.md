@@ -1,6 +1,7 @@
 ---
 title: "Spring Things to Do in Portland: Gardens and Markets"
 date: 2024-03-13
+updated: 2026-11-01
 description: "Six spring ideas in Portland: the Rose Test Garden, Springwater Corridor, farmers markets, Forest Park, Lan Su Chinese Garden and cherry blossoms."
 image: "/assets/img/blog/wix/e2dd7e_c77c08186f314f30a1e21ffcc8a5afcf.webp"
 imageAlt: "Pink cherry blossom trees arching over a grass lawn beside a riverfront path"

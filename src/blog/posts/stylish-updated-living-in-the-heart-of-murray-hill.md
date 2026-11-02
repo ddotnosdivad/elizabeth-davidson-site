@@ -1,6 +1,7 @@
 ---
 title: "9490 SW 153rd Ave, Beaverton, OR: Updated End-Unit Townhome"
 date: 2026-07-19
+updated: 2026-11-01
 description: "3-bed, 2.5-bath, 2,076 sq ft end-unit townhome in Beaverton with vaulted ceilings, a gas fireplace, granite kitchen and attached garage."
 image: "/assets/img/blog/wix/e2dd7e_8d90009637de481c83743b0b4e6e7681.webp"
 imageAlt: "Blue two-story end-unit townhome with a white garage door and stone accents at dusk"

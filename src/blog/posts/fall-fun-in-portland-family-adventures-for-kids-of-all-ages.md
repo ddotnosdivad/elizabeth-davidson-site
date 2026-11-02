@@ -1,6 +1,7 @@
 ---
 title: "Fall Things to Do in Portland: Pumpkin Patches and Farms"
 date: 2024-09-18
+updated: 2026-11-01
 description: "Fall ideas in Portland, including pumpkin patches, waterfront bike rides, ZooLights, the Japanese Garden, local farms and autumn festivals."
 image: "/assets/img/blog/wix/11062b_4e32db9adf3140c0b3b2ddb396f425c1.webp"
 imageAlt: "Child crouching among pumpkins in a pumpkin patch at golden hour"

@@ -1,6 +1,7 @@
 ---
 title: "1250 SE 36th Ave, Hillsboro, OR: Single-Level Ranch"
 date: 2026-03-14
+updated: 2026-11-01
 description: "Single-level 3-bed, 2.5-bath, 1,754 sq ft Hillsboro ranch on a 10,000-plus sq ft lot with a covered deck, RV parking and two powered sheds."
 image: "/assets/img/blog/wix/e2dd7e_a3a4ecee8983425d8b4ab6ea4a2d2c83.webp"
 imageAlt: "Single-story home with two-car garage and front lawn"

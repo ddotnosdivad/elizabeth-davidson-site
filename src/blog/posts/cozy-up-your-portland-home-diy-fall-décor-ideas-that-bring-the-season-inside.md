@@ -1,6 +1,7 @@
 ---
 title: "Portland DIY Fall Décor Ideas to Bring the Season Inside"
 date: 2025-10-14
+updated: 2026-11-01
 description: "Easy, affordable DIY fall décor for a Portland home, from Pacific Northwest centerpieces of pinecones and greenery to other cozy seasonal touches."
 image: "/assets/img/blog/wix/11062b_0d49e9844ae348fc83217d5d8742b292.webp"
 imageAlt: "Front porch steps decorated with pumpkins and orange chrysanthemums"

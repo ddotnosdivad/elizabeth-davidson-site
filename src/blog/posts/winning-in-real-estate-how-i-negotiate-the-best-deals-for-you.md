@@ -1,6 +1,7 @@
 ---
 title: "How I Negotiate for Buyers and Sellers in Portland"
 date: 2025-07-21
+updated: 2026-11-01
 description: "How I advocate for buyers and sellers in negotiations, using 14 years of industry experience to pursue the best price and terms for each client."
 image: "/assets/img/blog/wix/e2dd7e_c67522edbc074c0990a51e39ed372381.webp"
 imageAlt: "Smiling person working at a laptop on a white kitchen island"

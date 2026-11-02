@@ -1,6 +1,7 @@
 ---
 title: "17410 Upper Cherry Ln, Lake Oswego, OR: Private Retreat"
 date: 2026-08-09
+updated: 2026-11-01
 description: "5-bed, 4,819 sq ft Lake Oswego home on a large lot, with sweeping scenic views, expansive windows and an updated chef-inspired kitchen."
 image: "/assets/img/blog/wix/e2dd7e_7fd277919e0e437596ffd64dca2ab4ec.webp"
 imageAlt: "Aerial view of a wooded Lake Oswego home with a covered deck and two-car garage"

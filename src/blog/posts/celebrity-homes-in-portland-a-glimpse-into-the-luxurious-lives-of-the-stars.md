@@ -1,6 +1,7 @@
 ---
 title: "Celebrity Homes in Portland: Dunthorpe to the Pearl District"
 date: 2023-10-06
+updated: 2026-11-01
 description: "A look at Portland homes tied to well-known names, from Dunthorpe and the West Hills to the Pearl District, including Beverly Cleary's former home."
 image: "/assets/img/blog/wix/e2dd7e_95c6d485b8db4766be81683875d50f26.webp"
 imageAlt: "Mediterranean-style estate lit at dusk with a fountain in the circular driveway"

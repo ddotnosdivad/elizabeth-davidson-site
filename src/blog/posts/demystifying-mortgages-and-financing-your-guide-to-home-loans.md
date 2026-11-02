@@ -1,6 +1,7 @@
 ---
 title: "Home Loans and Mortgage Financing Explained Simply"
 date: 2023-11-02
+updated: 2026-11-01
 description: "A plain-language guide to mortgages, interest rates, loan types and what to expect during the mortgage application process when buying a home."
 image: "/assets/img/blog/wix/2403854036464d9aa4829d6be3f8ea77.webp"
 imageAlt: "Modern two-story home with large lit windows at dusk"

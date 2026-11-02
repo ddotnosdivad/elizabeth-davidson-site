@@ -1,6 +1,7 @@
 ---
 title: "Portland Luxury Lifestyle: Clubs, Wine, Dining and Retreats"
 date: 2026-03-15
+updated: 2026-11-01
 description: "Private golf and social clubs, Willamette Valley wine tastings, arts access, chef-led dining and ski or coastal weekends in the Portland luxury lifestyle."
 image: "/assets/img/blog/wix/11062b_15f9b54c61eb43c3a255a43518fd6a80.webp"
 imageAlt: "Golfer finishing a swing on a tee box with a sand bunker on the fairway ahead"

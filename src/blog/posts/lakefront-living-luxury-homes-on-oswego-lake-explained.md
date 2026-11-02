@@ -1,6 +1,7 @@
 ---
 title: "Oswego Lake Homes in Lake Oswego: What Buyers Should Know"
 date: 2026-06-15
+updated: 2026-11-01
 description: "An overview of home types on and near Oswego Lake in Lake Oswego, notable areas, pricing considerations and points buyers should review."
 image: "/assets/img/blog/wix/e2dd7e_2069701fa099442999e4eae220c5f2b5.webp"
 imageAlt: "Large home glowing at dusk behind a still pond with evergreen trees"

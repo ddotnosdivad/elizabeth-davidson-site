@@ -1,6 +1,7 @@
 ---
 title: "Fourth of July Party Home Prep: Decorating and Hosting Tips"
 date: 2024-06-28
+updated: 2026-11-01
 description: "Tips for getting your home ready to host a Fourth of July gathering, from decluttering and patriotic decorating to setting up for your guests."
 image: "/assets/img/blog/wix/fabfa1c31a6c49e3bdb891b1fcda2aec.webp"
 imageAlt: "Dog holding a small American flag in front of a brick fireplace with patriotic bunting"

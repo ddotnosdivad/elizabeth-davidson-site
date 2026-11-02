@@ -1,6 +1,7 @@
 ---
 title: "Buying a Home in Oregon's Willamette Valley: What to Know"
 date: 2024-02-06
+updated: 2026-11-01
 description: "A look at real estate in Oregon's Willamette Valley, from vineyard estates and farmhouses to small towns, outdoor recreation and farm-to-table dining."
 image: "/assets/img/blog/wix/11062b_145604f7f0a242678c15a1e76fa99a1b.webp"
 imageAlt: "Two people toasting with wine glasses at a restaurant table"

@@ -1,6 +1,7 @@
 ---
 title: "Portland New Construction Luxury Homes: What to Know"
 date: 2026-06-13
+updated: 2026-11-01
 description: "What to know before buying a newly built luxury home in Portland, including design and sustainability features and how it differs from a resale purchase."
 image: "/assets/img/blog/wix/11062b_012254bad63d4563ab1e1d50c709685a.webp"
 imageAlt: "Kitchen with white cabinets, a large island and wood ceiling beams"

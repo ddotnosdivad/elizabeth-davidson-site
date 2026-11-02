@@ -1,6 +1,7 @@
 ---
 title: "Things to Do in Portland: Zoo, OMSI, Gardens and Parks"
 date: 2023-09-21
+updated: 2026-11-01
 description: "Portland attractions including the Oregon Zoo, OMSI, Powell's City of Books, Oaks Park, the Japanese Garden, Pittock Mansion and Washington Park."
 image: "/assets/img/blog/wix/11062b_8ab60862e8a54a02b24a8faa498d87e1.webp"
 imageAlt: "Children feeding lettuce to a giraffe over a zoo fence"

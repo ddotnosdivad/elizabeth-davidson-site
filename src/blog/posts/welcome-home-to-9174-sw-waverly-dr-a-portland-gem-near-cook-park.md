@@ -1,6 +1,7 @@
 ---
 title: "9174 SW Waverly Dr, Portland, OR: Main-Level Primary"
 date: 2025-10-14
+updated: 2026-11-01
 description: "4-bed, 2.5-bath, 2,739 sq ft home built in 1995 with a main-level primary suite, refreshed kitchen and a new furnace, near Cook Park."
 image: "/assets/img/blog/wix/e2dd7e_ec1f754d12694eaa9d9f9d8ac1e20f54.webp"
 imageAlt: "Single-story gray home with a brick-trimmed two-car garage and a green front door"

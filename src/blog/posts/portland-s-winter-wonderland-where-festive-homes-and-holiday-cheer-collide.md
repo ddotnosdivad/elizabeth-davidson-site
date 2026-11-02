@@ -1,6 +1,7 @@
 ---
 title: "Portland Holiday Lights: Peacock Lane, ZooLights and More"
 date: 2023-12-13
+updated: 2026-11-01
 description: "Holiday light displays in Portland, including Peacock Lane, ZooLights, the Grotto's Festival of Lights, an OMSI laser show and Winter Wonderland at PIR."
 image: "/assets/img/blog/wix/11062b_89ddcfc581d74ce2b445e41a5256921f.webp"
 imageAlt: "Holiday market street with colorful flags, lights and a snowman display"

@@ -1,6 +1,7 @@
 ---
 title: "Parks, Trails and Amenities Luxury Buyers Seek in Portland"
 date: 2026-03-04
+updated: 2026-11-01
 description: "How parks, trails, golf and other lifestyle amenities factor into luxury home shopping in Portland and Lake Oswego, alongside architecture and finishes."
 image: "/assets/img/blog/wix/11062b_42c25c69456340b7bf931bd589d33ae2.webp"
 imageAlt: "Person taking a golf swing on a fairway near a sand bunker"

@@ -1,6 +1,7 @@
 ---
 title: "627 N Tomahawk Island Dr, Portland, OR: Boat Slip"
 date: 2026-08-22
+updated: 2026-11-01
 description: "3-bed, 2.5-bath, 2,037 sq ft Hayden Island townhome-style condo with Columbia River views, a pool and a 35-foot boat slip at Riverhouse Marina."
 image: "/assets/img/blog/wix/e2dd7e_d4687fe6de84421d8b49ea29104ce00f.webp"
 imageAlt: "Gray shingle-sided waterfront townhomes with decks and a large green lawn"

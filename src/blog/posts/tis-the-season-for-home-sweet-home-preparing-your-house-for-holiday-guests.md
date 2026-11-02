@@ -1,6 +1,7 @@
 ---
 title: "Preparing Your Home for Holiday Guests: Hosting Tips"
 date: 2023-11-19
+updated: 2026-11-01
 description: "Tips from a real estate agent for getting your house ready for holiday guests and creating a warm, welcoming space for the season."
 image: "/assets/img/blog/wix/11062b_77d17e189bea4ec0a200f5176fedae00.webp"
 imageAlt: "Holiday table with wrapped gifts, cookies and guests in festive hats"

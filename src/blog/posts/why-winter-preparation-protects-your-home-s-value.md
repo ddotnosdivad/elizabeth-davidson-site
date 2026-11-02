@@ -1,6 +1,7 @@
 ---
 title: "Winter Home Preparation in Portland to Protect Your Value"
 date: 2026-02-18
+updated: 2026-11-01
 description: "How to prepare your home for Portland winter storms and protect its value, from gutters and downspouts to long-term steps that keep it winter-ready."
 image: "/assets/img/blog/wix/11062b_8178d0875154415696a351ea0b7bd7bb.webp"
 imageAlt: "Wood cabin with a lit gable window surrounded by snow-covered evergreens"

@@ -1,6 +1,7 @@
 ---
 title: "How to Prepare Your Home for an Inspection in Portland"
 date: 2024-08-21
+updated: 2026-11-01
 description: "An agent's guide to getting your home inspection-ready, from cleaning and tidying to the details inspectors notice, so the process goes smoothly."
 image: "/assets/img/blog/wix/11062b_7c9359e1c03b44e8bfec3ddc7470a136.webp"
 imageAlt: "House for sale sign in front of a brick home with a front garden"

@@ -1,6 +1,7 @@
 ---
 title: "Summer Home Maintenance Tips for Portland Homeowners"
 date: 2026-06-13
+updated: 2026-11-01
 description: "A seasonal guide to summer home maintenance in Portland, starting with the exterior, to protect your investment and prevent costly repairs."
 image: "/assets/img/blog/wix/e2dd7e_4ed539c3e7fa439f8eaf44774d9c30e9.webp"
 imageAlt: "Person pressure washing a brick walkway in front of a large white house"

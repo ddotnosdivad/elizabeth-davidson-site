@@ -1,6 +1,7 @@
 ---
 title: "Spring and Summer Home Maintenance Checklist for Portland"
 date: 2025-04-22
+updated: 2026-11-01
 description: "Why seasonal home maintenance matters for comfort and property value, with spring and summer tips for homeowners and future sellers."
 image: "/assets/img/blog/wix/e2dd7e_5bd2c87b3fb844159f46c7ba8a69841a.webp"
 imageAlt: "Spring home maintenance checklist graphic with exterior and interior tasks"

@@ -1,6 +1,7 @@
 ---
 title: "9050 SW 161st Ave, Beaverton, OR: Corner Lot, Open Plan"
 date: 2025-10-15
+updated: 2026-11-01
 description: "4-bed, 2.5-bath, 1,960 sq ft Beaverton corner-lot home backing to greenspace, with vaulted ceilings, a gas fireplace and an island kitchen."
 image: "/assets/img/blog/wix/e2dd7e_bea2c96d63144674a0c3c9abc4054a46.webp"
 imageAlt: "Two-story gray home with a covered porch and two-car garage at dusk"

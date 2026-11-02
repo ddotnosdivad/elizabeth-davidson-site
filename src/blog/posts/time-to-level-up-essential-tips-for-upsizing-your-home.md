@@ -1,6 +1,7 @@
 ---
 title: "Tips for Upsizing Your Home: Plan Your Move to More Space"
 date: 2024-09-24
+updated: 2026-11-01
 description: "Practical tips for upsizing, from clarifying why you want more space to weighing bedroom, yard and kitchen priorities before you shop for a bigger home."
 image: "/assets/img/blog/wix/11062b_0675b22f349149f5831276dced8c966e_d_4896_3264_s_4_2.webp"
 imageAlt: "Large two-story Tudor-style home with a red tile roof and a green lawn"
