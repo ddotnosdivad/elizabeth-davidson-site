@@ -70,9 +70,9 @@ Numbers like these are a starting point, not an answer. Values inside Lake Osweg
 
 You can find more about the city in my [Lake Oswego city guide](/blog/city-guides/lake-oswego), and for a broader look at what drives prices at the upper end, read [Portland & Lake Oswego Real Estate Market: What Drives It](/post/luxury-market-update-trends-in-portland-lake-oswego-you-should-know).
 
-## A local favorite
+## Lake Oswego business of the week
 
-One of my favorites for a sit-down meal is **Oswego Grill**, serving wood-grilled steakhouse favorites in a casual, romantic restaurant with daily happy hours. You'll find it at 7 Centerpointe Dr, Lake Oswego.
+Looking to talk numbers over a great meal? **Tucci** is a favorite of mine downtown: Italian recipes meet Northwest ingredients at this refined, contemporary restaurant with a patio. You'll find it at 220 A Ave, Lake Oswego.
 
 ## Frequently asked questions
 
