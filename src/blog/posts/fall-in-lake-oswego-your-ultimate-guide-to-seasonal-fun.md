@@ -1,5 +1,5 @@
 ---
-title: "Fall in Lake Oswego: Trails, Markets and Harvest Events"
+title: "Fall in Lake Oswego: Trails, Markets and Pumpkin Patches"
 date: 2024-09-17
 updated: 2026-11-01
 description: "Fall in Lake Oswego: George Rogers Park trails, the farmers market, Lakewood Center for the Arts, pumpkin picking, Mount Sylvania and picnics."
@@ -27,33 +27,25 @@ On Saturday mornings during its season (usually May through October), the Lake O
 
 Autumn calls for cozy cafés with warm drinks and sweet treats. Visit [local favorites](/post/brunch-bliss-exploring-the-best-brunch-spots-in-lake-oswego-oregon) for a pumpkin spice latte or a maple scone. It’s the perfect way to take a break from your fall adventures and indulge in some seasonal comfort.
 
-### 4\. Take a Scenic Boat Cruise on the Lake
-
-Why not enjoy the fall colors from a different perspective? A boat cruise on Lake Oswego offers stunning views of the fall foliage reflected on the water. It’s a serene way to soak in the beauty of the season, and you might even spot some local wildlife along the way!
-
-### 5\. Visit the Lakewood Center for the Arts
+### 4\. Visit the Lakewood Center for the Arts
 
 For a dose of culture, head over to the Lakewood Center for the Arts (368 S State St, Lake Oswego, OR 97034). They often have fall-themed exhibitions and performances that will add a touch of sophistication to your seasonal activities. Check their schedule for art shows, theater performances, or workshops that might pique your interest.
 
-### 6\. Pumpkin Picking and Corn Mazes
+### 5\. Pumpkin Picking and Corn Mazes
 
 Get into the fall spirit with a visit to a nearby pumpkin patch or corn maze. There are a few fantastic spots just a short drive from Lake Oswego where you can pick out the perfect pumpkin for your front porch and navigate your way through a twisty maze. It’s classic fall fun at its finest!
 
-### 7\. Attend the Lake Oswego Harvest Festival
-
-This annual event is a highlight of the fall season in Lake Oswego. From live music and crafts to delicious food and activities for all ages, it’s a celebration of all things autumn. It’s a great way to connect with the community and enjoy the festive atmosphere.
-
-### 8\. Hike to the Top of Mount Sylvania
+### 6\. Hike to the Top of Mount Sylvania
 
 For those who love a good challenge with a reward at the end, hiking up Mount Sylvania to Nansen Summit Park offers panoramic views of the fall landscape. It’s a bit of a trek, but the view from the top is well worth it. Pack a thermos of hot cocoa and enjoy the spectacular scenery.
 
-### 9\. Enjoy a Fall Picnic at Foothills Park
+### 7\. Enjoy a Fall Picnic at Foothills Park
 
 Foothills Park (199 Foothills Rd, Lake Oswego, OR 97034) is another great spot for a fall picnic. With its lovely views of the Willamette River and ample space, you can spread out a blanket, bring a basket of seasonal goodies, and enjoy a relaxed meal surrounded by the beauty of fall. Don’t forget your warm blanket!
 
 ![Fall Picnic](/assets/img/blog/wix/11062b_7b0598ac8fa54f32a86b073839e75305.webp)
 
-### 10\. Get Crafty at a Local Workshop
+### 8\. Get Crafty at a Local Workshop
 
 Fall is a great time to get creative, and there are plenty of workshops in Lake Oswego where you can learn to make your own autumn-themed crafts. From wreath-making to painting, there’s something for everyone to enjoy and take home a handmade memento of the season.
 
