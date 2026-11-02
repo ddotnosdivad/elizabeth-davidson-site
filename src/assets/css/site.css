@@ -177,6 +177,8 @@ p { margin: 0 0 1em; }
 .post-tags { margin-top: 32px; padding-top: 18px; border-top: 1px solid #eee; font-size: 13px; color: var(--muted); }
 .post-cta { margin-top: 30px; padding: 26px; background: var(--navy); color: #fff; text-align: center; }
 .post-cta p { margin-bottom: 14px; }
+.related { margin-bottom: 30px; }
+.related .post-grid { padding-top: 12px; }
 
 /* Photo + text halves (Selling, Let's Work Together, Sotheby's) */
 .half { display: grid; grid-template-columns: 1fr 1fr; align-items: stretch; }

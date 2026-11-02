@@ -26,6 +26,22 @@
 # The old numbered list pages; the new blog is organised by section instead.
 /blog/page/*                                /blog                              301
 
+# Off-topic posts retired 2026-11-01 (BLOG-AUDIT.md section 2), each sent to the section it was filed under.
+/post/best-weeknight-recipes-for-busy-families                                         /blog/home-tips        301
+/post/kid-friendly-holiday-recipes-a-real-estate-agent-s-secret-sauce                  /blog/home-tips        301
+/post/hi-party-people-how-to-throw-the-ultimate-cinco-de-mayo-party-at-your-casa       /blog/home-tips        301
+/post/how-to-host-a-kentucky-derby-party-at-your-house                                 /blog/home-tips        301
+/post/make-mom-s-day-fun-ways-to-celebrate-mother-s-day-in-your-home                   /blog/home-tips        301
+/post/celebrating-father-s-day-in-style-fun-and-fabulous-ways-to-show-dad-some-love    /blog/home-tips        301
+/post/how-to-host-a-fun-memorial-day-bbq-for-family-friends                            /blog/home-tips        301
+/post/creating-cherished-thanksgiving-memories-fun-family-activities-to-share          /blog/home-tips        301
+/post/organize-like-a-pro-fun-and-fabulous-home-organization-tips                      /blog/home-tips        301
+/post/luxury-living-and-the-abcs-of-back-to-school-survival                            /blog/home-tips        301
+/post/staycation-sensation-turning-your-home-into-a-vacation-hotspot                   /blog/home-tips        301
+/post/keep-your-home-cool-without-blowing-your-budget                                  /blog/home-tips        301
+/post/navigating-the-holidays-a-real-estate-agent-s-guide-to-surviving-the-festive-season  /blog/buying-selling  301
+/post/unmasking-the-magic-of-real-estate-agents-your-partners-in-property-pursuits     /blog/buying-selling   301
+
 # Wix blog extras with no page of their own on the new site
 /blog/tags/*          /blog                  301
 /blog/hashtags/*      /blog                  301

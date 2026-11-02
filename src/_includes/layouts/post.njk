@@ -23,3 +23,10 @@ ogType: article
     <a class="btn btn-gold" href="#contact">Contact Elizabeth</a>
   </div>
 </article>
+{%- set posts = collections.posts | related(page.url, cities or [], section) %}
+{%- if posts.length %}
+<section class="related wrap" aria-labelledby="related-title">
+  <h2 id="related-title" class="section-title script">Keep Reading</h2>
+  {% include "partials/post-grid.njk" %}
+</section>
+{%- endif %}

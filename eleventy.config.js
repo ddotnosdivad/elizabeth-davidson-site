@@ -34,6 +34,15 @@ export default function (eleventyConfig) {
   const sectionData = () => JSON.parse(fs.readFileSync('src/_data/blogSections.json', 'utf8'));
   eleventyConfig.addFilter('sectionOf', (slugValue) => sectionData().find((s) => s.slug === slugValue));
   eleventyConfig.addFilter('inSection', (posts, section) => posts.filter((p) => p.data.section === section));
+  // "Keep Reading" box under a post: posts sharing a city first, then the same
+  // section, then the newest. `posts` is already newest-first, so ties stay newest.
+  eleventyConfig.addFilter('related', (posts, url, cities = [], section, n = 3) => {
+    const rank = (p) => ((p.data.cities || []).some((c) => cities.includes(c)) ? 0 : p.data.section === section ? 1 : 2);
+    return posts.filter((p) => p.url !== url)
+      .map((p, i) => ({ p, r: rank(p), i }))
+      .sort((a, b) => a.r - b.r || a.i - b.i)
+      .slice(0, n).map((x) => x.p);
+  });
 
   // Every listing page the blog needs, as one flat list a template can paginate over:
   // /blog/<section>[/page/N] (12 per page) and /blog/city-guides/<city>.
