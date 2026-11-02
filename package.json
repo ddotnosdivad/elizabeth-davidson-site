@@ -10,7 +10,8 @@
     "import-blog": "node scripts/import-wix-blog.mjs",
     "preview": "eleventy --quiet && node scripts/serve.mjs",
     "check-links": "node scripts/check-links.mjs",
-    "deploy": "node scripts/deploy.mjs"
+    "deploy": "node scripts/deploy.mjs",
+    "indexnow": "node scripts/indexnow.mjs"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0",
