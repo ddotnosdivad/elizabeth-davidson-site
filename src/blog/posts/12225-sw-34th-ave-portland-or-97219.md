@@ -2,6 +2,8 @@
 title: "12225 SW 34th Ave, Portland, OR: Home Backing to Greenspace"
 date: 2026-11-13
 description: "3-bed, 3-bath, 2,851 sq ft SW Portland home backing to protected greenspace, with kitchen skylights, a remodeled primary bath, bonus room and deck."
+image: "/assets/img/blog/listings/12225-sw-34th-ave-front.webp"
+imageAlt: "Green home with a wraparound deck and garage among tall trees"
 section: featured-listings
 cities: ["Portland"]
 ---
@@ -10,6 +12,8 @@ cities: ["Portland"]
 3 BED | 3 BATH | 2,851 SQ. FT. | 0.18 ACRES
 
 Privacy, natural light and a peaceful greenspace backdrop set the stage for my beautifully refreshed Southwest Portland listing. The home backs to protected greenspace, so it feels tucked away while everyday conveniences stay close.
+
+![Green home with a wraparound deck and garage among tall trees](/assets/img/blog/listings/12225-sw-34th-ave-front.webp)
 
 **[See every photo, the virtual tour and the current price on my listing page](https://elizabethdavidson.cascadehasson.com/realestate/details/19738715/12225-sw-34th-ave-portland-or-97219/234758321)**
 

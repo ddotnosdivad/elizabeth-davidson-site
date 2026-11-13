@@ -2,6 +2,8 @@
 title: "22391 SW Timber Crossing Ter, Sherwood, OR: Built in 2021"
 date: 2026-11-13
 description: "5-bed, 2.5-bath, 3,271 sq ft Sherwood home built in 2021, with a quartz-island kitchen, walk-in pantry, central air and a covered back patio."
+image: "/assets/img/blog/listings/22391-sw-timber-crossing-ter-front.webp"
+imageAlt: "Two-story gray craftsman-style home with a two-car garage and front lawn"
 section: featured-listings
 cities: ["Sherwood"]
 ---
@@ -10,6 +12,8 @@ cities: ["Sherwood"]
 5 BED | 2.5 BATH | 3,271 SQ. FT. | 0.11 ACRES | BUILT 2021
 
 Nearly new, beautifully maintained and truly move-in ready, my listing in Sherwood's Timber Crossing neighborhood brings together thoughtful design, upscale finishes and a neighborhood known for its community events.
+
+![Two-story gray craftsman-style home with a two-car garage and front lawn](/assets/img/blog/listings/22391-sw-timber-crossing-ter-front.webp)
 
 **[See every photo, the virtual tour and the current price on my listing page](https://elizabethdavidson.cascadehasson.com/realestate/details/19686734/22391-sw-timber-crossing-ter-sherwood-or-97140/142243226)**
 

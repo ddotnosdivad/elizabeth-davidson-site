@@ -2,6 +2,8 @@
 title: "9021 SW 14th Ave, Portland, OR: Hardwoods and a New Roof"
 date: 2026-11-13
 description: "3-bed, 1-bath, 960 sq ft SW Portland home with hardwood floors, a new roof and gutters (2026), fresh exterior paint and a tandem two-car garage."
+image: "/assets/img/blog/listings/9021-sw-14th-ave-front.webp"
+imageAlt: "Gray single-level home with a light blue front door and attached garage under yellow fall leaves"
 section: featured-listings
 cities: ["Portland"]
 ---
@@ -10,6 +12,8 @@ cities: ["Portland"]
 3 BED | 1 BATH | 960 SQ. FT. | 0.12 ACRES
 
 I'm excited to share my newest listing, a quaint, charming home in a central Southwest Portland location. It has the kind of warmth and character that's hard to find, and the big-ticket updates are already done.
+
+![Gray single-level home with a light blue front door and attached garage under yellow fall leaves](/assets/img/blog/listings/9021-sw-14th-ave-front.webp)
 
 **[See every photo, the virtual tour and the current price on my listing page](https://elizabethdavidson.cascadehasson.com/realestate/details/130855378/9021-sw-14th-ave-portland-or-97219/176332875)**
 
