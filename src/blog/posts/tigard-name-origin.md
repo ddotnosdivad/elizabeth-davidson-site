@@ -54,7 +54,7 @@ You'll find more of my posts about the city on my [Tigard city guide page](/blog
 
 ## Tigard business of the week
 
-Since so much of this story happened along Main Street, I'm picking a spot right there. A favorite of mine is **Taqueria La Fuente**, an unfussy venue for regional Mexican dishes from family recipes, with handmade tortillas and a happy hour. You'll find it at 12198 SW Main St, Tigard, OR 97223.
+Since so much of this story happened along Main Street, I'm picking a spot right there. A favorite of mine is **Thai Delicious Restaurant**, a straightforward spot for standard Thai specialties in casual surroundings. You'll find it at 12540 SW Main St #150, Tigard, OR 97223.
 
 ## Frequently asked questions
 
@@ -81,4 +81,4 @@ I love how much history hides in plain sight here. If you're curious about livin
 - [Tigard Public Library: Main Street History Tour (PDF)](https://www.tigard-or.gov/home/showpublisheddocument/1368/637692108221570000)
 - [National Park Service NPGallery: John W. Tigard House](https://npgallery.nps.gov/AssetDetail/NRIS/79003739)
 - [City of Tigard: Heritage Trail](https://www.engage.tigard-or.gov/heritagetrail)
-- [Taqueria La Fuente](https://taquerialafuente0275.s4shops.com/)
+- [Thai Delicious Restaurant](https://thaidelicioustigard.com/)
