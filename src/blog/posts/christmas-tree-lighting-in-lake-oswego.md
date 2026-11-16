@@ -3,8 +3,8 @@ title: "Lake Oswego Christmas Tree Lighting: Schedule and Tips"
 date: 2024-11-06
 updated: 2026-11-16
 description: "The 62nd Lake Oswego Tree Lighting Festival is Nov. 27, 2026 at Millennium Plaza Park, plus the Reunion Farmers' Market on Nov. 21. Times, details and tips."
-image: "/assets/img/blog/wix/11062b_fde9fa6b19d74291bd2df359da0545f5.webp"
-imageAlt: "Close-up of a Christmas tree decorated with red, gold and green ornaments and warm string lights"
+image: "/assets/img/blog/christmas-tree-lighting-in-lake-oswego.webp"
+imageAlt: "The Millennium tree lit in multicolored lights at night above the crowd at the Tree Lighting Festival, Millennium Plaza Park, Lake Oswego"
 section: city-guides
 cities: ["Lake Oswego"]
 wixTags: []
@@ -12,7 +12,7 @@ wixUrl: "https://www.elizabethdavidson.com/post/christmas-tree-lighting-in-lake-
 ---
 It’s that magical time of year when Lake Oswego starts to sparkle, and nothing kicks off the holiday season quite like the annual **Lake Oswego Tree Lighting Festival**! Whether you’ve been here for years or you’re brand new to town, this festive tradition is one you won’t want to miss. Picture a holiday marketplace, show choirs, Santa, reindeer and the big moment when the Millennium tree lights up downtown. It’s the perfect way to get into the holiday mood! And this year there’s a bonus: the Reunion Farmers’ Market lands in the very same park the Saturday before Thanksgiving.
 
-![Close-up of a Christmas tree decorated with red, gold and green ornaments and warm string lights](/assets/img/blog/wix/11062b_fde9fa6b19d74291bd2df359da0545f5.webp)
+![The Millennium tree lit in multicolored lights at night above the crowd at the Tree Lighting Festival, Millennium Plaza Park, Lake Oswego](/assets/img/blog/christmas-tree-lighting-in-lake-oswego.webp)
 
 If you want more holiday light displays, see the [best Christmas tree lightings in and around Portland](/post/the-best-christmas-tree-lightings-in-and-around-portland-or-your-guide-to-festive-fun).
 
