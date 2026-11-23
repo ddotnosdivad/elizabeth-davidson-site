@@ -102,3 +102,4 @@ I hope you get a chance to see the zoo glow this season! If you're thinking abou
 - [Oregon Zoo: Location and parking](https://www.oregonzoo.org/visit/location-and-parking)
 - [Portland Parks & Recreation: Washington Park](https://www.portland.gov/parks/washington-park)
 - [Fireside](https://pdxfireside.com/)
+- [The Move Genie: Living in Portland](https://themovegenie.com/oregon/livinginportland)

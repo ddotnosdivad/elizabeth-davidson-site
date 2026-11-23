@@ -87,3 +87,4 @@ Happy holidays from me to you! If you're curious about living in Portland, I'd l
 - [Winter Wonderland: About Us](https://winterwonderlandportland.com/about-us/)
 - [Winter Wonderland: Pricing](https://winterwonderlandportland.com/pricing/)
 - [Black Cat Frozen Custard & Coffee](https://www.blackcatfrozencustard.com/)
+- [The Move Genie: Living in Portland](https://themovegenie.com/oregon/livinginportland)

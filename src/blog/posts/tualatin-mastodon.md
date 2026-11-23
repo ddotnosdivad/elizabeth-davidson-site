@@ -97,3 +97,4 @@ I never get tired of the stories hiding in our local towns. If you're curious ab
 - [Tualatin Parks: Ibach Park](https://parks.tualatinoregon.gov/parks-trails/ibach-park/)
 - [Tualatin Parks: Community Arts Enhancement Commendation](https://parks.tualatinoregon.gov/arts-culture/community-arts-enhancement-commendation/)
 - [Mama's Teriyaki](https://www.mamasteriyakitualatin.com/)
+- [The Move Genie: Living in Tualatin](https://themovegenie.com/oregon/livingintualatin)

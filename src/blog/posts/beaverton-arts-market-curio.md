@@ -80,3 +80,4 @@ I hope you find something wonderful for someone special this season. If you're t
 - [The Reser: First Friday Art Walk](https://thereser.org/events/first-friday-art-walk/)
 - [The Reser: Visit (hours, transit and parking)](https://thereser.org/visit/)
 - [Mingo](https://mingowest.com/)
+- [The Move Genie: Living in Beaverton](https://themovegenie.com/oregon/livinginbeaverton)

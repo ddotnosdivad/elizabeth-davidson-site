@@ -82,3 +82,4 @@ I love a city whose name tells its own story. If you're curious about living in 
 - [Oregon Encyclopedia: Beaverton](https://www.oregonencyclopedia.org/articles/beaverton/)
 - [Downtown Beaverton: Beaverton history article by the Beaverton Historical Society historian](https://downtownbeaverton.org/?p=1032)
 - [Tom's Pancake House](https://tomspancakehouse.com/)
+- [The Move Genie: Living in Beaverton](https://themovegenie.com/oregon/livinginbeaverton)

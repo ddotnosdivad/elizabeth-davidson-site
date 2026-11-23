@@ -106,3 +106,4 @@ Looking for a new home to make your own holiday memories in Lake Oswego? I’d l
 - [City of Lake Oswego: Fall 2026 Activity Guide (PDF)](https://www.ci.oswego.or.us/sites/default/files/fileattachments/Fall2026_ActivityGuide_FINAL_Web.pdf)
 - [City of Lake Oswego: Community Events](https://www.ci.oswego.or.us/parksrec/community-events)
 - [Lake Oswego Coffee House & Wine Bar](https://locoffeehouse.com/)
+- [The Move Genie: Living in Lake Oswego](https://themovegenie.com/oregon/livinginlakeoswego)

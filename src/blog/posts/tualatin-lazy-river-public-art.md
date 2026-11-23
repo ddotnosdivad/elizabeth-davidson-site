@@ -89,3 +89,4 @@ I love that a city this size puts so much care into its art. If you're curious a
 - [Tualatin Historical Society: City art on display at the Heritage Center](https://www.tualatinhistory.org/did-you-know/city-art-on-display-at-the-heritage-center)
 - [City of Tualatin: ArtWalk brochure (2016, PDF)](https://old.tualatinoregon.gov/sites/default/files/fileattachments/parks_and_recreation/page/38911/06.15.16_artwalk_brochure-low_res.pdf)
 - [Miller's Homestead](https://millershomesteadrestaurant.com/)
+- [The Move Genie: Living in Tualatin](https://themovegenie.com/oregon/livingintualatin)

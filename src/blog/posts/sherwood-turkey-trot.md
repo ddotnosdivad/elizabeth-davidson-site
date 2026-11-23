@@ -95,3 +95,4 @@ I hope to see you out there on Thanksgiving morning! If you're thinking about li
 - [Give n' Gobble: Frequently Asked Questions](https://givengobble.com/questions/)
 - [Give n' Gobble: Our Story](https://givengobble.com/our-story/)
 - [Anderson's Tavern](https://www.andersonstavern.com/)
+- [The Move Genie: Living in Sherwood](https://themovegenie.com/oregon/livinginsherwood)

@@ -76,3 +76,4 @@ There's so much story packed into this town. If you're curious about living in T
 - [City of Tualatin Parks: Sweek Pond Natural Area](https://parks.tualatinoregon.gov/parks-trails/sweek-pond-natural-area/)
 - [City of Tualatin Parks: Park rules](https://parks.tualatinoregon.gov/explore/park-rules/)
 - [La Industria](https://www.laindustriatexmex.com/)
+- [The Move Genie: Living in Tualatin](https://themovegenie.com/oregon/livingintualatin)

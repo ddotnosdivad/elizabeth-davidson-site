@@ -88,3 +88,4 @@ I love sharing the stories behind the places we walk past every day. If you're c
 - [Lake Oswego Preservation Society: 1926 Forest Hills expansion](https://lakeoswegopreservationsociety.org/1926-forest-hills-expansion/)
 - [Lake Oswego Preservation Society: Iron Workers Cottage Museum](https://lakeoswegopreservationsociety.org/iron-workers-museum/)
 - [Gubanc's Restaurant](http://www.gubancspub.com/)
+- [The Move Genie: Living in Lake Oswego](https://themovegenie.com/oregon/livinginlakeoswego)

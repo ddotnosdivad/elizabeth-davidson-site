@@ -83,3 +83,4 @@ I hope to see you out there in Old Town this holiday season. If you're curious a
 - [City of Sherwood: 2003 Downtown Streetscapes Master Plan (PDF)](https://www.sherwoodoregon.gov/wp-content/uploads/2025/02/2003-Downtown-Streetscapes-Master-Plan.pdf)
 - [City of Sherwood: 2026 Trashpalooza event notice (Cannery Square parking)](https://www.sherwoodoregon.gov/events/2026-trashpalooza)
 - [BearKat Brewing Company](https://www.bearkatbrewing.com/)
+- [The Move Genie: Living in Sherwood](https://themovegenie.com/oregon/livinginsherwood)
