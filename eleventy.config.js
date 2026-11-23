@@ -8,6 +8,7 @@ export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ 'src/_redirects': '_redirects' });
   // IndexNow key file; Bing fetches it from the site root to verify ownership (scripts/indexnow.mjs).
   eleventyConfig.addPassthroughCopy({ 'src/e5d109e58241b7a98022b07b80e56088.txt': 'e5d109e58241b7a98022b07b80e56088.txt' });
+  eleventyConfig.addPassthroughCopy({ 'src/google7879344ea0a4b7a8.html': 'google7879344ea0a4b7a8.html' }); // Search Console ownership: never remove
   eleventyConfig.addGlobalData('year', new Date().getFullYear());
   // Appended to the stylesheet URL so each deploy busts browser caches.
   eleventyConfig.addGlobalData('buildVersion', Date.now().toString(36));
