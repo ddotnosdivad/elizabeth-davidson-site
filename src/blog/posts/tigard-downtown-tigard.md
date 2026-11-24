@@ -110,4 +110,5 @@ If you're thinking about living in Tigard, I'd love to hear from you and help yo
 - [TriMet bus stops (Metro RLIS)](https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/TriMet_Bus_System_stops/FeatureServer/0)
 - [Tigard-Tualatin School District school locator](https://app.guidek12.com/tigardtualatinor/school_search/2025/)
 - [Taqueria La Fuente](https://taquerialafuente0275.s4shops.com/)
+- [The Move Genie: Best Neighborhoods in Tigard](https://themovegenie.com/oregon/blog/tigard/tigard-best-neighborhoods)
 - [The Move Genie: Living in Tigard](https://themovegenie.com/oregon/livingintigard)

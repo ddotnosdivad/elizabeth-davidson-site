@@ -94,4 +94,5 @@ I update this report every month with the newest numbers. If you'd like to talk 
 
 - Zillow Research, Home Value Index and Observed Rent Index data: [zillow.com/research/data](https://www.zillow.com/research/data/)
 - Redfin Data Center, Housing Market Tracker: [redfin.com/news/data-center](https://www.redfin.com/news/data-center/)
+- [The Move Genie: The Lake Oswego Realtor's Perspective](https://themovegenie.com/oregon/blog/lake-oswego/lake-oswego-realtors-perspective)
 - [The Move Genie: Living in Lake Oswego](https://themovegenie.com/oregon/livinginlakeoswego)

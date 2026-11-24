@@ -95,4 +95,5 @@ Old Town is one of my favorite places to show people the roots of this city. If 
 - [City of Lake Oswego maps (GIS)](https://maps.ci.oswego.or.us/pub/)
 - [TriMet Line 35](https://trimet.org/schedules/r035.htm)
 - [The Dullahan Irish Pub](https://thedullahanpub.com/)
+- [The Move Genie: Best Neighborhoods in Lake Oswego](https://themovegenie.com/oregon/blog/lake-oswego/lake-oswego-best-neighborhoods)
 - [The Move Genie: Living in Lake Oswego](https://themovegenie.com/oregon/livinginlakeoswego)
