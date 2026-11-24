@@ -116,3 +116,8 @@ Because in a market like this, the best homes aren’t just found… they’re d
 Elizabeth Davidson
 
 Your Portland & Lake Oswego Real Estate Expert
+
+### Sources
+
+- [The Move Genie: Best Neighborhoods in Portland](https://themovegenie.com/oregon/blog/portland/portland-best-neighborhoods)
+- [The Move Genie: Living in Portland](https://themovegenie.com/oregon/livinginportland)

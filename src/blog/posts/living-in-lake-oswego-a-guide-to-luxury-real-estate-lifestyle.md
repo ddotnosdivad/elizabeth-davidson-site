@@ -94,3 +94,8 @@ If you’re looking for a balance of sophistication, natural beauty, and communi
 From lakefront estates to modern retreats, there’s a reason so many buyers set their sights on Lake Oswego.
 
 If you’re considering making a move, let’s connect. I’d love to help you explore what luxury living here could look like for you.
+
+### Sources
+
+- [The Move Genie: Best Neighborhoods in Lake Oswego](https://themovegenie.com/oregon/blog/lake-oswego/lake-oswego-best-neighborhoods)
+- [The Move Genie: Living in Lake Oswego](https://themovegenie.com/oregon/livinginlakeoswego)

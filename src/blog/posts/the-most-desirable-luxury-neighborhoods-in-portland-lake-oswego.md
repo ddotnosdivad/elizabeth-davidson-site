@@ -80,3 +80,10 @@ Elizabeth Davidson
 503.939.2035
 
 [elizabeth@elizabethdavidson.com](mailto:elizabeth@elizabethdavidson.com)
+
+### Sources
+
+- [The Move Genie: Best Neighborhoods in Portland](https://themovegenie.com/oregon/blog/portland/portland-best-neighborhoods)
+- [The Move Genie: Best Neighborhoods in Lake Oswego](https://themovegenie.com/oregon/blog/lake-oswego/lake-oswego-best-neighborhoods)
+- [The Move Genie: Living in Portland](https://themovegenie.com/oregon/livinginportland)
+- [The Move Genie: Living in Lake Oswego](https://themovegenie.com/oregon/livinginlakeoswego)

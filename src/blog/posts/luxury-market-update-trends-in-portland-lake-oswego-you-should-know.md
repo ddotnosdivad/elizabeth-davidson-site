@@ -177,3 +177,10 @@ The goal is for buyers to see the home’s full value the moment they walk throu
 The luxury markets in Portland and Lake Oswego remain resilient, but they require expertise and precision to navigate successfully. Whether you're considering listing your home or exploring available estates, staying informed on local trends is the first step toward making a confident move.
 
 If you’d like a customized analysis of your property or a curated look at current luxury opportunities, let’s connect.
+
+### Sources
+
+- [The Move Genie: The Portland Realtor's Perspective](https://themovegenie.com/oregon/blog/portland/portland-realtors-perspective)
+- [The Move Genie: The Lake Oswego Realtor's Perspective](https://themovegenie.com/oregon/blog/lake-oswego/lake-oswego-realtors-perspective)
+- [The Move Genie: Living in Portland](https://themovegenie.com/oregon/livinginportland)
+- [The Move Genie: Living in Lake Oswego](https://themovegenie.com/oregon/livinginlakeoswego)
